@@ -31,3 +31,4 @@ just_the_docs:
       # Supports true or false (default)
       # search_exclude: true
 color_scheme: foo
+$link-color: $blue-000;
