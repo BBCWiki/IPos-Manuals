@@ -4,7 +4,6 @@ layout: home
 ---
 
 # Release Notes
-$link-color: $blue-000;
 
 ## Version 1.24.4.0 - Date 28/03/2024
 
