@@ -12,22 +12,22 @@ layout: home
 
 BO → Goods Redistribution: Added new fields and functionality
 
-- added % sold, supplier name, supplier code, main (sale) price, ordered + loaded quantities from orders columns on the left (by product).
-- added ordered + loaded quantities on the right (by style).
-- added totals for quantities and average for % sold below the left grid (by product).
-- fixed calculation of totals for "in arrival from orders" (by product).
-- added % sold by color on the right.
-- sum the totals of sales if only sales is selected as a row type on the filter on the right (by style).
-- block the user to move a specific product+style to another store if the destination store already has the item in redistribution.
+- Added % sold, supplier name, supplier code, main (sale) price, ordered + loaded quantities from orders columns on the left (by product).
+- Added ordered + loaded quantities on the right (by style).
+- Added totals for quantities and average for % sold below the left grid (by product).
+- Fixed calculation of totals for "in arrival from orders" (by product).
+- Added % sold by color on the right.
+- Sum the totals of sales if only sales is selected as a row type on the filter on the right (by style).
+- Block the user to move a specific product+style to another store if the destination store already has the item in redistribution.
 
 BO → Goods Flow → Picking Lists
 
-- added the feature for the user to view for each picking list the generated packing lists.
+- Added the feature for the user to view for each picking list the generated packing lists.
 - Management of Picking List states - allow to generate a packing list only in state NEW
 
 BO → Goods Flow → Incoming Documents
 	
-- added the feature for the user to view for each entrance of goods the generated picking lists.
+- Added the feature for the user to view for each entrance of goods the generated picking lists.
 - In delivery documents details the user can only add Containers Type Packing Lists with the same destination as the delivery document or without destination
 
 BO → Goods Flow → Outgoing Documents
