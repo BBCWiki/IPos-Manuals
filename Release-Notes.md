@@ -68,9 +68,9 @@ The "Distribution" feature allows users to distribute merchandise proportionally
 
 **POS → Payment → E-Receipt**
 
-- **NewPaymentUserControl:** Added functionality to send the receipt via email to a registered contact with an email.
-- **MainPosForm:** Checking the new parameter StoreSetup PosEReceiptEnabled to enable the new functionality.
-- **EpsonFiscalPrinterIntelligent & EpsonFiscalPrinterIntelligentRT:** Added validations for the e-Receipt.
+- NewPaymentUserControl: Added functionality to send the receipt via email to a registered contact with an email.
+- MainPosForm: Checking the new parameter StoreSetup PosEReceiptEnabled to enable the new functionality.
+- EpsonFiscalPrinterIntelligent & EpsonFiscalPrinterIntelligentRT: Added validations for the e-Receipt.
 
 ### New Form
 
@@ -134,4 +134,4 @@ The Optical Products Form allows users to efficiently retrieve information about
 
 #### BO
 - Facit - FACIT - Error Credit Note for BUONO REGALO + Resources → 'Voucher manuale': Resolved error of credit note for Gift Voucher.
-- Buyer Plan:** Blocking editing as certified (from the list).
+- Buyer Plan: Blocking editing as certified (from the list).
