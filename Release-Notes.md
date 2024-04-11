@@ -9,6 +9,7 @@ layout: home
 
 ### Changes
 
+
 **BO → Goods Redistribution: Added new fields and functionality**
 
 - added % sold, supplier name, supplier code, main (sale) price, ordered + loaded quantities from orders columns on the left (by product).
@@ -37,6 +38,7 @@ layout: home
 
 ### New Features
 
+
 **BO → Work Order → Kit Configurator**
 
 - Added "Default Service" row type for kit configuration which allows adding a single product as a mandatory item inside the kit.
@@ -63,6 +65,7 @@ The "Distribution" feature allows users to distribute merchandise proportionally
 
 ### New Features
 
+
 **POS → Payment → E-Receipt**
 
 - **NewPaymentUserControl:** Added functionality to send the receipt via email to a registered contact with an email.
@@ -70,6 +73,7 @@ The "Distribution" feature allows users to distribute merchandise proportionally
 - **EpsonFiscalPrinterIntelligent & EpsonFiscalPrinterIntelligentRT:** Added validations for the e-Receipt.
 
 ### New Form
+
 
 **BO → Catalog → Optical Products**
 
@@ -98,6 +102,7 @@ The Optical Products Form allows users to efficiently retrieve information about
 ## Version 1.23.10.3 - Date 07/12/2023
 
 ### New Form
+
 
 **BO → Catalog → Optical Products**
 
