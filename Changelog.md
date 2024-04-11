@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Home
 title: Changelog
 nav_order: 4
 ---
