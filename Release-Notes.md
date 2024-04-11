@@ -10,7 +10,7 @@ layout: home
 ### Changes
 
 
-**BO → Goods Redistribution: Added new fields and functionality**
+BO → Goods Redistribution: Added new fields and functionality
 
 - added % sold, supplier name, supplier code, main (sale) price, ordered + loaded quantities from orders columns on the left (by product).
 - added ordered + loaded quantities on the right (by style).
@@ -20,17 +20,17 @@ layout: home
 - sum the totals of sales if only sales is selected as a row type on the filter on the right (by style).
 - block the user to move a specific product+style to another store if the destination store already has the item in redistribution.
 
-**BO → Goods Flow → Picking Lists**
+BO → Goods Flow → Picking Lists
 
 - added the feature for the user to view for each picking list the generated packing lists.
 - Management of Picking List states - allow to generate a packing list only in state NEW
 
-**BO → Goods Flow → Incoming Documents**
+BO → Goods Flow → Incoming Documents
 	
 - added the feature for the user to view for each entrance of goods the generated picking lists.
 - In delivery documents details the user can only add Containers Type Packing Lists with the same destination as the delivery document or without destination
 
-**BO → Goods Flow → Outgoing Documents**
+BO → Goods Flow → Outgoing Documents
 
 - Create containers without destinations type Packing lists from Entrance Goods
 
@@ -43,7 +43,7 @@ layout: home
 ### New Features
 
 
-**BO → Work Order → Kit Configurator**
+BO → Work Order → Kit Configurator
 
 - Added "Default Service" row type for kit configuration which allows adding a single product as a mandatory item inside the kit.
 - User will be prompted to add the default service automatically when saving the glasses configurator if not added manually and will add the minimum quantity required in the kit.
@@ -56,7 +56,7 @@ layout: home
 
 ### Distribution feature rework
 
-**BO → Goods Flow → Incoming Documents → Distribution Button**
+BO → Goods Flow → Incoming Documents → Distribution Button
 
 The "Distribution" feature allows users to distribute merchandise proportionally across multiple stores, with two distribution types:
      
@@ -70,7 +70,7 @@ The "Distribution" feature allows users to distribute merchandise proportionally
 ### New Features
 
 
-**POS → Payment → E-Receipt**
+POS → Payment → E-Receipt
 
 - NewPaymentUserControl: Added functionality to send the receipt via email to a registered contact with an email.
 - MainPosForm: Checking the new parameter StoreSetup PosEReceiptEnabled to enable the new functionality.
@@ -79,7 +79,7 @@ The "Distribution" feature allows users to distribute merchandise proportionally
 ### New Form
 
 
-**BO → Catalog → Optical Products**
+BO → Catalog → Optical Products
 
 Description:
 
@@ -102,13 +102,12 @@ The Optical Products Form allows users to efficiently retrieve information about
    - Information is updated in real-time based on the selected product.
 
 
-
 ## Version 1.23.10.3 - Date 07/12/2023
 
 ### New Form
 
 
-**BO → Catalog → Optical Products**
+BO → Catalog → Optical Products
 
 Description:
 
@@ -137,5 +136,6 @@ The Optical Products Form allows users to efficiently retrieve information about
 - ApplyNxMEffects: Renamed to Promo N x M.
 
 #### BO
+
 - Facit - FACIT - Error Credit Note for BUONO REGALO + Resources → 'Voucher manuale': Resolved error of credit note for Gift Voucher.
 - Buyer Plan: Blocking editing as certified (from the list).
