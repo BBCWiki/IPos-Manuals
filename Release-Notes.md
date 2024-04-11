@@ -86,19 +86,23 @@ Description:
 The Optical Products Form allows users to efficiently retrieve information about Frames, Contact Lenses, Pre-assembled Glasses, Accessories, and Ophthalmic Lenses.
 
 1. Product Search and Display:
+
    - Added functionality for searching and displaying product details.
    - Barcode, product ID, or product code can be entered for quick lookup.
 
-2. Product Selector:
-   - Introduced 5 buttons for quick access to major product categories (Frames, Contact Lenses, Pre-assembled Glasses, Accessories, Ophthalmic Lenses).
+3. Product Selector:
+
+    - Introduced 5 buttons for quick access to major product categories (Frames, Contact Lenses, Pre-assembled Glasses, Accessories, Ophthalmic Lenses).
    - Each button opens a specific selector for the chosen product type.
 
-3. Product Details:
+4. Product Details:
+
    - In the middle of the form, all characteristics of the selected product are displayed based on its type.
    - For contact lenses, variations are also presented.
 
-4. Grids for Sales, Orders, and Movements:
-   - Added 3 grid controls to display information about sales, orders, and movements of the selected product.
+5. Grids for Sales, Orders, and Movements:
+
+    - Added 3 grid controls to display information about sales, orders, and movements of the selected product.
    - Information is updated in real-time based on the selected product.
 
 
@@ -114,18 +118,22 @@ Description:
 The Optical Products Form allows users to efficiently retrieve information about Frames, Contact Lenses, Pre-assembled Glasses, Accessories, and Ophthalmic Lenses.
 
 1. Product Search and Display:
+ 
    - Added functionality for searching and displaying product details.
    - Barcode, product ID, or product code can be entered for quick lookup.
 
 2. Product Selector:
-   - Introduced 5 buttons for quick access to major product categories (Frames, Contact Lenses, Pre-assembled Glasses, Accessories, Ophthalmic Lenses).
+
+    - Introduced 5 buttons for quick access to major product categories (Frames, Contact Lenses, Pre-assembled Glasses, Accessories, Ophthalmic Lenses).
    - Each button opens a specific selector for the chosen product type.
 
-3. Product Details:
-   - In the middle of the form, all characteristics of the selected product are displayed based on its type.
+4. Product Details:
+
+    - In the middle of the form, all characteristics of the selected product are displayed based on its type.
    - For contact lenses, variations are also presented.
 
-4. Grids for Sales, Orders, and Movements:
+6. Grids for Sales, Orders, and Movements:
+
    - Added 3 grid controls to display information about sales, orders, and movements of the selected product.
    - Information is updated in real-time based on the selected product.
 
