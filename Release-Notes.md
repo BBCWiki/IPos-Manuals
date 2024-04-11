@@ -3,6 +3,7 @@ title: Release Notes
 layout: home
 ---
 
+<span class="fs-8">
 New release
 {: .label .label-purple }
 
