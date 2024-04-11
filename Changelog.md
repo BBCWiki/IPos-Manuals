@@ -42,7 +42,7 @@ item in redistribution.
 
 ### New Features
 
-#### BO → Work Order → Kit Configurator
+**BO → Work Order → Kit Configurator**
 
 - Added "Default Service" row type for kit configuration which allows adding a single product as a mandatory item inside the kit.
  - User will be prompted to add the default service automatically when saving the glasses configurator if not added manually and will add the minimum 
@@ -58,7 +58,7 @@ item in redistribution.
 
 ### Distribution feature rework
 
-#### BO → Goods Flow → Incoming Documents → Distribution Button
+**BO → Goods Flow → Incoming Documents → Distribution Button**
 
   The "Distribution" feature allows users to distribute merchandise proportionally across multiple stores, with two distribution types:
      
@@ -73,7 +73,7 @@ item in redistribution.
 
 ### New Features
 
-#### POS → Payment → E-Receipt
+**POS → Payment → E-Receipt**
 
 - **NewPaymentUserControl:** Added functionality to send the receipt via email to a registered contact with an email.
 - **MainPosForm:** Checking the new parameter StoreSetup PosEReceiptEnabled to enable the new functionality.
@@ -81,7 +81,7 @@ item in redistribution.
 
 ### New Form
 
-#### BO → Catalog → Optical Products
+**BO → Catalog → Optical Products**
 
 **Description:**
 The Optical Products Form allows users to efficiently retrieve information about Frames, Contact Lenses, Pre-assembled Glasses, Accessories, and Ophthalmic Lenses.
@@ -108,7 +108,7 @@ The Optical Products Form allows users to efficiently retrieve information about
 
 ### New Form
 
-#### BO → Catalog → Optical Products
+**BO → Catalog → Optical Products**
 
 **Description:**
 The Optical Products Form allows users to efficiently retrieve information about Frames, Contact Lenses, Pre-assembled Glasses, Accessories, and Ophthalmic Lenses.
