@@ -10,9 +10,10 @@ nav_order: 4
 
 ### Changes
 
-	** BO -> Goods Redistribution: Added new fields and functionality **
+	BO -> Goods Redistribution: Added new fields and functionality **
 
 	- added % sold, supplier name, supplier code, main (sale) price, ordered + loaded quantities from orders columns 
+
 on the left (by product).
 	- added ordered + loaded quantities on the right (by style).
 	- added totals for quantities and average for % sold below the left grid (by product).
@@ -23,16 +24,17 @@ on the left (by product).
 item in redistribution.
 
 
-	** BO -> Goods Flow -> Picking Lists** 
+	BO -> Goods Flow -> Picking Lists** 
 	- added the feature for the user to view for each picking list the generated packing lists.
 	- Management of Picking List states - allow to generate a packing list only in state NEW
 
-	** BO -> Goods Flow -> Incoming Documents **
+	BO -> Goods Flow -> Incoming Documents **
 	- added the feature for the user to view for each entrance of goods the generated picking lists.
 	- In delivery documents details the user can only add Containers Type Packing Lists with the same destination
+
  as the delivery document or without destination
 
-	** BO -> Goods Flow -> Outgoing Documents **
+	BO -> Goods Flow -> Outgoing Documents **
         - Create containers without destinations type Packing lists from Entrance Goods
 
 
@@ -40,11 +42,11 @@ item in redistribution.
 
 ### New Features
 
-- **BO → Work Order → Kit Configurator**
+#### BO → Work Order → Kit Configurator
 
-    - Added "Default Service" row type for kit configuration which allows adding a single product as a mandatory item inside the kit.
-    - User will be prompted to add the default service automatically when saving the glasses configurator if not added manually and will add the minimum 
-      quantity required in the kit.
+- Added "Default Service" row type for kit configuration which allows adding a single product as a mandatory item inside the kit.
+ - User will be prompted to add the default service automatically when saving the glasses configurator if not added manually and will add the minimum 
+ quantity required in the kit.
 
 - **Sync in download contact**
 
@@ -56,14 +58,14 @@ item in redistribution.
 
 ### Distribution feature rework
 
-- **BO → Goods Flow → Incoming Documents → Distribution Button**
+#### BO → Goods Flow → Incoming Documents → Distribution Button
 
-     The "Distribution" feature allows users to distribute merchandise proportionally across multiple stores, with two distribution types:
+  The "Distribution" feature allows users to distribute merchandise proportionally across multiple stores, with two distribution types:
      
-     - 'PF' (based on product family) and 'FR' (without product family restrictions).
-     -  After selecting the percentages, users can manually adjust percentages for each store.
-     -  The distribution type cannot be changed from the "Distribution Form", but percentages can be modified.
-     -  After verifying the distribution, users can generate picking lists for each store using the "Generate Picking Lists" button.
+- 'PF' (based on product family) and 'FR' (without product family restrictions).
+- After selecting the percentages, users can manually adjust percentages for each store.
+- The distribution type cannot be changed from the "Distribution Form", but percentages can be modified.
+- After verifying the distribution, users can generate picking lists for each store using the "Generate Picking Lists" button.
 
 
 
