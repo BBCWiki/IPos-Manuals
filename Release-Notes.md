@@ -47,9 +47,7 @@ BO → Work Order → Kit Configurator
 
 - Added "Default Service" row type for kit configuration which allows adding a single product as a mandatory item inside the kit.
 - User will be prompted to add the default service automatically when saving the glasses configurator if not added manually and will add the minimum quantity required in the kit.
-
 - Sync in download contact
-
 - Download of a contact created in other store than the current one will now download the contact's prescriptions as well.
 
 ## Version 1.24.3.0 - Date 15/03/2024
