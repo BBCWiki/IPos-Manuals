@@ -3,10 +3,6 @@ title: Release Notes
 layout: home
 ---
 
-<span class="fs-8">
-New release
-{: .label .label-purple }
-
 ## Version 1.24.4.0 - Date 28/03/2024
 
 ### Changes
