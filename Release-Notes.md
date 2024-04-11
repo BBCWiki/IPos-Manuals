@@ -9,7 +9,7 @@ layout: home
 
 ### Changes
 
-**BO -> Goods Redistribution: Added new fields and functionality**
+**BO → Goods Redistribution: Added new fields and functionality**
 
 - added % sold, supplier name, supplier code, main (sale) price, ordered + loaded quantities from orders columns on the left (by product).
 - added ordered + loaded quantities on the right (by style).
@@ -19,17 +19,17 @@ layout: home
 - sum the totals of sales if only sales is selected as a row type on the filter on the right (by style).
 - block the user to move a specific product+style to another store if the destination store already has the item in redistribution.
 
-**BO -> Goods Flow -> Picking Lists**
+**BO → Goods Flow → Picking Lists**
 
 - added the feature for the user to view for each picking list the generated packing lists.
 - Management of Picking List states - allow to generate a packing list only in state NEW
 
-**BO -> Goods Flow -> Incoming Documents**
+**BO → Goods Flow → Incoming Documents**
 	
 - added the feature for the user to view for each entrance of goods the generated picking lists.
 - In delivery documents details the user can only add Containers Type Packing Lists with the same destination as the delivery document or without destination
 
-**BO -> Goods Flow -> Outgoing Documents**
+**BO → Goods Flow → Outgoing Documents**
 
 - Create containers without destinations type Packing lists from Entrance Goods
 
