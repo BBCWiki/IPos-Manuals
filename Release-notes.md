@@ -9,9 +9,9 @@ layout: home
 
 ### Changes
 
-	BO -> Goods Redistribution: Added new fields and functionality **
+BO -> Goods Redistribution: Added new fields and functionality
 
-	- added % sold, supplier name, supplier code, main (sale) price, ordered + loaded quantities from orders columns 
+- added % sold, supplier name, supplier code, main (sale) price, ordered + loaded quantities from orders columns 
 
 on the left (by product).
 	- added ordered + loaded quantities on the right (by style).
@@ -22,20 +22,18 @@ on the left (by product).
 	- block the user to move a specific product+style to another store if the destination store already has the 
 item in redistribution.
 
+BO -> Goods Flow -> Picking Lists** 
 
-	BO -> Goods Flow -> Picking Lists** 
-	- added the feature for the user to view for each picking list the generated packing lists.
-	- Management of Picking List states - allow to generate a packing list only in state NEW
+- added the feature for the user to view for each picking list the generated packing lists.
+- Management of Picking List states - allow to generate a packing list only in state NEW
 
-	BO -> Goods Flow -> Incoming Documents **
+BO -> Goods Flow -> Incoming Documents **
 	- added the feature for the user to view for each entrance of goods the generated picking lists.
-	- In delivery documents details the user can only add Containers Type Packing Lists with the same destination
+	- In delivery documents details the user can only add Containers Type Packing Lists with the same destination as the delivery document or without destination
 
- as the delivery document or without destination
+BO -> Goods Flow -> Outgoing Documents **
 
-	BO -> Goods Flow -> Outgoing Documents **
-        - Create containers without destinations type Packing lists from Entrance Goods
-
+- Create containers without destinations type Packing lists from Entrance Goods
 
 ## Version 1.24.3.1 - Date 15/03/2024 
 
@@ -49,9 +47,7 @@ item in redistribution.
 
 - **Sync in download contact**
 
-    - Download of a contact created in other store than the current one will now download the contact's prescriptions as well.
-
-
+- Download of a contact created in other store than the current one will now download the contact's prescriptions as well.
 
 ## Version 1.24.3.0 - Date 15/03/2024
 
