@@ -131,11 +131,11 @@ The Optical Products Form allows users to efficiently retrieve information about
 
 ### Changes
 
-#### POS
+ POS
 
 - ApplyNxMEffects: Renamed to Promo N x M.
 
-#### BO
+ BO
 
 - Facit - FACIT - Error Credit Note for BUONO REGALO + Resources → 'Voucher manuale': Resolved error of credit note for Gift Voucher.
 - Buyer Plan: Blocking editing as certified (from the list).
