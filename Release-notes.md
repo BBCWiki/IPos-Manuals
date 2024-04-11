@@ -32,7 +32,7 @@ item in redistribution.
  - added the feature for the user to view for each entrance of goods the generated picking lists.
 - In delivery documents details the user can only add Containers Type Packing Lists with the same destination as the delivery document or without destination
 
-BO -> Goods Flow -> Outgoing Documents **
+**BO -> Goods Flow -> Outgoing Documents**
 
 - Create containers without destinations type Packing lists from Entrance Goods
 
