@@ -1,6 +1,7 @@
 ---
 title: Release Notes
 layout: home
+color: blue
 ---
 
 # Release Notes
