@@ -1,7 +1,8 @@
 ---
-title: Release Notes
-layout: home
-color: blue
+callouts:
+  Release Notes:
+    title:  Release Notes
+    color: blue
 ---
 
 # Release Notes
