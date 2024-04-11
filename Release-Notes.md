@@ -34,6 +34,10 @@ layout: home
 
 - Create containers without destinations type Packing lists from Entrance Goods
 
+### Fixes
+
+- Fixed a bug in which the generic article was losing its custom name upon saving an entrance of goods.
+
 ## Version 1.24.3.1 - Date 15/03/2024 
 
 ### New Features
