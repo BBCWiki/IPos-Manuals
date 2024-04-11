@@ -3,10 +3,12 @@ title: Release Notes
 layout: home
 ---
 
+# Release Notes
+{: .btn .btn-blue }
+
 ## Version 1.24.4.0 - Date 28/03/2024
 
 ### Changes
-
 
 BO → Goods Redistribution: Added new fields and functionality
 
