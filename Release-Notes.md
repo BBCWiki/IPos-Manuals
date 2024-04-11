@@ -4,7 +4,7 @@ layout: home
 ---
 
 # Release Notes
-{: .btn .btn-blue }
+{: .Release Notes .btn-blue }
 
 ## Version 1.24.4.0 - Date 28/03/2024
 
