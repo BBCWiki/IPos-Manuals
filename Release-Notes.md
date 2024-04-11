@@ -1,8 +1,7 @@
 ---
-callouts:
-  Release Notes:
-    title:  Release Notes
-    color: blue
+layout: default
+title: Release Notes
+nav_order: 4
 ---
 
 # Release Notes
