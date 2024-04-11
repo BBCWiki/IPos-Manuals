@@ -5,7 +5,7 @@ layout: home
 
 # Release Notes
 
-## Version 1.24.3.5 - Date 28/03/2024
+## Version 1.24.4.0 - Date 28/03/2024
 
 ### Changes
 
