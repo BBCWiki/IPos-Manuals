@@ -1,5 +1,5 @@
 ---
-title: Changelog
+title: Release Notes
 layout: home
 ---
 
