@@ -4,7 +4,7 @@ layout: home
 ---
 
 # Release Notes
-{: .Release Notes .btn-blue }
+$link-color: $blue-000;
 
 ## Version 1.24.4.0 - Date 28/03/2024
 
