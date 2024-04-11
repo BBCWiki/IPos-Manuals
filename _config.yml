@@ -30,5 +30,6 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true
-color_scheme: foo
-$link-color: $blue-000;
+# Enable or disable the search button that appears in the bottom right corner of every page
+# Supports true or false (default)
+search.button: true
