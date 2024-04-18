@@ -35,7 +35,7 @@ Per effettuare la ricerca di un articolo sfruttando l’elenco dei filtri situat
 ![image2](https://github.com/BBCWiki/Manuals-IPos/assets/166375916/d8511856-1edd-453c-92fc-22f021c96188)
 
 **2** →  Espandere il drop menu da utilizzare per filtrare gli articoli che
-interessano (FIG. 2)
+interessano 
 
 ![image3](https://github.com/BBCWiki/Manuals-IPos/assets/166375916/b17fe4b8-c45a-48cf-8814-7cebeeec982e)
 
