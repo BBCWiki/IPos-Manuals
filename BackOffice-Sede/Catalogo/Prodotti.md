@@ -19,36 +19,26 @@ degli articoli del cliente. In questo menu si potranno cercare i
 prodotti attraverso le colonne della griglia, oppure tramite i filtri
 situati sulla sinistra della pagina.
 
-Per ricercare un prodotto attraverso le colonne basterà scrivere
-all’interno delle stesse il nome, il codice, oppure parte del nome o del
-codice che ci interessa cercare.
+Per ricercare un prodotto attraverso le colonne basterà scrivere all’interno delle stesse il nome, il codice, oppure parte del nome o del codice che ci interessa cercare.
 
-Un’ altra alternativa potrebbe essere inserire un “Barcode, Icode,
-Codice Prodotto, Nome prodotto” nel
+Un’ altra alternativa potrebbe essere inserire un “**Barcode**, **Icode**, **Codice Prodotto**, **Nome prodotto**” nel Box menu di ricerca
 
-Box menu di ricerca
-
-Per esempio;
-
-qualora si volessero cercare tutti gli articoli appartenenti alla
-categoria “Pantalone”, basterà scrivere nell’intestazione della colonna
-nominata “Sottofamiglia”, il nome o parte
-dello stesso.
+Per esempio; qualora si volessero cercare tutti gli articoli appartenenti alla categoria “Pantalone”, basterà scrivere nell’intestazione della colonna nominata “Sottofamiglia”, il nome o parte dello stesso.
 
 ![image1](https://github.com/BBCWiki/Manuals-IPos/assets/166375916/aa195b4e-e50a-42d3-86b1-6f8e6c5dffb1)
 
 
-Per effettuare la ricerca di un articolo sfruttando l’elenco dei filtri
-situati sulla sinistra si procede nel seguente modo:
+Per effettuare la ricerca di un articolo sfruttando l’elenco dei filtri situati sulla sinistra si procede nel seguente modo:
 
-**1**
+**1**  →  Cliccare sul triangolo nero accanto ad ogni voce 
 
-Cliccare sul triangolo nero accanto ad ogni voce (FIG. 1)
+![image2](https://github.com/BBCWiki/Manuals-IPos/assets/166375916/d8511856-1edd-453c-92fc-22f021c96188)
 
-**2**
-
-Espandere il drop menu da utilizzare per filtrare gli articoli che
+**2** →  Espandere il drop menu da utilizzare per filtrare gli articoli che
 interessano (FIG. 2)
+
+![image3](https://github.com/BBCWiki/Manuals-IPos/assets/166375916/b17fe4b8-c45a-48cf-8814-7cebeeec982e)
+
 
 **3**
 
