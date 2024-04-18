@@ -21,7 +21,7 @@ Per ricercare un prodotto attraverso le colonne basterà scrivere all’interno 
 
 Un’ altra alternativa potrebbe essere inserire un “**Barcode**, **Icode**, **Codice Prodotto**, **Nome prodotto**” nel Box menu di ricerca
 
-Per esempio; qualora si volessero cercare tutti gli articoli appartenenti alla categoria “Pantalone”, basterà scrivere nell’intestazione della colonna nominata “Sottofamiglia”, il nome o parte dello stesso.
+Per esempio; qualora si volessero cercare tutti gli articoli appartenenti alla categoria `Pantalone`, basterà scrivere nell’intestazione della colonna nominata “Sottofamiglia”, il nome o parte dello stesso.
 
 ![image1](https://github.com/BBCWiki/Manuals-IPos/assets/166375916/aa195b4e-e50a-42d3-86b1-6f8e6c5dffb1)
 
