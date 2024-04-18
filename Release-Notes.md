@@ -5,7 +5,9 @@ nav_order: 4
 ---
 
 # Release Notes
+
 ## Version 1.24.4.4 - Date 12/04/2024
+
 ### CHANGES
 
 BO -> Reports A4 -> Ricevuto x classe x prezzo
@@ -15,6 +17,7 @@ BO -> Active promotions
  - Added the possibility to see the price variations made for products in a specific day alongside the promotions on the active promotions form.
 
 ##  Version 1.24.4.3 - Date 10/04/2024
+
 ### FIXED BUG
 
 - The issue where the revealed quantity of a new product did not accumulate correctly when a container was added in an entrance of goods has been rectified.
