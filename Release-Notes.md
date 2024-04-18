@@ -5,6 +5,21 @@ nav_order: 4
 ---
 
 # Release Notes
+## Version 1.24.4.4 - Date 12/04/2024
+### CHANGES
+
+BO -> Reports A4 -> Ricevuto x classe x prezzo
+ - Changed report to be able to see goods received even if not ordered or from entrances/orders made without a buyer plan.
+  
+BO -> Active promotions
+ - Added the possibility to see the price variations made for products in a specific day alongside the promotions on the active promotions form.
+
+##  Version 1.24.4.3 - Date 10/04/2024
+### FIXED BUG
+
+- The issue where the revealed quantity of a new product did not accumulate correctly when a container was added in an entrance of goods has been rectified.
+ -Users can now access the details of a product container even when it does not have a specified destination
+
 
 ## Version 1.24.4.0 - Date 28/03/2024
 
