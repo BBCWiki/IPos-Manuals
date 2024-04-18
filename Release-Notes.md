@@ -21,6 +21,7 @@ BO -> Active promotions
 ### FIXED BUG
 
 - The issue where the revealed quantity of a new product did not accumulate correctly when a container was added in an entrance of goods has been rectified.
+
 - Users can now access the details of a product container even when it does not have a specified destination
 
 
