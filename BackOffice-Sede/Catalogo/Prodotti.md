@@ -6,13 +6,11 @@ grand_parent: BackOffice Sede
 nav_order: 3
 ---
 
-# IPOS
+# IPOS - CATALOGO
 
-***CATALOGO***
+## PRODOTTI:
 
-# ***PRODOTTI:***
-
-## **RICERCARE ARTICOLI:**
+### **RICERCARE ARTICOLI:**
 
 Nel Catalogo dei prodotti di IPOS vi è racchiusa l’intera anagrafica
 degli articoli del cliente. In questo menu si potranno cercare i
