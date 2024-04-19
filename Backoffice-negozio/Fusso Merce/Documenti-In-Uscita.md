@@ -6,11 +6,9 @@ grand_parent: Backoffice negozio
 nav_order: 4
 ---
 
-# ***FLUSSO MERCE***
+## DOCUMENTI IN USCITA:
 
-## ***DOCUMENTI IN USCITA:***
-
-- **RICERCARE DDT:**
+### **RICERCARE DDT:**
 
 Nel menu “Documenti in uscita” vi sono contenuti tutti i documenti di magazzino “DDT o Documenti di Triangolazione ecc.”, utilizzati perl’invio della merce tra Negozi o, tra Sede e Negozi.
 
@@ -26,19 +24,16 @@ qualora si volessero cercare tutti i documenti in uscita verso un negozio in par
 
 Inizialmente di default, verranno mostrati circa qualche centinaio di Documenti in uscita ma, tramite l’apposito tool di ricerca, sarà possibile avere visualizzati a video tutto lo storico dei movimenti per quanto riguarda tutti i negozi, un negozio in particolare, un cliente o un determinato fornitore.
 
-Per utilizzare il tool, si dovrà premere sull’icona grigia a forma di
-“Imbuto”
+Per utilizzare il tool, si dovrà premere sull’icona grigia a forma di “Imbuto”
 
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/83f2b112-6944-479f-818d-35547ab44519)
-
 
 Inseguito si aprirà la seguente finestra, all’interno della quale, selezionare i dettagli per la ricerca tramite gli appositi “drop menu” e “checkbox “
 
 ![image4](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/f7a88f1e-ca51-4d1f-9ad1-378a46c3d9df)
 
 
-Selezionare dunque un range di data, la tipologia di Destinazione per
-esempio PV.
+Selezionare dunque un range di data, la tipologia di Destinazione per esempio PV.
 
 Verrà chiesto di selezionare un negozio in particolare.
 
@@ -51,13 +46,11 @@ Dopo aver scelto il negozio, si potrà filtrare ulteriormente selezionando lo st
 
 - **CANCELLARE DDT:**
 
-Per cancellare i documenti in uscita in IPOS utilizzare i seguenti
-passaggi:
+Per cancellare i documenti in uscita in IPOS utilizzare i seguenti passaggi:
 
 **1.** Selezionare uno o più documenti (se i documenti sono l’uno in fila all’altro ,tenere premuto il tasto shift della tastiera mentre si seleziona con il mouse o, tener premuto il tasto CTRL per selezionare documenti non contigui)
 
-**2.** Dopo aver individuato i documenti in uscita da eliminare, selezionare
-l’icona rossa a forma di “X”
+**2.** Dopo aver individuato i documenti in uscita da eliminare, selezionare l’icona rossa a forma di `X`
 
 ![image7](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/83be5995-5b71-4e97-ae6a-c6f298ed2428)
 
@@ -79,12 +72,11 @@ Per creare nuovi documenti in uscita in IPOS utilizzare i seguenti passaggi:
 
 ![image10](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/cf5527a7-ca5f-46a6-bd19-40a1f83db501)
 
-Dopo aver selezionato i dati desiderati, IPOS compilerà in automatico i dati anagrafici del negozio, cliente o
-fornitore che è stato scelto.
+Dopo aver selezionato i dati desiderati, IPOS compilerà in automatico i dati anagrafici del negozio, cliente o fornitore che è stato scelto.
 
 ![image11](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d4dfad69-5e42-4517-8948-d0638ad6d3cf)
 
-Premere “OK” per far si che si apra la tab di inserimento articoli del documento in uscita appena generato
+Premere `OK` per far si che si apra la tab di inserimento articoli del documento in uscita appena generato
 
 ![image12](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/6170faaa-b7e2-40a7-8e9e-dcf52bc65be0)
 
@@ -111,7 +103,7 @@ All’interno della tab di inserimento potremo:
 
 Esistono più metodi per inserire gli articoli in un documento in uscita.
 
-**1A.** Selezionare l’Icona contraddistinta dal simbolo “+”
+**1A.** Selezionare l’Icona contraddistinta dal simbolo `+`
 
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3331e108-9423-45d8-9943-999336a42467)
 
@@ -123,47 +115,35 @@ Per effettuare la ricerca di un articolo sfruttando l’elenco dei filtri situat
 
 **A.** Cliccare sul triangolo nero accanto ad ogni voce (FIG. 1)
 
-**B.** Espandere il drop menu da utilizzare per filtrare gli articoli che
-interessano (FIG. 2)
+![image15](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3115e27b-9565-40bd-9271-eca20c6374af)
+
+**B.** Espandere il drop menu da utilizzare per filtrare gli articoli che interessano (FIG. 2)
+
+![image16](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ab2a90c7-8eac-4c52-be15-47d5bac3a20f)
 
 **C.** Inserire il testo nell’apposito riquadro, o scorrere lo scroll bar per
 scegliere (mettendo la spunta nei riquadri) come filtrare gli articoli
 (FIG. 2)
+
+![image16](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ab2a90c7-8eac-4c52-be15-47d5bac3a20f)
 
 **D.** Nella sezione “Altri Filtri”, troverete sia dei filtri secondari
 (prezzo, linkage, tessuto, genere, tipo prodotto, classe) ed anche degli
 Attributi speciali, attraverso i quali il cliente può riportare
 specifiche personalizzate a suo piacimento. (FIG. 3)
 
-**E** Per espandere il sottomenu “Altri Filtri” premere sulla freccetta a
-destra della scritta. (FIG. 4)
-
-### FIG. 1
-
-![image15](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3115e27b-9565-40bd-9271-eca20c6374af)
-
-
-### FIG. 2 
-
-![image16](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ab2a90c7-8eac-4c52-be15-47d5bac3a20f)
-
-### FIG. 3
-
 ![image17](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a468e362-9079-4f14-89a5-0c5e470ba49c)
 
-
-### FIG. 4
+**E.** Per espandere il sottomenu “Altri Filtri” premere sulla freccetta a
+destra della scritta. (FIG. 4)
 
 ![image18](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/095fc752-963f-4054-a488-4c535aba2674)
-
 
 **F.** Dopo aver ultimato di filtrare tra i prodotti, selezionare il tutto (tutti gli articoli o in parte) tramite l’apposito checkbox, e premere sull’Icona verde per dare conferma ed inserire gli articoli selezionati nelle righe del documento in uscita
 
 ![image19](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/44e2a0ed-e02b-414c-b0a6-d5fb0ae4ddbb)
 
-**G.**
-
-Inizialmente gli articoli saranno inseriti senza quantità (FIG. 1), 
+**G.** Inizialmente gli articoli saranno inseriti senza quantità (FIG. 1), 
 
 ![image20](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5b184902-2178-45c7-946c-43f17592d35a)
 
@@ -171,21 +151,17 @@ si dovrà dunque intervenire manualmente all’inserimento delle quantità per o
 
 ![image21](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/29f494d0-c06c-4482-a0b0-2442654e7770)
 
-
-
 **1B.** Selezionare l’Icona contraddistinta dal “foglio bianco ed il simbolo +”
 
 ![image13](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/90116a51-1294-445f-b380-1e529dac20a3)
 
 
-**IMPORTANTE:** **SE** abilitati gli “**STORE SETUP**” (si abilitano sulla Sede ed arrivano sui Negozi)
-BarcodeTerminal, i negozi saranno abilitati all’utilizzo di un Palmare (ad esempio il Motorola Symbol) per lo scarico dei barcode all’interno delle righe del documento in uscita.
+> **_IMPORTANTE_:** **SE** abilitati gli “**STORE SETUP**” (si abilitano sulla Sede ed arrivano sui Negozi) BarcodeTerminal, i negozi saranno abilitati all’utilizzo di un Palmare (ad esempio il Motorola Symbol) per lo scarico dei barcode all’interno delle righe del documento in uscita.
 
 ![image22](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/366caba7-91fd-4301-ace3-2d23b77f8335)
 
 
-In seguito si aprirà una finestra per cercare il file txt che in precedenza è stato trasferito
-dal Palmare al PC. Dopo aver individuato il file, selezionarlo e premere OK per far si che gli articoli all’interno del file vengano riportarti nelle righe del documento in uscita in IPOS
+In seguito si aprirà una finestra per cercare il file txt che in precedenza è stato trasferito dal Palmare al PC. Dopo aver individuato il file, selezionarlo e premere OK per far si che gli articoli all’interno del file vengano riportarti nelle righe del documento in uscita in IPOS
 
 ![image23](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/f62c5430-223d-4690-bb80-8665d32f1e52)
 
@@ -195,8 +171,7 @@ Premere sull’icona contraddistinta da un “floppy disk” per salvare il docu
 
 ![image13](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/893d0a74-e43c-4c07-9f23-eaac9dac8d46)
 
-Se per caso ci sono articoli senza quantità, IPOS domanderà se si vuole proseguire con il salvataggio
-dei dati escludendo gli articoli con quantità zero
+Se per caso ci sono articoli senza quantità, IPOS domanderà se si vuole proseguire con il salvataggio dei dati escludendo gli articoli con quantità zero
 
 ![image24](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a0e96c99-1587-4011-91d2-81e01145df35)
 
@@ -220,8 +195,7 @@ Possiamo dunque:
 
 - Eliminare uno o più articoli
 
-**3A.** Per **cambiare** la quantità degli articoli, basterà selezionare l’articolo, il colore e la taglia
-che interessa modificare e, inserire la quantità desiderata.
+**3A.** Per **cambiare** la quantità degli articoli, basterà selezionare l’articolo, il colore e la taglia che interessa modificare e, inserire la quantità desiderata.
 
 ![image27](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5a4ed6d8-72cf-4a5c-aa90-ce7d7575651e)
 
@@ -230,7 +204,7 @@ Dopo aver **modificato**, premere poi sull’apposita Icona contraddistinta dal 
 ![image28](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/bf235af1-fb5b-47d6-9724-d9982dc58da9)
 
 
-**3B** Per **ELIMINARE** uno o più articoli dal documento in uscita, basteràselezionare gli articolo e premere l’icona contraddistinta dalla “X” rossa e premere si per confermare.
+**3B** Per **ELIMINARE** uno o più articoli dal documento in uscita, basteràselezionare gli articolo e premere l’icona contraddistinta dalla `X` rossa e premere si per confermare.
 
 ![image29](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/e068f558-11af-4494-8814-d02d912caf9b)
 
@@ -275,7 +249,7 @@ Per certificare il documento, entrare nel documento, premere sull’icona del �
 
 ![image35](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/cd319b78-a12b-41bc-859d-a8a98754dc4f)
 
-IPOS chiederà conferma per certificare il documento, premere “ok” per chiudere il documento.
+IPOS chiederà conferma per certificare il documento, premere `OK` per chiudere il documento.
 
 ![image36](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/0bcf4e1e-75a4-45a9-8965-fff42aade15a)
 
@@ -285,7 +259,7 @@ In seguito IPOS, assegnerà un numero “Autogenerato” al documento.
 ![image37](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2c145077-08b7-45c5-98d7-092df78c1b34)
 
 
-Premendo su OK, IPOS salverà il documento nell’elenco dei documenti inuscita, assegnandogli il numero documento “Autogenarato” che in questo caso è 1
+Premendo su `OK`, IPOS salverà il documento nell’elenco dei documenti inuscita, assegnandogli il numero documento “Autogenarato” che in questo caso è 1
 
 ![image38](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a9c4077d-42d3-412f-a3e3-b7b2c2a8d01d)
 
