@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Documenti In Uscita
+title: Documenti-In-Uscita
 parent: Flusso Merce
 grand_parent: BackOffice-negozio
 nav_order: 3
