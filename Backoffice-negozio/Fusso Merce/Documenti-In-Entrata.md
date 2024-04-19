@@ -44,17 +44,17 @@ Dopo aver scelto il negozio, si potrà filtrare ulteriormente selezionando lo st
 
 Per Confermare i documenti in entrata seguire i seguenti passaggi:
 
-**1.** Aprire il documento in entrata facendo doppio click del tasto sinistro del mouse.
+1. Aprire il documento in entrata facendo doppio click del tasto sinistro del mouse.
 
-**2.** In seguito IPOS mostrerà il contenuto del documento in entrata, che dovrà essere verificato prima di essere Certificato
+2. In seguito IPOS mostrerà il contenuto del documento in entrata, che dovrà essere verificato prima di essere Certificato
 
 ![image7](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/8426221f-506d-4638-861f-45ded1f63b98)
 
-**3.** Potrebbe succedere che nel documento in entrata mancano uno o più articolo rispetto alla merce fisica arrivata in negozio. Sarà dunque necessario apporre le correzioni, inserendo gli articoli mancanti.
+3. Potrebbe succedere che nel documento in entrata mancano uno o più articolo rispetto alla merce fisica arrivata in negozio. Sarà dunque necessario apporre le correzioni, inserendo gli articoli mancanti.
 
 Esistono più metodi per inserire gli articoli in un documento in entrata.
 
-- **3A.**  Selezionare l’Icona contraddistinta dal simbolo “+”
+- 3A. Selezionare l’Icona contraddistinta dal simbolo “+”
 
 ![image8](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/6ad73148-3760-40ec-afa7-f598622d0240)
 
@@ -64,42 +64,32 @@ IPOS aprirà la maschera dei prodotti, per consentire di cercare nel dettaglio g
 
 Per effettuare la ricerca di un articolo sfruttando l’elenco dei filtri situati sulla sinistra si procede nel seguente modo:
 
-**1.** Cliccare sul triangolo nero accanto ad ogni voce (FIG. 1)
-
-**FIG. 1**
+1. Cliccare sul triangolo nero accanto ad ogni voce (FIG. 1)
 
 ![image10](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a9d19398-9435-408a-a11e-1a481650a165)
 
-
-**2.** Espandere il drop menu da utilizzare per filtrare gli articoli che
+2. Espandere il drop menu da utilizzare per filtrare gli articoli che
 interessano (FIG. 2)
 
-**3.** Inserire il testo nell’apposito riquadro, o scorrere lo scroll bar per
+3. Inserire il testo nell’apposito riquadro, o scorrere lo scroll bar per
 scegliere (mettendo la spunta nei riquadri) come filtrare gli articoli
 (FIG. 2)
 
-**FIG. 2**
-
 ![image11](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/f11f7b70-ff02-4e1b-9c2f-ed3e0fc2cd34)
 
-
-**4.** Nella sezione “Altri Filtri”, troverete sia dei filtri secondari (prezzo, linkage, tessuto, genere, tipo prodotto, classe) ed anche degli Attributi speciali, attraverso i quali il cliente può riportare specifiche personalizzate a suo piacimento. (FIG. 3)
-
-**FIG. 3**
+4. Nella sezione “Altri Filtri”, troverete sia dei filtri secondari (prezzo, linkage, tessuto, genere, tipo prodotto, classe) ed anche degli Attributi speciali, attraverso i quali il cliente può riportare specifiche personalizzate a suo piacimento. (FIG. 3)
 
 ![image12](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/e8f69f65-64b1-4dd1-ac19-3b8edc334524)
 
-**5.** Per espandere il sottomenu “Altri Filtri” premere sulla freccetta a destra della scritta. (FIG. 4)
-
-**FIG. 4**
+5. Per espandere il sottomenu “Altri Filtri” premere sulla freccetta a destra della scritta. (FIG. 4)
 
 ![image13](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/f05573c1-68f5-4b64-91cd-422a99733af9)
 
-**6.** Dopo aver ultimato di filtrare tra i prodotti, selezionare il tutto (tutti gli articoli o in parte) tramite l’apposito checkbox, e premere sull’Icona verde per dare conferma ed inserire gli articoli selezionati nelle righe del documento in uscita
+6. Dopo aver ultimato di filtrare tra i prodotti, selezionare il tutto (tutti gli articoli o in parte) tramite l’apposito checkbox, e premere sull’Icona verde per dare conferma ed inserire gli articoli selezionati nelle righe del documento in uscita
 
 ![image14](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a12ceae5-f1c4-441c-899e-335f350dddcb)
 
-**7.** Inizialmente gli articoli saranno inseriti senza quantità (FIG. 1),
+7. Inizialmente gli articoli saranno inseriti senza quantità (FIG. 1),
 
 ![image15](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a49dd1ef-0d18-4253-a804-efc39f77f1f9)
 
@@ -108,7 +98,7 @@ si dovrà dunque intervenire manualmente con l’inserimento delle quantità per
 ![image16](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/bc3210d9-54de-44a9-b9c8-408509501265)
 
 
-- **3B.** Selezionare l’Icona contraddistinta dal “foglio bianco ed il simbolo +”
+- 3B. Selezionare l’Icona contraddistinta dal “foglio bianco ed il simbolo +”
 
 ![image17](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/10e59f68-91c9-4380-b27c-1640d973b95d)
 
@@ -128,9 +118,9 @@ In seguito si aprirà una finestra per cercare il file txt che in precedenza è 
 ![image19](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a0661ed8-2831-4d0b-aed7-74a40216f41e)
 
 
-- **3C.** IPOS permette anche di inserire gli articoli in un’Entrata Merce, da un “Contenitore Prodotti”. L’uso di questi contenitori prodotti è molteplice e, uno di essi è quello di poter essere utilizzati per inserire gli articoli in un documento di magazzino ad esempio, per creare un “Carico Manuale”. Sarà dunque necessario aver preparato un “Contenitore Prodotti”. 
+- 3C. IPOS permette anche di inserire gli articoli in un’Entrata Merce, da un “Contenitore Prodotti”. L’uso di questi contenitori prodotti è molteplice e, uno di essi è quello di poter essere utilizzati per inserire gli articoli in un documento di magazzino ad esempio, per creare un “Carico Manuale”. Sarà dunque necessario aver preparato un “Contenitore Prodotti”. 
 
-**A.** Per creare un “Contenitore Prodotti”, premere sulla voce “Contenitore
+A. Per creare un “Contenitore Prodotti”, premere sulla voce “Contenitore
 Prodotti” del menu “Flusso Merce”.
 
 
@@ -139,36 +129,34 @@ Prodotti” del menu “Flusso Merce”.
 
 ![image20](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/0453ec2d-237f-4429-9c4d-aab8cbe15f87)
 
-
-
-**B.** In seguito si aprirà la finestra di selezione “tipologia” del contenitore prodotti. Scegliere nel caso di creazione DDT “Default” (in quanto proporrà il negozio a cui mandare la merce), mentre per l’entrata merce scegliere “Inventory Barcode”.
+B. In seguito si aprirà la finestra di selezione “tipologia” del contenitore prodotti. Scegliere nel caso di creazione DDT “Default” (in quanto proporrà il negozio a cui mandare la merce), mentre per l’entrata merce scegliere “Inventory Barcode”.
 
 ![image21](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/9e7921b7-5f2b-4ed2-b570-628ca49da7e0)
 
 
-- **C.** Dopo aver scelto il tipo di contenitore prodotti, verrà aperta la finestra di inserimento articoli. Anche in questo caso IPOS mette a disposizione vari metodi per inserire gli articoli
+- C. Dopo aver scelto il tipo di contenitore prodotti, verrà aperta la finestra di inserimento articoli. Anche in questo caso IPOS mette a disposizione vari metodi per inserire gli articoli
 
 ![image22](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/e6eb1551-f43e-4d4e-b74c-e04b12625902)
 
 
-- **D.** Inserire articoli, leggendo il codice a barre tramite la pistola barcode o inserendo il codice barcode o il codice prodotto manualmente nell’apposito Box accanto alla figura del barcode
+- D. Inserire articoli, leggendo il codice a barre tramite la pistola barcode o inserendo il codice barcode o il codice prodotto manualmente nell’apposito Box accanto alla figura del barcode
 
 ![image23](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ec68c735-ea6e-4481-b2ad-f5573b78b0b7)
 
 
-- **E.** Utilizzare i metodi descritti nel paragrafo **3A e 3B del capito 3**
+- E. Utilizzare i metodi descritti nel paragrafo **3A e 3B del capito 3**
 
-- **F.** Salvare gli articoli tramite l’icona contraddistinta dal `floppy disk`
+- F. Salvare gli articoli tramite l’icona contraddistinta dal `floppy disk`
 
 ![image24](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/4961fe6c-ebf7-4cc6-9759-286007566c1c)
 
 
-- **G.** Qualora si fosse errato ad inserire un articolo, selezionare la l’articolo o gli articoli che vogliamo eliminare ed utilizzare l’icona contraddistinta dalla “X rossa” per eliminarli
+- G. Qualora si fosse errato ad inserire un articolo, selezionare la l’articolo o gli articoli che vogliamo eliminare ed utilizzare l’icona contraddistinta dalla “X rossa” per eliminarli
 
 ![image24](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/dcb80a83-32dd-47cb-b63e-2a3a3e0f2090)
 
 
-- **H.** È possibile anche modificare il contenuto del “contenitore prodotti” dopo che è stato salvato. Per farlo, cliccare sull’icona contraddistinta dal “blocco note” per entrare nei dettagli del contenitore prodotti per inserire nuovi articoli o variare le quantità degli articoli inseriti.
+- H. È possibile anche modificare il contenuto del “contenitore prodotti” dopo che è stato salvato. Per farlo, cliccare sull’icona contraddistinta dal “blocco note” per entrare nei dettagli del contenitore prodotti per inserire nuovi articoli o variare le quantità degli articoli inseriti.
 
 ![image25](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/4fc8a930-f282-45eb-b21a-d242feee130b)
 
@@ -176,7 +164,7 @@ Dopo aver ultimato con le modifiche e salvato, il contenitore sarà salvato nell
 
 ![image26](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5cac7f18-7a28-4f1a-92f9-30468decdd29)
 
-- **I.** Ora è possibile utilizzare il “Contenitore prodotti” come metodo per caricare gli articoli nell’entrata merce. Per utilizzare il “Contenitore prodotti” premere sull’icona contraddistinta dal “blocco note ed il simbolo +”
+- I. Ora è possibile utilizzare il “Contenitore prodotti” come metodo per caricare gli articoli nell’entrata merce. Per utilizzare il “Contenitore prodotti” premere sull’icona contraddistinta dal “blocco note ed il simbolo +”
 
 ![image27](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/fcb4ed98-8080-441e-b42d-7ef7e00a65b5)
 
@@ -188,7 +176,7 @@ Dopo aver caricato il contenitore prodotti, appariranno nelle righe dell’entra
 
 ![image29](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/020ed696-44eb-425e-9977-b639b47f51c1)
 
-- **3D.** Se non mancano interi articoli ma, abbiamo ricevuto delle quantità differenti, possiamo modificare le quantità dell’articolo ed IPOS, segnalerà in “verde” le quantità in eccesso, mentre segnalerà in “rosso” le quantità in difetto
+- 3D. Se non mancano interi articoli ma, abbiamo ricevuto delle quantità differenti, possiamo modificare le quantità dell’articolo ed IPOS, segnalerà in “verde” le quantità in eccesso, mentre segnalerà in “rosso” le quantità in difetto
 
 ![image30](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/88620dfd-c75e-4ec1-84a3-d706b2bb9426)
 
@@ -215,7 +203,7 @@ In seguito, IPOS chiederà in entrambi i casi una conferma.
 
 ![image35](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ae6b29ed-a584-4782-8d58-901522e8297a)
 
-**4.** Qualora avessimo la necessità di generare dei “contenitori prodotti” da un‘ entrata merce, IPOS permette di esportare il contenuto dell’entrata merce in un “Contenitore prodotti”. Basterà selezionare l’Icona con la “freccia azzurra”
+4. Qualora avessimo la necessità di generare dei “contenitori prodotti” da un‘ entrata merce, IPOS permette di esportare il contenuto dell’entrata merce in un “Contenitore prodotti”. Basterà selezionare l’Icona con la “freccia azzurra”
 
 ![image36](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/b63462d4-d33c-4786-8c73-6f3f6f7b8474)
 
@@ -223,7 +211,7 @@ In seguito IPOS generà in automatico un nuovo “**Contenitore Prodotti**”, c
 
 ![image37](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/56847b29-a8f8-46a6-ac85-8fbedfcd327e)
 
-**5.** Sarà possibile stampare le etichette ed il documento
+5. Sarà possibile stampare le etichette ed il documento
 
 - **STAMPARE ETICHETTE:**
 
