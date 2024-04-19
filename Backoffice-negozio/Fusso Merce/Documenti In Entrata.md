@@ -2,7 +2,7 @@
 layout: home
 title: Documenti In Entrata
 parent: Flusso Merce
-grand_parent: BackOffice Sede
+grand_parent: BackOffice negozio
 nav_order: 4
 ---
 # ***DOCUMENTI IN ENTRATA:***
