@@ -113,37 +113,37 @@ IPOS aprirà la maschera dei prodotti, per consentire di cercare neldettaglio gl
 
 Per effettuare la ricerca di un articolo sfruttando l’elenco dei filtri situati sulla sinistra si procede nel seguente modo:
 
-**A.** Cliccare sul triangolo nero accanto ad ogni voce (FIG. 1)
+A. Cliccare sul triangolo nero accanto ad ogni voce (FIG. 1)
 
 ![image15](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3115e27b-9565-40bd-9271-eca20c6374af)
 
-**B.** Espandere il drop menu da utilizzare per filtrare gli articoli che interessano (FIG. 2)
+B. Espandere il drop menu da utilizzare per filtrare gli articoli che interessano (FIG. 2)
 
 ![image16](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ab2a90c7-8eac-4c52-be15-47d5bac3a20f)
 
-**C.** Inserire il testo nell’apposito riquadro, o scorrere lo scroll bar per
+C. Inserire il testo nell’apposito riquadro, o scorrere lo scroll bar per
 scegliere (mettendo la spunta nei riquadri) come filtrare gli articoli
 (FIG. 2)
 
 ![image16](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ab2a90c7-8eac-4c52-be15-47d5bac3a20f)
 
-**D.** Nella sezione “Altri Filtri”, troverete sia dei filtri secondari
+D. Nella sezione “Altri Filtri”, troverete sia dei filtri secondari
 (prezzo, linkage, tessuto, genere, tipo prodotto, classe) ed anche degli
 Attributi speciali, attraverso i quali il cliente può riportare
 specifiche personalizzate a suo piacimento. (FIG. 3)
 
 ![image17](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a468e362-9079-4f14-89a5-0c5e470ba49c)
 
-**E.** Per espandere il sottomenu “Altri Filtri” premere sulla freccetta a
+E. Per espandere il sottomenu “Altri Filtri” premere sulla freccetta a
 destra della scritta. (FIG. 4)
 
 ![image18](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/095fc752-963f-4054-a488-4c535aba2674)
 
-**F.** Dopo aver ultimato di filtrare tra i prodotti, selezionare il tutto (tutti gli articoli o in parte) tramite l’apposito checkbox, e premere sull’Icona verde per dare conferma ed inserire gli articoli selezionati nelle righe del documento in uscita
+F. Dopo aver ultimato di filtrare tra i prodotti, selezionare il tutto (tutti gli articoli o in parte) tramite l’apposito checkbox, e premere sull’Icona verde per dare conferma ed inserire gli articoli selezionati nelle righe del documento in uscita
 
 ![image19](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/44e2a0ed-e02b-414c-b0a6-d5fb0ae4ddbb)
 
-**G.** Inizialmente gli articoli saranno inseriti senza quantità (FIG. 1), 
+G. Inizialmente gli articoli saranno inseriti senza quantità (FIG. 1), 
 
 ![image20](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5b184902-2178-45c7-946c-43f17592d35a)
 
@@ -151,7 +151,7 @@ si dovrà dunque intervenire manualmente all’inserimento delle quantità per o
 
 ![image21](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/29f494d0-c06c-4482-a0b0-2442654e7770)
 
-**1B.** Selezionare l’Icona contraddistinta dal “foglio bianco ed il simbolo +”
+1B. Selezionare l’Icona contraddistinta dal “foglio bianco ed il simbolo +”
 
 ![image13](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/90116a51-1294-445f-b380-1e529dac20a3)
 
@@ -165,7 +165,7 @@ In seguito si aprirà una finestra per cercare il file txt che in precedenza è 
 
 ![image23](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/f62c5430-223d-4690-bb80-8665d32f1e52)
 
-**2.** **SALVARE GLI ARTICOLI:**
+2. **SALVARE GLI ARTICOLI:**
 
 Premere sull’icona contraddistinta da un “floppy disk” per salvare il documento in uscita
 
@@ -180,7 +180,7 @@ Premendo su sì, IPOS salverà il documento nella schermata dell’elenco dei do
 ![image25](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d319425c-ebcc-4ae8-8390-1ac18930a671)
 
 
-**3.** **MODIFICARE GLI ARTICOLI:**
+3. **MODIFICARE GLI ARTICOLI:**
 
 Premere con doppio click tasto sinistro del mouse sul documento in uscita che vogliamo modificare. IPOS ci aprirà la tab. del dettaglio delle righe del DDT.
 
@@ -195,7 +195,7 @@ Possiamo dunque:
 
 - Eliminare uno o più articoli
 
-**3A.** Per **cambiare** la quantità degli articoli, basterà selezionare l’articolo, il colore e la taglia che interessa modificare e, inserire la quantità desiderata.
+3A. Per **cambiare** la quantità degli articoli, basterà selezionare l’articolo, il colore e la taglia che interessa modificare e, inserire la quantità desiderata.
 
 ![image27](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5a4ed6d8-72cf-4a5c-aa90-ce7d7575651e)
 
@@ -204,11 +204,11 @@ Dopo aver **modificato**, premere poi sull’apposita Icona contraddistinta dal 
 ![image28](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/bf235af1-fb5b-47d6-9724-d9982dc58da9)
 
 
-**3B** Per **ELIMINARE** uno o più articoli dal documento in uscita, basteràselezionare gli articolo e premere l’icona contraddistinta dalla `X` rossa e premere si per confermare.
+3B Per **ELIMINARE** uno o più articoli dal documento in uscita, basteràselezionare gli articolo e premere l’icona contraddistinta dalla `X` rossa e premere si per confermare.
 
 ![image29](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/e068f558-11af-4494-8814-d02d912caf9b)
 
-**4.** **STAMPARE LE ETICHETTE:**
+4. **STAMPARE LE ETICHETTE:**
 
 Premere sull’icona contraddistinta “dall’Etichetta Barcode” per avviare la stampa delle etichette
 
@@ -226,7 +226,7 @@ Basterà poi selezionare le etichette da stampare ed avviare la stampa
 
 ![image32](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/b0f26139-acbb-45ad-844e-ce49cad6ae52)
 
-**5.** **STAMPARE IL DOCUMENTO:** 
+5. **STAMPARE IL DOCUMENTO:** 
 
 Per poter stampare o, esportare in PDF il documento in uscita, bisognerà selezionare l’Icona
 contraddistinta dalla “Stampante”
@@ -243,7 +243,7 @@ stampare il documento, esportarlo in pdf o inviarlo via e-mail.
 ![image34](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3b7e4b4e-2d76-4361-8de4-f09dc1bacc67)
 
 
-**6.** **CERTIFICARE IL DOCUMENTO:**
+6. **CERTIFICARE IL DOCUMENTO:**
 
 Per certificare il documento, entrare nel documento, premere sull’icona del “blocco note”, e successivamente premere l’Icona contraddistinta dal “Cerchio verde” per confermare il documento.
 
