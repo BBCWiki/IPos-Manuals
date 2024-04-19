@@ -9,7 +9,7 @@ nav_order: 5
 
 ## DOCUMENTI IN ENTRATA
 
-###  - **RICERCARE ENTRANCE GOOD:**
+### RICERCARE ENTRANCE GOOD:
 
 Nel menu “Documenti in Entrata” vi sono contenuti tutti i documenti di magazzino “DDT da altri negozi o da Sede, Documenti di Triangolazione ecc.”, utilizzati per l’invio della merce tra Negozi o, tra Sede e Negozi. I documenti, a seguito di come IPOS è stato configurato, possono
 arrivare già Certificati (confermati) o da certificare (non confermati).
