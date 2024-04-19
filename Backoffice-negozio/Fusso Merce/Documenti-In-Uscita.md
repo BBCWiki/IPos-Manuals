@@ -8,7 +8,7 @@ nav_order: 4
 
 ## DOCUMENTI IN USCITA:
 
-### **RICERCARE DDT:**
+### RICERCARE DDT:
 
 Nel menu “Documenti in uscita” vi sono contenuti tutti i documenti di magazzino “DDT o Documenti di Triangolazione ecc.”, utilizzati perl’invio della merce tra Negozi o, tra Sede e Negozi.
 
