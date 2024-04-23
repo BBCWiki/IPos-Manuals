@@ -10,10 +10,10 @@ nav_order: 4
 
 ### Changes
 
-BO -> Reports A4 -> Ricevuto x classe x prezzo
+BO → Reports A4 → Ricevuto x classe x prezzo
  - Changed report to be able to see goods received even if not ordered or from entrances/orders made without a buyer plan.
   
-BO -> Active promotions
+BO → Active promotions
  - Added the possibility to see the price variations made for products in a specific day alongside the promotions on the active promotions form.
 
 ##  Version 1.24.4.3 - Date 10/04/2024
