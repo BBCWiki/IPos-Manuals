@@ -8,7 +8,7 @@ nav_order: 2
 
 ## CHIUSURA CASSA:
 
-- ### EFFETTUARE NUOVA CHIUSURA:
+### EFFETTUARE NUOVA CHIUSURA:
 
 Nella schermata di vendita, si dovrà premere sul menu “Finanziario” situato a destra.
 
