@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Etichette
-parent: Backoffice negozio
-nav_order: 6
+parent: BackOffice Negozio
+nav_order: 5
 ---
