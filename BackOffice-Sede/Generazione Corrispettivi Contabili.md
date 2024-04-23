@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Generazione Corrispettivi Contabili
-parent: Backoffice Sede
+parent: Backoffice-Sede
 nav_order: 5
 ---
 
