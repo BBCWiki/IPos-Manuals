@@ -12,9 +12,11 @@ ________________________________________________________________________________
 
 ### Benvenuti in iPos, il vostro compagno affidabile nel mondo delle vendite moderno.
 
+
 ### Guida Passo dopo Passo
 
 - **Manuali Dettagliati**: Troverete tutti i manuali necessari per una guida dettagliata su come utilizzare al meglio iPos nei vostri punti vendita, direttamente sul nostro sito.
+
 
 ### Continua Innovazione
 
