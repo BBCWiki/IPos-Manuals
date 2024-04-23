@@ -97,16 +97,6 @@ Per ogni tipo di pagamento **dev'essere** definito il valore una mappatura in Ac
 ### Formati diversi di esportazione
 Visto che ogni cliente e sistema contabile aveva il suo modo in cui i le registrazione dovevano essere generate, sono stati sviluppati piu' modalita di generazione, ogni modalita e' una nuova stored procedure AccountantRegistrationsRegisterFiscalDay01, ..02, ..03, etc
 
-## Generazione Corrispettivi formato DEN
 
-|Tipo|Causale|Conto|Dare|Avere|
-|----|-------|-----|----|-----|
-|E|CCCORRIS|SCCORRIS| | Imponibile
-|V|CCCORRIS|SCIVACOR| Iva | |
-|F|CCCORRIS|ST_(TipoPagamento)| IncassatoVenditeProdotti | |
-|F|CCCORRIS|ST_BR| | ValoreBuoniResoEmessi
-|F|CCCORRIS|ST_GIFTCARD| | ValoreGiftCardVendute
-
-## Export verso la contabilita
 
 
