@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ## iPos : Semplificare le tue Vendite
 
-### Benvenuti in iPos, il vostro compagno affidabile nel mondo delle vendite moderno.
+### Benvenuti in iPos, il vostro compagno affidabile nel mondo delle vendite retail.
 
 
 ### Guida Passo dopo Passo
@@ -23,6 +23,12 @@ ________________________________________________________________________________
 - **Aggiornamenti Regolari**: Restate al passo con le ultime funzionalità e miglioramenti di iPos per massimizzare la vostra efficienza.
 
 
-#### Contattateci per Saperne di Più
+#### Contattateci per Saperne di Più , siamo a vostra disposizione
 
-Scoprite come iPos può semplificare le vostre operazioni di vendita e portare il vostro business al livello successivo. Troverete tutto ciò di cui avete bisogno per semplificare l'utilizzo di iPos sul nostro sito. Contattateci oggi stesso per una consulenza personalizzata.
+Tel: +39 051 0826005
+
+Fax: +39 051 6135552
+
+E-mail: info@bbctech.it
+
+Assistenza: helpdesk@bbctech.it
