@@ -21,10 +21,9 @@ Benvenuti in iPos, il vostro compagno affidabile nel mondo delle vendite al dett
 - **Aggiornamenti Regolari**: Restate al passo con le ultime funzionalità e miglioramenti di iPos per massimizzare la vostra efficienza.
 
 
-#### Contattateci per Saperne di Più
+### Contattateci per Saperne di Più
 
 Siamo a vostra disposizione per rispondere alle vostre domande e fornirvi ulteriori informazioni.
-
 
 *Telefono: +39 051 0826005*
 
