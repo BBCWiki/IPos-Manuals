@@ -8,7 +8,7 @@ nav_order: 1
 
 _________________________________________________________________________________
 
-## iPos : Semplificare le tue Vendite 
+## iPos : Semplificare le tue Vendite
 
 ### Benvenuti in iPos, il vostro compagno affidabile nel mondo delle vendite moderno.
 
