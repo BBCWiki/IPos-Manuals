@@ -18,9 +18,10 @@ ________________________________________________________________________________
 - **Manuali Dettagliati**: Troverete tutti i manuali necessari per una guida dettagliata su come utilizzare al meglio iPos nei vostri punti vendita, direttamente sul nostro sito.
 
 
-### Continua Innovazione
+### Aggiornamenti Continui 
 
 - **Aggiornamenti Regolari**: Restate al passo con le ultime funzionalità e miglioramenti di iPos per massimizzare la vostra efficienza.
+
 
 #### Contattateci per Saperne di Più
 
