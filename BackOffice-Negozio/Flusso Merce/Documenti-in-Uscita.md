@@ -2,8 +2,8 @@
 layout: default
 title: Documenti In Uscita
 parent: Flusso Merce
-grand_parent: Backoffice negozio
-nav_order: 4
+grand_parent: BackOffice Negozio
+nav_order: 5
 ---
 
 ## DOCUMENTI IN USCITA:
