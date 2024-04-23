@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Flusso Merce
-parent: Backoffice negozio
+parent: BackOffice Negozio
 nav_order: 3
 has_children: true
 ---
