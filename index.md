@@ -8,7 +8,7 @@ nav_order: 1
 
 _________________________________________________________________________________
 
-## iPos: Semplificare le Vendite, Passo dopo Passo
+## iPos : Semplificare le tue Vendite 
 
 ### Benvenuti in iPos, il vostro compagno affidabile nel mondo delle vendite moderno.
 
@@ -20,6 +20,6 @@ ________________________________________________________________________________
 
 - **Aggiornamenti Regolari**: Restate al passo con le ultime funzionalità e miglioramenti di iPos per massimizzare la vostra efficienza.
 
-### Contattateci per Saperne di Più
+#### Contattateci per Saperne di Più
 
 Scoprite come iPos può semplificare le vostre operazioni di vendita e portare il vostro business al livello successivo. Troverete tutto ciò di cui avete bisogno per semplificare l'utilizzo di iPos sul nostro sito. Contattateci oggi stesso per una consulenza personalizzata.
