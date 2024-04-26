@@ -18,7 +18,7 @@ effettuata prima su **Cassa 1)**
 
 ![image1](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/b8d5eae9-3d67-4c6f-8a6e-dcf63cd4bcb2)
 
-1.
+**1.**
 
 > Confermare il valore del fondo cassa premendo su “Ok” o inserire un
 > fondo cassa differente e scrivere una motivazione
@@ -26,9 +26,9 @@ effettuata prima su **Cassa 1)**
 ![image2](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2a51149a-bbd0-4fb5-80a5-f5cf4d0f4b5b)
 
 
-## - **EFFETTUARE NUOVA VENDITA:**
+# - **EFFETTUARE NUOVA VENDITA:**
 
-**AGGIUNGERE ARTICOLI NELLA VENDITA:**
+## - **AGGIUNGERE ARTICOLI NELLA VENDITA:**
 
 Nel rettangolo blu situato nella parte alta della schermata di vendita :
 
@@ -101,475 +101,322 @@ Selezionando in seguito la “taglia e colore” con doppio click sinistro del m
 Un altro modo per ricercare un prodotto, è quello di sfruttare gli
 appositi filtri sotto elencati
 
-### **LINEA:** a seconda dell’anagrafica del cliente può indicare per esempio la tipologia dei prodotti del “Fornitore”
+### **LINEA:** 
+a seconda dell’anagrafica del cliente può indicare per esempio la tipologia dei prodotti del “Fornitore”
 
 ![image16](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/486b6468-86b2-494e-b3b6-45c3dbe0d9ce)
 
-### **STAGIONE:**  a seconda dell’anagrafica del cliente può indicare le stagioni merceologiche dei prodotti
+### **STAGIONE:** 
+a seconda dell’anagrafica del cliente può indicare le stagioni merceologiche dei prodotti
 
 ![image17](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/1c3a1471-b5cd-4160-a46f-c27ad35aa5f5)
 
-### **SOTTOFAMIGLIA:**  a seconda dell’anagrafica del cliente può indicare le categorie dei prodotti
+### **SOTTOFAMIGLIA:**  
+a seconda dell’anagrafica del cliente può indicare le categorie dei prodotti
 
 ![image18](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/0689b167-af09-46f6-b539-37b7708c33be)
 
-### **GRUPPO PRODOTTI:** a seconda dell’anagrafica del cliente può indicare ad esempio la “Famiglia” di appartenenza degli articoli
+### **GRUPPO PRODOTTI:** 
+a seconda dell’anagrafica del cliente può indicare ad esempio la “Famiglia” di appartenenza degli articoli
 
 ![image19](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/7209495c-8572-4090-abe7-4c068b6d185e)
 
-- <img src="./media/image20.png"
-  style="width:1.66458in;height:1.60833in" />**PREZZO:** è possibile
-  filtrare per un prezzo “maggiore di” un valore o “compreso tra” valori
+### **PREZZO:**
+è possibile filtrare per un prezzo “maggiore di” un valore o “compreso tra” valori
 
-- <img src="./media/image21.png"
-  style="width:1.65417in;height:1.62153in" />**PROMO:** si può filtrare
-  tra articoli che “**sono**” o “**non sono**” in promozione o
-  “**entrambi**” i casi
+![image20](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ca47e72d-7f17-4294-91e8-4e2366e8650a)
 
-- <img src="./media/image22.png"
-  style="width:1.66879in;height:1.63913in" />**NOTA:** di seguito un
-  esempio di ricerca articolo. Dopo aver selezionato i filtri desiderati
-  per la ricerca, premere su “carica” per avere l’elenco dei prodotti.
+### **PROMO:** 
+si può filtrare tra articoli che “**sono**” o “**non sono**” in promozione o “**entrambi**” i casi
 
-- <img src="./media/image23.png"
-  style="width:2.57153in;height:2.21736in" />**ESEMPIO:** questo è un
-  esempio del risultato per la ricerca con i filtri applicati sopra
+![image21](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/90d16662-e1d2-4cd7-a069-70f021e2e790)
 
-<img src="./media/image24.png"
-style="width:2.88939in;height:0.76956in" />Selezionare l’articolo
-desiderato, IPOS riconoscerà l’articolo ed aprirà la finestra di
-selezione “**taglia e colore**”. Selezionando in seguito la “taglia e
-colore” con doppio click sinistro del mouse, IPOS inserirà l’articolo
-nella schermata di vendita
+### **NOTA:** 
+di seguito un esempio di ricerca articolo. Dopo aver selezionato i filtri desiderati per la ricerca, premere su “carica” per avere l’elenco dei prodotti.
 
-**<span class="mark">IMPORTANTE:</span>** è possibile filtrare anche
-solo per una delle voci sopra descritte.
+![image22](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/8f57698e-ed85-4e0e-81e6-6bcac6038f75)
 
-<img src="./media/image25.png"
-style="width:4.82609in;height:1.32378in" />
+### **ESEMPIO:** 
+questo è un esempio del risultato per la ricerca con i filtri applicati sopra
 
-5
+![image23](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/69a84e54-de00-42fb-83bb-82c00a5146aa)
 
-È inoltre possibile inserire **articoli particolari, voucher / gift
-card, servizi, spedizioni** “precedentemente configurati in Sede”,
+Selezionare l’articolo desiderato, IPOS riconoscerà l’articolo ed aprirà la finestra di selezione “**taglia e colore**”. 
+Selezionando in seguito la “taglia e colore” con doppio click sinistro del mouse, IPOS inserirà l’articolo nella schermata di vendita
+
+![image24](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/1d3fd906-0a36-47cf-b588-ec733fc71540)
+
+**IMPORTANTE:** è possibile filtrare anche solo per una delle voci sopra descritte.
+
+![image25](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d344fce3-ba84-4c83-ad91-a3056c0db452)
+
+**5.** È inoltre possibile inserire **articoli particolari, voucher / gift card, servizi, spedizioni** “precedentemente configurati in Sede”,
 selezionando l’icona contraddistinta dal “codice a barre”
 
-<img src="./media/image26.png"
-style="width:4.92609in;height:0.5796in" />
+![image26](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/35be7d9f-c67c-423b-ba51-92fdd367aaab)
 
-In seguito si aprirà l’elenco degli articoli. Basterà premere sulla
-categoria desiderata per espandere l’elenco
+In seguito si aprirà l’elenco degli articoli. Basterà premere sulla categoria desiderata per espandere l’elenco
 
-<img src="./media/image27.png"
-style="width:4.05062in;height:1.43478in" /><img src="./media/image28.png"
-style="width:3.58528in;height:1.42362in" />
+![image27](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/0b0b0791-381e-4b9b-891b-6bd30ca1e99c)
+
+![image28](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/109039aa-b774-4b32-9d37-58b1cd42e201)
 
 Selezionare tra le varie categorie l’articolo desiderato.
 
-<img src="./media/image29.png"
-style="width:4.04266in;height:1.5096in" />
+![image29](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5b170661-07ac-4fa5-9d82-4c6c09b67d68)
 
-<img src="./media/image30.png"
-style="width:6.10685in;height:0.98655in" />Dopo aver selezionato
-l’articolo, IPOS lo mostrerà nella schermata della vendita
+Dopo aver selezionato l’articolo, IPOS lo mostrerà nella schermata della vendita
 
-**MODIFICARE I PRODOTTI INSERITI IN VENDITA:**
+![image30](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/c3f82c6a-9a4c-47bc-a418-2f5a75f8c52e)
 
-Se necessario sarà possibile modificare tutto quanto si trova
-all’interno dei “**Riquadri BLU”**
 
-<img src="./media/image31.png"
-style="width:6.69306in;height:3.60625in" />
+## **MODIFICARE I PRODOTTI INSERITI IN VENDITA:**
 
-A
+Se necessario sarà possibile modificare tutto quanto si trova all’interno dei “**Riquadri BLU”**
 
-Se necessario sarà possibile effettuare uno sconto % di “testata” ovvero
-sull’importo intero dello scontrino
+![image31](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/8a439126-afa9-42fd-8498-1ae3396e754e)
 
-Selezionare il riquadro blu contraddistinto dalla lettera “**A**” e
-scegliere la causale di sconto desiderata per inserire lo sconto alla
+
+**A.** Se necessario sarà possibile effettuare uno sconto % di “testata” ovvero sull’importo intero dello scontrino
+
+Selezionare il riquadro blu contraddistinto dalla lettera “**A**” e scegliere la causale di sconto desiderata per inserire lo sconto alla
 transazione
 
-<img src="./media/image32.png"
-style="width:4.05778in;height:1.8087in" />
+![image32](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/bf815e44-05b4-468b-bfa4-95341b2f32eb)
 
-B
+**B.** Se necessario sarà possibile effettuare uno sconto valore di **“testata”** sull’intero importo dello scontrino
+Selezionare il riquadro blu definito dalla lettera “**B**” e scegliere la causale di sconto desiderata per inserire lo sconto alla transazione
 
-Se necessario sarà possibile effettuare uno sconto valore di “testata”
-sull’intero importo dello scontrino
+![image33](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/15c33a36-7b62-4c13-acde-4aa7e95b5cbe)
 
-Selezionare il riquadro blu definito dalla lettera “**B**” e scegliere
-la causale di sconto desiderata per inserire lo sconto alla transazione
+**C.** Se necessario, è possibile scegliere o modificare il nome del commesso che si sta occupando della vendita.
+Selezionare il riquadro blu definito dalla lettera “**C**” sotto l’intestazione caratterizzata da “due sagome”
 
-<img src="./media/image33.png"
-style="width:4.23154in;height:1.95284in" />
+![image34](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3aba2a8e-5c65-448e-a5bb-8029ca1cb8e5)
 
-Se necessario, è possibile scegliere o modificare il nome del commesso
-che si sta occupando della vendita.
+In seguito alla scelta del commesso, tutte le righe di vendita verranno associate allo stesso
 
-C
+![image35](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ee147cd9-cf4a-4483-88c9-76b2e804e39a)
 
-Selezionare il riquadro blu definito dalla lettera “**C**” sotto
-l’intestazione caratterizzata da “due sagome”
+**D.** Se necessario, sarà possibile cambiare l’IVA di un articolo presente nella schermata di vendita o di tutte le righe di vendita (contemporaneamente)
+Per poterlo fare però, sarà necessario effettuare una vendita associata ad un **Cliente** (specificato nel capitolo **“Inserimento Clienti”**).
+Associare la vendita al cliente e selezionare il **riquadro blu** contraddistinto dalla lettera “**D”**
 
-<img src="./media/image34.png"
-style="width:4.59565in;height:0.37097in" />
+![image36](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2211dc90-5895-4bf7-82f1-6d6cebfc189a)
 
-<img src="./media/image35.png"
-style="width:4.43873in;height:1.38071in" />In seguito alla scelta del
-commesso, tutte le righe di vendita verranno associate allo stesso
+**E.** Selezionare il reparto IVA che ci interessa e premere **OK.** IPOS domanderà se l’IVA dovrà essere modificata a tutte le righe di vendita
+oppure no. Se si seleziona **NO,** IPOS imposterà il reparto IVA solo all’articolo selezionato.
 
-D
+![image37](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/07b81318-3f82-426b-b744-7c369eb255c9)
 
-Se necessario, sarà possibile cambiare l’IVA di un articolo presente
-nella schermata di vendita o di tutte le righe di vendita
-(contemporaneamente)
 
-Per poterlo fare però, sarà necessario effettuare una vendita associata
-ad un **Cliente** (specificato nel capitolo **“Inserimento Clienti”**).
+**F.** Se necessario è possibile modificare la quantità sul singolo articolo.
+Selezionare il riquadro blu definito dalla lettera “**F**” per inserire una nuova quantità
 
-Associare la vendita al cliente e selezionare il **riquadro blu**
-contraddistinto dalla lettera “**D”**
+![image38](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/12b28625-31d9-44a7-ad80-b77b6b4a0e22)
 
-<img src="./media/image36.png"
-style="width:3.62091in;height:1.75523in" />
+**G.** Se necessario sarà possibile effettuare uno sconto % di “riga” su ogni singolo scontrino
+Selezionare il riquadro blu contraddistinto dalla lettera “**G**” e scegliere la causale di sconto desiderata per inserire lo sconto % alla riga (si possono settare sconti % diversi)
 
-Selezionare il reparto IVA che ci interessa e premere **OK.** IPOS
-domanderà se l’IVA dovrà essere modificata a tutte le righe di vendita
-oppure no. Se si seleziona **NO,** IPOS imposterà il reparto IVA solo
-all’articolo selezionato.
+![image32](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/9c235714-68de-4bac-94c2-6ad3c245d6c4)
 
-<img src="./media/image37.png"
-style="width:4.77681in;height:1.30502in" />
+**H.** Se necessario sarà possibile effettuare uno sconto valore di “riga” su ogni singolo articolo
+Selezionare il riquadro blu definito dalla lettera “**F”** e scegliere la causale di sconto desiderata per dare un nuovo valore all’articolo
 
-E
+![image33](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/4a9fbbf9-90d1-44ca-b7b1-f8b9db7eb44d)
 
-Se necessario è possibile modificare la quantità sul singolo articolo.
 
-Selezionare il riquadro blu definito dalla lettera “**E**” per inserire
-una nuova quantità
-
-<img src="./media/image38.png"
-style="width:6.69306in;height:1.38819in" />
-
-Se necessario sarà possibile effettuare uno sconto % di “riga” su ogni
-singolo scontrino
-
-F
-
-Selezionare il riquadro blu contraddistinto dalla lettera “**F**” e
-scegliere la causale di sconto desiderata per inserire lo sconto % alla
-riga (si possono settare sconti % diversi)
-
-<img src="./media/image32.png"
-style="width:4.05778in;height:1.8087in" />
-
-G
-
-Se necessario sarà possibile effettuare uno sconto valore di “riga” su
-ogni singolo articolo
-
-Selezionare il riquadro blu definito dalla lettera “**F”** e scegliere
-la causale di sconto desiderata per dare un nuovo valore all’articolo
-
-<img src="./media/image33.png"
-style="width:4.23154in;height:1.95284in" />
-
-**ANNULLARE RIGHE DI VENDITA:**
+## **ANNULLARE RIGHE DI VENDITA:**
 
 Nel caso un articolo o più articoli sono stati inseriti per sbaglio,
 possono essere rimossi.
-
 Premere sull’Icona caratterizzata dalla “X” accanto alla riga
 dell’articolo per eliminarlo
 
-<img src="./media/image39.png"
-style="width:5.35353in;height:2.03465in" />
+![image39](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/17fe685d-3824-4438-9166-872112ff2dc2)
 
-Inoltre, se si necessita di annullare tutte le righe di vendita, basterà
-premere sull’icona caratterizzata dalla “X” accanto al **rettangolo
-blu** di inserimento articolo.
+Inoltre, se si necessita di annullare tutte le righe di vendita, basterà premere sull’icona caratterizzata dalla “X” accanto al **rettangolo blu** di inserimento articolo.
 
-<img src="./media/image40.png"
-style="width:5.13335in;height:1.02475in" />
+![image40](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d8cd2bf1-39ff-4d66-8808-2ebd739e454a)
 
-IMPORTANTE: Premendo su questa Icona caratterizzata dalla “X” accanto al
-rettangolo blu di inserimento articolo, si darà modo ad IPOS di andare a
-cercare nel database HQR aggiornamenti in merito alle promozioni
+**IMPORTANTE:** Premendo su questa Icona caratterizzata dalla “X” accanto al rettangolo blu di inserimento articolo, si darà modo ad IPOS di andare a cercare nel database HQR aggiornamenti in merito alle promozioni
 
-**VERIFICA DEGLI SCONTI:**
+## **VERIFICA DEGLI SCONTI:**
 
-Qualora fossimo in presenza di PROMOZIONI, IPOS ci indicherà gli
-articoli presenti nella schermata di vendita che partecipano ad una
-promozione, colorando la riga.
+Qualora fossimo in presenza di PROMOZIONI, IPOS ci indicherà gli articoli presenti nella schermata di vendita che partecipano ad una promozione, colorando la riga.
 
-<img src="./media/image41.png"
-style="width:5.06987in;height:0.69699in" />
+![image41](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/388fa266-342d-44f7-aa95-dc5a03b6aeb1)
 
-Per comprendere al meglio quale sia la promozione di cui il cliente stia
-beneficiando e verificare gli sconti applicati, utilizzare i tasti:
+Per comprendere al meglio quale sia la promozione di cui il cliente stia beneficiando e verificare gli sconti applicati, utilizzare i tasti:
 
-**Dettagli Sconto**
+- **A.** **Dettagli Sconto**
 
-A
+- **B.** **SUBTOTALE**
 
-**SUBTOTALE**
+![image42](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/8fca0fdf-1d4c-42ba-acaa-bfbb2f24f23f)
 
-B
 
-<img src="./media/image42.png"
-style="width:5.67591in;height:3.03465in" />
+## **ASSOCIARE CLIENTE ALLA VENDITA:**
 
-**ASSOCIARE CLIENTE ALLA VENDITA:**
+IPOS propone più metodi per **ricercare** un cliente da associare alla vendita:
 
-IPOS propone più metodi per **ricercare** un cliente da associare alla
-vendita:
+ - **1.** IPOS permette di ricercare un cliente inserendo nome / cognome o parte di essi, e-mail, cellulare o codice fidelity nel rettangolo blu di ricerca
+ - **2.** Tramite l’apposito menu **CLIENTE**
+ 
+ - **3.** Premendo sull’Icona a forma di sagoma
 
-1
-
-- IPOS permette di ricercare un cliente inserendo nome / cognome o parte
-  di essi, e-mail, cellulare o codice fidelity nel rettangolo blu di
-  ricerca
-
-2
-
-- Tramite l’apposito menu **CLIENTE**
-
-3
-
-- Premendo sull’Icona a forma di sagoma
-
-Inserire ad esempio la dicitura “**garava**” nel rettangolo blu e
-premere INVIO. IPOS, non riconoscendo alcun codice ci chiederà di
+**1.**
+Inserire ad esempio la dicitura “**garava**” nel rettangolo blu epremere INVIO. IPOS, non riconoscendo alcun codice ci chiederà di
 avviare la ricerca avanzata. Premere OK per avviare la ricerca avanzata.
 
-1
+![image43](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3481a8b8-1e1c-4bb6-92e2-7c9b78213a37)
 
-<img src="./media/image43.png"
-style="width:6.69306in;height:0.23403in" />
+IPOS, effettuerà una ricerca all’interno del proprio database e se troverà riscontro, mostrerà a video le corrispondenze (anche prodotti se essi contengono la dicitura inserita nella ricerca)
 
-IPOS, effettuerà una ricerca all’interno del proprio database e se
-troverà riscontro, mostrerà a video le corrispondenze (anche prodotti se
-essi contengono la dicitura inserita nella ricerca)
+![image44](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3218c3c6-1c0b-4e39-be51-3664bab35730)
 
-<img src="./media/image44.png" style="width:5.0396in;height:2.1611in" />
+Selezionare il cliente da associare allo scontrino con doppio click sinistro del mouse, per vederlo apparire nella schermata di vendita
 
-Selezionare il cliente da associare allo scontrino con doppio click
-sinistro del mouse, per vederlo apparire nella schermata di vendita
+![image45](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3e7cd715-5aab-4c7c-8459-2c71e322cc2a)
 
-<img src="./media/image45.png"
-style="width:5.10891in;height:0.41134in" />
+IPOS ci indicherà alcune informazioni importanti oltre al nominativo ovvero, se il cliente è Fidelizzato e quanti Punti ha accumulato (10 in questo caso)
 
-IPOS ci indicherà alcune informazioni importanti oltre al nominativo
-ovvero, se il cliente è Fidelizzato e quanti Punti ha accumulato (10 in
-questo caso)
+**2.**
+Selezionare il menu CLIENTE per ricercarne uno da associare alla vendita.
 
-2
+![image46](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/c660244e-8064-40a8-8721-3d4b1a4e520a)
 
-Selezionare il menu CLIENTE per ricercarne uno da associare alla
-vendita.
+Premere successivamente su “Ricerca Cliente” per entrare nel menu di ricerca
 
-<img src="./media/image46.png"
-style="width:5.08343in;height:1.41089in" />
+![image47](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/9b708091-76ad-45aa-97d0-9cff5e2247e4)
 
-Premere successivamente su “Ricerca Cliente” per entrare nel menu di
-ricerca
+Il menu di ricerca si presenta con una finestra composta da **vari filtri ricerca**.
 
-<img src="./media/image47.png"
-style="width:0.89583in;height:2.74444in" /> Il menu di ricerca si
-presenta con una finestra composta da **vari filtri ricerca**.
+![image48](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/b52eb58c-3f4c-4de4-82e4-9157fd5496f6)
 
-<img src="./media/image48.png"
-style="width:2.11386in;height:2.44077in" />
+Basterà filtrare per Partita IVA, e-mail, Cognome, Fidelity Card o codice fiscale per avere un riscontro. Per esempio inserendo “**Rossi**”
+nel BOX del Cognome e premendo carica, IPOS ci mostrerà l’elenco dI tutti i clienti con questo Cognome
 
-Basterà filtrare per Partita IVA, e-mail, Cognome, Fidelity Card o
-codice fiscale per avere un riscontro. Per esempio inserendo “**Rossi**”
-nel BOX del Cognome e premendo carica, IPOS ci mostrerà l’elenco di
-tutti i clienti con questo Cognome
+![image49](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/b36f09b2-a808-43c1-bfa3-b52263ed2da1)
 
-<img src="./media/image49.png"
-style="width:6.69306in;height:2.31181in" />
+Selezionare con un click sinistro del mouse il cliente desiderato per far sì che venga associato alla vendita
 
-Selezionare con un click sinistro del mouse il cliente desiderato per
-far sì che venga associato alla vendita
+![image50](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/538a84d1-ac16-47d6-ba8b-4b70765f03c3)
 
-<img src="./media/image50.png"
-style="width:5.1423in;height:2.64851in" />
+**3.**
+Selezionare in basso a sinistra l’icona contraddistinta da una “Sagoma” per avviare il menu di ricerca cliente.
 
-3
+![image51](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/57f2411e-c98a-404b-aa6e-8ce52dd8c622)
 
-Selezionare in basso a sinistra l’icona contraddistinta da una “Sagoma”
-per avviare il menu di ricerca cliente.
+>**NOTA:** La ricerca prosegue come affrontato nel paragrafo 2.
 
-<img src="./media/image51.png" style="width:5.14374in;height:2.661in" />
+## **CREARE UN NUOVO CLIENTE:**
 
-NOTA: La ricerca prosegue come affrontato nel paragrafo 2.
-
-**CREARE UN NUOVO CLIENTE:**
-
-Per creare un nuovo cliente si deve selezionare il tasto “NUOVO” del
-menu di ricerca cliente. (Come raggiungere il menu di ricerca cliente è
+Per creare un nuovo cliente si deve selezionare il tasto “NUOVO” del menu di ricerca cliente. (Come raggiungere il menu di ricerca cliente è
 stato descritto nel capitolo precedente)
 
-<img src="./media/image52.png"
-style="width:1.62871in;height:1.90098in" />
+![image52](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/300a412a-7bee-4b23-8064-1963519afb0a)
 
-In seguito IPOS proporrà di creare o una **Persona Fisica** o
-**un’Azienda** (Persona Giuridica). Sarà inoltre possibile associare il
-cliente ad un circuito Fidelity Card (se esistente)
+In seguito IPOS proporrà di creare o una **Persona Fisica** o**un’Azienda** (Persona Giuridica). 
+Sarà inoltre possibile associare il cliente ad un circuito Fidelity Card (se esistente)
 
-<img src="./media/image53.png"
-style="width:2.46494in;height:1.02475in" />
+![image53](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5f6c092f-df5a-4074-be79-b2e4db950b98)
 
-Esempio di compilazione dati anagrafici cliente (i campi con asterisco
-sono obbligatori per effettuare la fattura)
+Esempio di compilazione dati anagrafici cliente (i campi con asterisco sono obbligatori per effettuare la fattura)
 
-<img src="./media/image54.png"
-style="width:2.92289in;height:2.09406in" />
+![image54](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/9d78a6bf-88be-4ade-8802-207b72d26c0f)
 
-Dopo aver inserito l’anagrafica, nella sezione **Card** sarà possibile
-associare al cliente una Fidelity Card.
+Dopo aver inserito l’anagrafica, nella sezione **Card** sarà possibile associare al cliente una Fidelity Card.
 
 Per effettuare tale operazione necessita:
 
-- cliccare sul tasto **Registrare**
+- **1.** cliccare sul tasto **Registrare**
 
-1
+![image55](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d1947c6e-e8ed-4559-85ea-ffbcb5dc1249)
 
-<img src="./media/image55.png"
-style="width:2.91089in;height:2.10619in" />
 
-- Rispondere **SI** al messaggio
+- **2.** Rispondere **SI** al messaggio
 
-2
+![image56](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/6ed1006f-1397-4251-867e-c9fbff31be59)
 
-<img src="./media/image56.png"
-style="width:3.06528in;height:1.28264in" />
+- **3.** Selezionare tramite il **Drop Menu** (Tipo Carta) il circuito Fidelitydesiderato, leggere il codice barcode della tessera per registrarla e
+selezionare ok per concludere l’operazione
 
-3
+![image57](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/f86b3f84-2450-4358-946d-2d93238104d1)
 
-- Selezionare tramite il **Drop Menu** (Tipo Carta) il circuito Fidelity
-  desiderato, leggere il codice barcode della tessera per registrarla e
-  selezionare ok per concludere l’operazione
+Infine premere OK per mandare in stampa l’Informativa Privacy da far firmare al Cliente.
 
-<img src="./media/image57.png"
-style="width:1.40069in;height:1.37778in" />
+La creazione del cliente è ora terminata in quanto lo stesso è presente nella schermata di vendita
 
-Infine premere OK per mandare in stampa l’Informativa Privacy da far
-firmare al Cliente.
+![image58](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/122c2f4c-6cce-4310-9d45-ad08cbc56550)
 
-La creazione del cliente è ora terminata in quanto lo stesso è presente
-nella schermata di vendita
-
-<img src="./media/image58.png"
-style="width:5.22933in;height:2.71287in" />
-
-**MODIFICA ANAGRAFICA CLIENTE:**
+## **MODIFICA ANAGRAFICA CLIENTE:**
 
 Per modificare l’anagrafica cliente vi sono due opzioni:
 
-- Premere sull’icona caratterizzata dalla “Sagoma” situata in basso a
+- **1.** Premere sull’icona caratterizzata dalla “Sagoma” situata in basso a
   sinistra della schermata di vendita
 
-<img src="./media/image59.png"
-style="width:3.87592in;height:2.02136in" />
+![image59](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3a1cabe8-fdb2-470a-ad9d-a33852b414c0)
 
-- Premere sul menu **Cliente** situato sulla destra della schermata di
-  vendita ed in seguito sul tasto **Modifica**
 
-<img src="./media/image60.png"
-style="width:2.59113in;height:2.06436in" />
+- **2.** Premere sul menu **Cliente** situato sulla destra della schermata di vendita ed in seguito sul tasto **Modifica**
 
-**STORICO ACQUISTI CLIENTE:**
+![image60](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2526a120-95f6-4b0a-beb2-1df11a717c88)
 
-- <img src="./media/image61.png"
-  style="width:2.61881in;height:2.08609in" />Per visualizzare lo storico
-  acquisti del cliente, premere sul menu **Cliente** situato sulla
-  destra della schermata di vendita ed in seguito sul tasto
-  **Acquisti.**
 
-<img src="./media/image62.png"
-style="width:6.69306in;height:0.76042in" />
+## **STORICO ACQUISTI CLIENTE:**
+
+Per visualizzare lo storico acquisti del cliente, premere sul menu **Cliente** situato sulla destra della schermata di vendita ed in seguito sul tasto **Acquisti.**
+
+![image61](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/60bd4fce-df67-4ffa-809d-08910aaafd12)
+
+![image62](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/15433a6d-ef07-4b38-bd8d-dd627f1cf26e)
 
 - **CONCLUSIONE DELLA VENDITA:**
 
-Dopo aver inserito gli articoli nella schermata di vendita procedere
-all’emissione dello scontrino premendo il tasto pagamento situato sulla
+Dopo aver inserito gli articoli nella schermata di vendita procedere all’emissione dello scontrino premendo il tasto pagamento situato sulla
 destra della schermata di vendita.
 
-IMPORTANTE: per emettere una fattura, è necessario che vi sia associato
-alla vendita un cliente.
+IMPORTANTE: per emettere una fattura, è necessario che vi sia associato alla vendita un cliente.
 
-<img src="./media/image63.png"
-style="width:4.15523in;height:2.13366in" />
+![image63](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/fc9f1707-3d2c-42db-9850-29fc2937c241)
 
-1
 
-Utilizzare la cella per indicare l’importo pagato
+**1.** Utilizzare la cella per indicare l’importo pagato 
 
-Selezionare il tipo di pagamento utilizzato dal cliente (è possibile
-indicare pagamenti misti)
+**2.** Selezionare il tipo di pagamento utilizzato dal cliente (è possibile indicare pagamenti misti)
 
-2
+- **A.** È possibile selezionare “Scontrino di cortesia” per stampare lo scontrino di cortesia in coda allo scontrino fiscale.
 
-- È possibile selezionare “Scontrino di cortesia” per stampare lo
-  scontrino di cortesia in coda allo scontrino fiscale.
+- **B.**  È possibile registrare il codice lotteria del cliente, selezionando il pulsante “Codice Lotteria”.
 
-B
-
-A
-
-- È possibile registrare il codice lotteria del cliente, selezionando il
-  pulsante “Codice Lotteria”.
-
-> Nota: È possibile partecipare alla lotteria degli scontrini solo se si
+> **Nota:** È possibile partecipare alla lotteria degli scontrini solo se si
 > è utilizzato il pagamento elettronico.
 
-C
+- **C.**  E’ possibile selezionare “Fattura” , per stampare una fattura al termine dell’emissione scontrino
 
-- E’ possibile selezionare “Fattura” , per stampare una fattura al
-  termine dell’emissione scontrino
+**3.** Premere “Stampa Scontrino”. La transazione verrà registrata e verrà emesso lo scontrino fiscale.
 
-3
+![image64](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/c01674b4-175a-4e8d-aad9-a3b69eea0a2b)
 
-Premere “Stampa Scontrino”. La transazione verrà registrata e verrà
-emesso lo scontrino fiscale.
 
-<img src="./media/image64.png"
-style="width:6.69306in;height:2.76667in" />
+# **EFFETTUARE UN RESO:**
 
-- **EFFETTUARE UN RESO:**
+**1.** Leggere il codice a barre riportato sullo scontrino di vendita
 
-1
+![image65](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/019e8c8b-c563-4c71-8d4e-9840f2807a1d)
 
-Leggere il codice a barre riportato sullo scontrino di vendita
+**2.** Selezionare gli articoli che il cliente rende
+**3.** Premere “Rendi selezione”
 
-<img src="./media/image65.png"
-style="width:3.99181in;height:2.19802in" />
+![image66](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5bb08fc8-8cf6-4657-878c-b6e27a6d20c9)
 
-2
+**4.** Selezionare una causale di reso
 
-2
+![image67](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d8065da3-8eb6-443f-9540-e23268c5e1f6)
 
-Selezionare gli articoli che il cliente rende
-
-3
-
-Premere “Rendi selezione”
-
-<img src="./media/image66.png"
-style="width:4.07921in;height:2.18689in" />
-
-3
-
-4
-
-Selezionare una causale di reso
-
-<img src="./media/image67.png"
-style="width:4.00486in;height:2.19931in" />
-
-Nota: la riga dell’articolo o degli articoli resi verrà riportata con
+> **Nota:** la riga dell’articolo o degli articoli resi verrà riportata con
 carattere di colore rosso e le quantità saranno negative
 
 A
