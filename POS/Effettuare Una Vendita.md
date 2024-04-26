@@ -416,187 +416,117 @@ IMPORTANTE: per emettere una fattura, è necessario che vi sia associato alla ve
 
 ![image67](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d8065da3-8eb6-443f-9540-e23268c5e1f6)
 
-> **Nota:** la riga dell’articolo o degli articoli resi verrà riportata con
+> **Nota:** **A.** la riga dell’articolo o degli articoli resi verrà riportata con
 carattere di colore rosso e le quantità saranno negative
 
-A
+**5.** Premere “Pagamento”
 
-5
+![image68](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/242cc356-1cb1-4d7d-9a3d-0e231b6a833e)
 
-Premere “Pagamento”
+**6.** Confermare il messaggio premendo “OK”
 
-<img src="./media/image68.png"
-style="width:4.05446in;height:2.2342in" />
+![image69](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5aa63fc6-3bb0-437c-bad8-2b3216e9c999)
 
-6
 
-Confermare il messaggio premendo “OK”
+**7.** Premere “Stampa Scontrino”. La transazione verrà registrata e verrà emesso il buono di reso
 
-<img src="./media/image69.png"
-style="width:4.13004in;height:2.25743in" />
+**A.** Se si deve restituire il denaro al cliente, rimuovere con la X il “Buono di Reso” e selezionare “Contante”
 
-7
+![image70](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/6cebcce8-5b75-4e7b-aaa1-2ff550ee1c42)
 
-Premere “Stampa Scontrino”. La transazione verrà registrata e verrà
-emesso il buono di reso
+## **EFFETTUARE UN RESO BLIND:**
 
-A
+![image71](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/7a97f4d9-117d-44e0-ac7f-ef7f9d2e9300)
 
-Se si deve restituire il denaro al cliente, rimuovere con la X il “Buono
-di Reso” e selezionare “Contante”
+**1.** Aggiungere i prodotti nella schermata di vendita 
 
-<img src="./media/image70.png"
-style="width:4.19306in;height:2.28958in" />
+**2.** Premere sul campo “Qta” (o premere il tasto F8 della tastiera)
 
-<img src="./media/image71.png"
-style="width:4.40592in;height:2.43564in" />**EFFETTUARE UN RESO
-BLIND:**
+![image72](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/017f1e93-e8a0-4e66-a711-59d857f05fc1)
 
-Aggiungere i prodotti nella schermata di vendita
+**3.** Riportare la quantità dell’articolo da rendere in valore negativo
 
-1\\\\ \\
+![image73](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/cfd9bd30-e99b-4ad2-9aa3-79f0a43246c2)
 
-<img src="./media/image72.png"
-style="width:4.50737in;height:2.4604in" />Premere sul campo “Qta” (o
-premere il tasto F8 della tastiera)
 
-2\\\\ \\
+**4.** Premere “Pagamento”
 
-Riportare la quantità dell’articolo da rendere in valore negativo
-
-3\\\\ \\
-
-<img src="./media/image73.png"
-style="width:4.56383in;height:2.48885in" />
-
-4\\\\ \\
-
-Premere “Pagamento”
-
-A\\\\ \\
-
-Nota: la riga dell’articolo o degli articoli resi verrà riportata con
+> **Nota:** **A.** la riga dell’articolo o degli articoli resi verrà riportata con
 carattere di colore rosso e le quantità saranno negative
 
-<img src="./media/image74.png"
-style="width:3.09406in;height:2.16036in" />
+![image74](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d159681a-99bc-4535-9582-ccbb50cd3bad)
 
 Compilare la maschera che comparirà con i dati dello scontrino di
 vendita che contiene il prodotto da rendere
 
-- spuntare “Emesso da Registratore Telematico”
+- **B.** spuntare “Emesso da Registratore Telematico”
 
-B
-
-- Indicare il numero di azzeramento riportato sullo scontrino (è
+- **C.** Indicare il numero di azzeramento riportato sullo scontrino (è
   riportato sullo scontrino come primo numero in corrispondenza di DOC)
 
-D
-
-C
-
-- Indicare il numero progressivo di scontrino riportato sullo scontrino
+- **D.** Indicare il numero progressivo di scontrino riportato sullo scontrino
   (è riportato sullo scontrino come primo numero in corrispondenza di
   DOC)
 
-E
+- **E.** Indicare la data di emissione dello scontrino
 
-- Indicare la data di emissione dello scontrino
-
-F
-
-- Se lo scontrino è stato emesso da una stampante fiscale differente da
-  quella che si sta utilizzando o è stato emesso da un altro negozio,
-  spuntare la voce “Scontrino emesso da un’altra stampante” ed indicare
-  il numero di matricola della stampante fiscale che ha emesso sullo
+- **F.** Se lo scontrino è stato emesso da una stampante fiscale differente da quella che si sta utilizzando o è stato emesso da un altro negozio,
+  spuntare la voce “Scontrino emesso da un’altra stampante” ed indicare il numero di matricola della stampante fiscale che ha emesso sullo
   scontrino (l’informazione è riportata sullo scontrino)
 
-5\\
+**5.** Premere “OK
 
-<img src="./media/image75.png"
-style="width:3.71251in;height:2.0396in" />Premere “OK
+![image75](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/213147ac-a9a0-4fe2-9a76-62f49e8d17ff)
 
-6\\
 
-<img src="./media/image76.png"
-style="width:3.66234in;height:1.99979in" />Confermare il messaggio
-premendo “OK”
+**6.** Confermare il messaggio premendo “OK”
 
-7
+**7.** Premere “Stampa Scontrino”. La transazione verrà registrata e verrà emesso il buono di reso
 
-Premere “Stampa Scontrino”. La transazione verrà registrata e verrà
-emesso il buono di reso
+**A.** Se si deve restituire il denaro al cliente, rimuovere con la X il “Buono di Reso” e selezionare “Contante”
 
-A
+![image76](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/724d3de2-a9c2-4879-bd46-3c616ec46a73)
 
-Se si deve restituire il denaro al cliente, rimuovere con la X il “Buono
-di Reso” e selezionare “Contante”
 
-**EFFETTUARE UN RESO DA ELENCO SCONTRINI:**
+## **EFFETTUARE UN RESO DA ELENCO SCONTRINI:**
 
 Vi sono ulteriori due metodi per emettere uno scontrino di reso
 
-1
+- **1.** Selezionando uno scontrino dal menu “**vendite scontrini**”
 
-- Selezionando uno scontrino dal menu “**vendite scontrini**”
+- **2.** Selezionando uno scontrino dallo storico “**acquisti**” di un cliente
 
-2
-
-- Selezionando uno scontrino dallo storico “**acquisti**” di un cliente
-
-1a
-
-Selezionare il menu **Funzioni** situato sulla destra della schermata di
+**1a.** Selezionare il menu **Funzioni** situato sulla destra della schermata di
 vendita ed in seguito sulla voce **Venduto**.
 
 Cliccare successivamente “**Vendite Scontrini**” per entrare nell’elenco
 scontrini del negozio.
 
-<img src="./media/image77.png"
-style="width:3.53333in;height:2.16458in" />
+![image77](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/fdf2bfd3-d305-422e-b745-77b552596b22)
 
-<img src="./media/image78.png"
-style="width:4.40214in;height:1.10396in" />Selezionare la data dello
-scontrino e mettere il flag su “**Mostra tutte le casse**” qualora lo
+Selezionare la data dello scontrino e mettere il flag su “**Mostra tutte le casse**” qualora lo
 scontrino fosse stato emesso su di un’altra postazione di vendita.
 
-Cliccare sullo scontrino desiderato per espandere gli articoli presenti
-in esso e selezionare ciò che si vuole rendere.
+![image78](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/1f25e449-3671-4cc5-8c65-32facad4a3a0)
 
-<img src="./media/image79.png"
-style="width:4.48525in;height:2.5495in" />
+Cliccare sullo scontrino desiderato per espandere gli articoli presenti in esso e selezionare ciò che si vuole rendere.
 
-A
+![image79](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/28c7eab3-21fc-4296-a4b8-a3d742e37807)
 
-Selezionare questo flag in alto a sinistra per indicare di voler rendere
-tutti gli articoli dello scontrino (Tutti i flag sotto verranno
-selezionati) e premere Rendi Selezione definito dalla lettera **D** per
-rendere gli articoli.
 
-Selezionare il flag accanto all’articolo o agli articoli che si desidera
-rendere e premere il pulsante **Rendi Selezione** definito dalla lettera
-**D** per rendere gli articoli.
+**A.** Selezionare questo flag in alto a sinistra per indicare di voler rendere tutti gli articoli dello scontrino 
+(Tutti i flag sotto verranno selezionati) e premere Rendi Selezione definito dalla lettera **D** per rendere gli articoli.
 
-B
+**B.** Selezionare il flag accanto all’articolo o agli articoli che si desidera rendere e premere il pulsante **Rendi Selezione** definito dalla lettera **D** per rendere gli articoli.
 
-Nella colonna **Quantità Resa**, se troveremo un numero superiore allo
-0, significa che l’articolo selezionato è già stato reso in precedenza
-per la quantità indicata. Per cui, qualora la quantità venduta è 1 e in
-questa colonna per l’articolo che stiamo provando a rendere c’è il
-numero 1, IPOS ci avviserà che l’articolo selezionato è già stato reso
-in precedenza.
 
-D
+**C.** Nella colonna **Quantità Resa**, se troveremo un numero superiore allo 0, significa che l’articolo selezionato è già stato reso in precedenza per la quantità indicata.
+Per cui, qualora la quantità venduta è 1 e in questa colonna per l’articolo che stiamo provando a rendere c’è il numero 1, IPOS ci avviserà che l’articolo selezionato è già stato reso in precedenza.
 
-C
+**D.** Premendo il tasto **Seleziona tutto** definito dalla lettera **D**, verrà selezionato il flag definito dalla lettera **A** indicando di voler rendere tutti gli articoli dello scontrino. 
+In seguito premere il pulsante **Rendi Selezione** definito dalla lettera **D** per rendere gli articoli.
 
-Premendo il tasto **Seleziona tutto** definito dalla lettera **D**,
-verrà selezionato il flag definito dalla lettera **A** indicando di
-voler rendere tutti gli articoli dello scontrino. In seguito premere il
-pulsante **Rendi Selezione** definito dalla lettera **D** per rendere
-gli articoli.
-
-Nella sezione definita dalla lettera **E** in basso a destra della
+**E.** Nella sezione definita dalla lettera **E** in basso a destra della
 schermata si potrà
 
 - Ristampare lo scontrino
@@ -605,9 +535,9 @@ schermata si potrà
 
 - Emettere una fattura per gli articoli selezionati
 
-<img src="./media/image80.png"
-style="width:2.24434in;height:0.93542in" />Verrà data la possibilità
-dopo aver stampato lo scontrino di:
+![image80](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5aefe2b8-7c83-4bb1-9641-8bf7c64c1449)
+
+Verrà data la possibilità dopo aver stampato lo scontrino di:
 
 - modificare il Cliente ed emettere la fattura
 
@@ -622,132 +552,82 @@ dopo aver stampato lo scontrino di:
 In seguito ad aver scelto gli articoli da rendere, si dovrà selezionare
 la causale di reso.
 
-1b
+**1b.**
 
-**IMPORTANTE:** **SOLO** la causale con il riquadro azzurro deve essere
-utilizzata per un cambio taglia. Le altre Causali sono da usare per
-prodotti difettati i quali verranno inseriti automaticamente nel reso
-dei difettati qualora bisognerà renderli alla sede
+>**IMPORTANTE:** **SOLO** la causale con il riquadro azzurro deve essere utilizzata per un cambio taglia. Le altre Causali sono da usare per
+prodotti difettati i quali verranno inseriti automaticamente nel reso dei difettati qualora bisognerà renderli alla sede
 
-<img src="./media/image81.png"
-style="width:5.24425in;height:2.64497in" />
+![image81](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/77d48f4c-3666-4470-8a06-75279689ef68)
 
-1c
+**1c.**
 
-Dopo aver selezionato la causale di reso, l’articolo o gli articoli che
-stiamo rendendo verranno inseriti nella schermata di vendita. La riga
-degli articoli sarà caratterizzata dal rosso.
+Dopo aver selezionato la causale di reso, l’articolo o gli articoli che stiamo rendendo verranno inseriti nella schermata di vendita. 
+La riga degli articoli sarà caratterizzata dal rosso.
 
-<img src="./media/image82.png"
-style="width:5.21849in;height:0.83708in" />
+![image82](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a187c79a-ed90-4e33-8db7-fa759857f363)
 
-Potremo anche in questo caso modificare l’articolo come vogliamo ma,
-perderemo il collegamento allo scontrino e dovremo procedere come
-spiegato nel capito “**Effettuare reso blind**”. Premendo sul tasto
-pagamenti per concludere l’operazione di reso.
+Potremo anche in questo caso modificare l’articolo come vogliamo ma, perderemo il collegamento allo scontrino e dovremo procedere come
+spiegato nel capito “**Effettuare reso blind**”. Premendo sul tasto pagamenti per concludere l’operazione di reso.
 
-Premere “Pagamento”
+**1d.** Premere “Pagamento”
 
-1d
+![image68](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/00476a09-01f9-4c9c-90b5-533f87a3ffb2)
 
-<img src="./media/image68.png"
-style="width:4.05446in;height:2.2342in" />
 
-1e
+**1e.** Confermare il messaggio premendo “OK”
 
-Confermare il messaggio premendo “OK”
+![image69](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/103dd171-541a-42f8-bd73-093aa1be646d)
 
-<img src="./media/image69.png"
-style="width:4.13004in;height:2.25743in" />
+**1f.** Premere “Stampa Scontrino”. La transazione verrà registrata e verrà emesso il buono di reso
 
-1f
+**A.** Se si deve restituire il denaro al cliente, rimuovere con la X il “Buono di Reso” e selezionare “Contante”
 
-Premere “Stampa Scontrino”. La transazione verrà registrata e verrà
-emesso il buono di reso
+![image70](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/824602d8-3a94-46f6-b88d-c8f128f698d0)
 
-A
 
-Se si deve restituire il denaro al cliente, rimuovere con la X il “Buono
-di Reso” e selezionare “Contante”
+**2a.** Associare un cliente alla vendita (**Vedere capito Associare cliente ad una vendita**) e premere sul menu Cliente situato sul lato sinistro
+della schermata di vendita. Quindi premere sul tasto Acquisti per aprire lo storico acquisti del cliente
 
-<img src="./media/image70.png"
-style="width:4.19306in;height:2.28958in" />
+![image83](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/436949e7-c39b-4675-ad10-7521afc4341b)
 
-Associare un cliente alla vendita (**Vedere capito Associare cliente ad
-una vendita**) e premere sul menu Cliente situato sul lato sinistro
-della schermata di vendita. Quindi premere sul tasto Acquisti per aprire
-lo storico acquisti del cliente
+**1.** Selezionare questo flag in alto a sinistra per indicare di voler ristampare tutti gli scontrini (Tutti i flag sotto verranno selezionati)
+e premere Ristampa definito dal numero **1** per ristampare gli scontrini.
 
-2a
+**2.** Selezionare con il flag definito dal numero **2** accanto ad uno scontrino dello storico acquisti del cliente, lo scontrino per l’operazione di reso
 
-<img src="./media/image83.png"
-style="width:2.82155in;height:2.26697in" />
-
-10
-
-Selezionare questo flag in alto a sinistra per indicare di voler
-ristampare tutti gli scontrini (Tutti i flag sotto verranno selezionati)
-e premere Ristampa definito dal numero **1** per ristampare gli
-scontrini.
-
-20
-
-Selezionare con il flag definito dal numero **2** accanto ad uno
-scontrino dello storico acquisti del cliente, lo scontrino per
-l’operazione di reso
-
-30
-
-<img src="./media/image84.png"
-style="width:4.25009in;height:2.02715in" />Se si desidera non rendere
-tutti gli articoli dello scontrino ma solo 1 o alcuni,cliccare sul
-riquadro colorato di blu per aprire lo scontrino e selezionare gli
+**3.** Se si desidera non rendere tutti gli articoli dello scontrino ma solo 1 o alcuni,cliccare sul riquadro colorato di blu per aprire lo scontrino e selezionare gli
 articoli da rendere
 
-40
+![image84](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/76bb1d0c-6041-4bc0-8c5d-2d521fa80171)
 
-Nella colonna **Quantità Resa** definita dal numero **3**, se troveremo
-un numero superiore allo 0, significa che l’articolo o gli articoli
-dello scontrino selezionato sono già stati resi in precedenza per la
+
+**4.** Nella colonna **Quantità Resa** definita dal numero **3**, se troveremo un numero superiore allo 0, significa che l’articolo o gli articoli dello scontrino selezionato sono già stati resi in precedenza per la
 quantità indicata.
 
-Dopo aver selezionato lo scontrino da rendere premere il tasto Rendi
-selezione definito dal numero **5** per avviare la procedura di reso.
+**5.** Dopo aver selezionato lo scontrino da rendere premere il tasto Rendi selezione definito dal numero **5** per avviare la procedura di reso.
 (Controllare la procedura descritta nel metodo 1)
 
-50
+**6.** Dopo aver selezionato lo scontrino da ristampare premere il tasto Ristampa definito dal numero **6** per avviare la procedura di ristampa scontrino.
 
-<img src="./media/image85.png"
-style="width:5.39366in;height:2.55841in" />Dopo aver selezionato lo
-scontrino da ristampare premere il tasto Ristampa definito dal numero
-**6** per avviare la procedura di ristampa scontrino.
+![image85](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/7eb4ff28-ada0-49df-8390-154c8306931d)
 
-60
+# **EFFETTUARE NUOVA VENDITA MISTA:**
 
-- **EFFETTUARE NUOVA VENDITA MISTA:**
+E’ consentito effettuare vendite miste che contengono nelle righe di vendita sia articoli da rendere che da acquistare.
 
-E’ consentito effettuare vendite miste che contengono nelle righe di
-vendita sia articoli da rendere che da acquistare.
+Basterà leggere all’interno della schermata di vendita un articolo o più da acquistare ed uno o più articoli da rendere.
 
-Basterà leggere all’interno della schermata di vendita un articolo o più
-da acquistare ed uno o più articoli da rendere.
-
-**NOTA**: dopo aver letto un articolo in vendita e deve essere reso, è
-possibile tramite il tasto veloce F8 della tastiera per far si che la
+>**NOTA:** dopo aver letto un articolo in vendita e deve essere reso, è possibile tramite il tasto veloce F8 della tastiera per far si che la
 riga dell’articolo diventi da vendita a reso
 
 Di seguito un esempio di vendita Mista:
 
-<img src="./media/image86.png"
-style="width:6.69306in;height:3.41597in" />
+![image86](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/af49ca98-e909-464e-b48b-38a8ad9ddc00)
 
-IL valore della riga di reso verrà decurtata dal valore dello scontrino
-e premendo sul tasto pagamenti alla destra della schermata di vendita si
+IL valore della riga di reso verrà decurtata dal valore dello scontrino e premendo sul tasto pagamenti alla destra della schermata di vendita si
 potrà procedere con la conclusione della vendita.
 
-<img src="./media/image87.png"
-style="width:6.69306in;height:2.77153in" />
+![image87](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/4b7352d0-5617-4a05-a06e-53ed533c0926)
 
-Selezionare il metodo di pagamento e premere Stampa Scontrino per
-concludere la vendita. (Per maggiori dettagli far riferimento al
+Selezionare il metodo di pagamento e premere Stampa Scontrino per concludere la vendita. (Per maggiori dettagli far riferimento al
 capitolo “**CONCLUSIONE DI UNA VENDITA**”)
