@@ -1,7 +1,8 @@
 ---
 title: Movimenti Magazzino
 layout: home
-parent: BackOffice Negozio
+parent: Flusso Merce
+grand_parent: BackOffice Negozio
 nav_order: 7
 ---
 
