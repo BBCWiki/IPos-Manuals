@@ -7,14 +7,14 @@ nav_order: 4
 # Release Notes
 ## Version 1.24.4.5 - Date 26/04/2024
  
-### FIXES
+### Fixes
 
 - Fixed a bug which prevented the user to print a DDT if the description of a product contained lens graduations (e.g. -5.00)
 - Fixed a bug which blocked the user interface while "Check All" button was pressed when store selector drop down menu was opened
 - Fixed a bug which was not showing correct fidelity points on buono di reso (Punti Sulla Spesa and Client's total points)
 - Fixed quantities not being seen when creating a DDT with defective products.
 
-### CHANGES
+### Changes
  
 - Creating a DDT from a store to a contact now allows choosing from all contacts instead of only the ones which are visible for the store.
  
@@ -29,7 +29,7 @@ BO -> Registry -> Base Information -> Companies
 - Providing the ability to set one of the Alternative Addresses of the company as the delivery address of the company.
 - If a delivery address is set, that selected address will be displayed in the buyer plan report "Print Document by Product" as Destinazione Merce.
 
-### IMPROVEMENTS
+### Improvements
 
 - Delivery Documents, Entrance Goods improvements on the processes of loading, saving and sync.
 
