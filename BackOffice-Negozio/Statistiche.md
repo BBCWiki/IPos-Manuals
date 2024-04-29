@@ -1,7 +1,7 @@
 ---
 title: Statistiche
 layout: home
-parent: BackOffice Sede
+parent: BackOffice Negozio
 nav_order: 6
 ---
 
