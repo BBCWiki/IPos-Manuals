@@ -15,14 +15,15 @@ nav_order: 4
 - Fixed quantities not being seen when creating a DDT with defective products.
 
 ### Changes
- 
+
+BO -> Goods Flow -> Delivery Documents
 - Creating a DDT from a store to a contact now allows choosing from all contacts instead of only the ones which are visible for the store.
  
-BO -> Goods Moving
+BO -> Goods Flow -> Goods Moving
 - changed the percentage calculation to be sold / loaded from orders
 - made the supplier code and supplier name columns visible by default
 - made possible to see percentage by store and also by total sales
-BO -> Movements
+BO -> Goods Flow -> Movements
 - made notes of a DDT visible in ManualMovements
  
 BO -> Registry -> Base Information -> Companies
