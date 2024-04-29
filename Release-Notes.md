@@ -6,7 +6,7 @@ nav_order: 4
 
 # Release Notes
 ## Version 1.24.4.5 - Date 26/04/2024
-
+ 
 ### FIXES
 
 - Fixed a bug which prevented the user to print a DDT if the description of a product contained lens graduations (e.g. -5.00)
