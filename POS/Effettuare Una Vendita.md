@@ -1,7 +1,7 @@
 ---
 title: Effettuare Una Vendita
 layout: home
-parent: BackOffice Sede
+parent: BackOffice Negozio
 nav_order: 3
 ---
 # ***EFFETTUARE UNA VENDITA:***
