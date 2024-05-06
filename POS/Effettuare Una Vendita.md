@@ -611,6 +611,76 @@ quantità indicata.
 
 ![image85](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/7eb4ff28-ada0-49df-8390-154c8306931d)
 
+- **VENDITA GIFT CARD**
+
+Per vendere una GiFT CARD, bisognerà premere sul pulsante definito dall’Icona del “Codice a barre” per entrare nelle **categorie
+prodotto.** Selezionare Gift Card per aprire l’elenco e selezionare il voucher che si desidera vendere.
+
+Selezionare GiFT CARD 2023 per vendere un voucher di questo circuito.
+
+![image1](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/655c2ef6-4b3d-4605-b306-e263ddded88b)
+
+
+Verrà dunque chiesto di leggere il codice della gift e di indicare il valore desiderato dal cliente. Premere OK per passare immediatamente alla conclusione della vendita.
+
+**IMPORTANTE:** “ NON sarà possibile vendere degli articoli assieme ad una gift card”
+
+![image2](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d587bd58-670a-4f34-b648-888fdd4fa181)
+
+
+Concludere quindi la vendita selezionando un metodo pagamento e stampando lo scontrino
+
+![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/73f0dbee-c30f-4987-b965-31f7003415bd)
+
+
+- **UTILIZZO DI UN VOUCHER**
+
+Vi sono due tipologie di Voucher \ GIft e sono
+
+- Voucher \ Gift Economico (Vengono utilizzati direttamente in vendita
+  come riga di reso)
+
+- Voucher \ Gift Finanziari (Il cui utilizzo verrà spiegato di seguito)
+
+Dopo aver letto tutti gli articoli, premere sul tasto pagamenti asinistra della schermata di vendita
+ 
+![image4](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d1e7978d-8129-49e4-8cdc-218426ad0adf)
+
+Scegliere come metodo di Pagamento “**BUONI**”.
+
+![image5](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/755fec87-262a-4b2f-b800-11a83e355317)
+
+Verrà aperta la schermata di “check” (controllo) del buono per certificare che sia ancora valido (che non abbia valore 0) e attivo (che non sia scaduta la data per l’utilizzo). Leggere dunque con la pistola barcode il codice del voucher per verificarne lo stato
+
+![image6](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2cb208e4-8ef4-4e8f-9eed-ab8e3839599c)
+
+
+**1.** Leggere qui il codice del Buono
+
+**2.** Verificarne lo stato nella sezione definita dal numero 2 (Se verde è valido)
+
+**3.** Nella sezione caratterizzata dal numero 3, troviamo il riepilogo sullo stato del Buono.
+
+**4.** Premere ok per inserire il valore del Buono nei pagamenti
+
+![image7](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/59d9ce55-fe6c-4589-b26e-a145b4585cfa)
+
+
+Concludere la vendita aggiungendo un ulteriore metodo di pagamento e premendo su stampa scontrino.
+
+![image8](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/be3fd242-3add-49f4-bb6a-61e8e4c0f9eb)
+
+
+>**NOTA :** Lo stesso procedimento può essere svolto con i Buoni da reso.
+
+Qualora si vuole verificare se un voucher \ gift sia valido prima di entrare nei pagamenti, lo si può verificare dal menu Finanziario sulla sinistra della schermata di vendita, premendo in seguito su “Saldo Gift Card”
+
+![image9](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/0871f911-3925-4106-86b2-70cce2df21fc)
+
+Nel nostro caso specifico, la gift card che abbiamo usato in precedenza avendo terminato il saldo non può essere più utilizzata.
+
+
+
 # **EFFETTUARE NUOVA VENDITA MISTA:**
 
 E’ consentito effettuare vendite miste che contengono nelle righe di vendita sia articoli da rendere che da acquistare.
