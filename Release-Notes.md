@@ -10,7 +10,18 @@ nav_order: 4
 ### Fixes
 
 - When the RequestUserCode parameter is set to true, a fix has been implemented to ensure that the Order.CreateUserId is updated with the UserId provided by the user
-- 
+
+## Version 1.24.4.6 - Date 30/04/2024
+
+### Changes
+
+BO -> Goods Moving
+- Addressed an inconsistency in the sold percentage calculation
+
+### Fixes
+BO -> EntranceGoods
+-  Resolved an issue preventing products with a quantity of 0 from being visible within EntranceGoods
+ 
 ## Version 1.24.4.5 - Date 26/04/2024
  
 ### Fixes
