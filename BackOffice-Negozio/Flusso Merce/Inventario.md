@@ -1,5 +1,5 @@
 ---
-title: INVENTARIO
+title: Inventario
 layout: home
 parent: Flusso Merce
 grand_parent: BackOffice Negozio
