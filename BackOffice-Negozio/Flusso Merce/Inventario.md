@@ -6,7 +6,7 @@ grand_parent: BackOffice Negozio
 nav_order: 8
 ---
 
-# ***INVENTARIO:***
+# INVENTARIO:
 
 ## - **INTRO INVENTARIO:**
 
