@@ -5,6 +5,12 @@ nav_order: 4
 ---
 
 # Release Notes
+## Version 1.24.4.7 - Date 07/05/2024
+ 
+### Fixes
+
+- When the RequestUserCode parameter is set to true, a fix has been implemented to ensure that the Order.CreateUserId is updated with the UserId provided by the user
+- 
 ## Version 1.24.4.5 - Date 26/04/2024
  
 ### Fixes
