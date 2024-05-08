@@ -4,9 +4,9 @@ layout: home
 parent: BackOffice Negozio
 nav_order: 3
 ---
-# ***EFFETTUARE UNA VENDITA:***
+# EFFETTUARE UNA VENDITA:
 
-## - **EFFETTUARE NUOVA APERTURA CASSA:**
+## EFFETTUARE NUOVA APERTURA CASSA:
 
 **IMPORTANTE:** La **Cassa1** deve essere la
 prima cassa ad essere aperta all’apertura del negozio e l’ultima cassa
