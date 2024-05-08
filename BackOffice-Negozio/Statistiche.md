@@ -5,7 +5,7 @@ parent: BackOffice Negozio
 nav_order: 6
 ---
 
-# ***REPORT DI IPOS:***
+# REPORT DI IPOS:
 
 ## - **VENDITE SCONTRINI:** 
 > “Utile per visualizzare l’elenco delle vendite di un negozio”
