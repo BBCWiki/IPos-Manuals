@@ -8,7 +8,9 @@ nav_order: 3
 
 ## EFFETTUARE NUOVA APERTURA CASSA:
 
-**IMPORTANTE:** La **Cassa1** deve essere la
+>[IMPORTANTE:]
+>
+La **Cassa1** deve essere la
 prima cassa ad essere aperta all’apertura del negozio e l’ultima cassa
 su cui si deve fare chiusura.
 
