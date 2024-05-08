@@ -28,9 +28,9 @@ effettuata prima su **Cassa 1)**
 ![image2](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2a51149a-bbd0-4fb5-80a5-f5cf4d0f4b5b)
 
 
-# - **EFFETTUARE NUOVA VENDITA:**
+# EFFETTUARE NUOVA VENDITA:
 
-## - **AGGIUNGERE ARTICOLI NELLA VENDITA:**
+## AGGIUNGERE ARTICOLI NELLA VENDITA:
 
 Nel rettangolo blu situato nella parte alta della schermata di vendita :
 
@@ -172,7 +172,7 @@ Dopo aver selezionato l’articolo, IPOS lo mostrerà nella schermata della vend
 ![image30](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/c3f82c6a-9a4c-47bc-a418-2f5a75f8c52e)
 
 
-## **MODIFICARE I PRODOTTI INSERITI IN VENDITA:**
+## MODIFICARE I PRODOTTI INSERITI IN VENDITA:
 
 Se necessario sarà possibile modificare tutto quanto si trova all’interno dei “**Riquadri BLU”**
 
@@ -228,7 +228,7 @@ Selezionare il riquadro blu definito dalla lettera “**F”** e scegliere la ca
 ![image33](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/4a9fbbf9-90d1-44ca-b7b1-f8b9db7eb44d)
 
 
-## **ANNULLARE RIGHE DI VENDITA:**
+## ANNULLARE RIGHE DI VENDITA:
 
 Nel caso un articolo o più articoli sono stati inseriti per sbaglio,
 possono essere rimossi.
@@ -258,7 +258,7 @@ Per comprendere al meglio quale sia la promozione di cui il cliente stia benefic
 ![image42](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/8fca0fdf-1d4c-42ba-acaa-bfbb2f24f23f)
 
 
-## **ASSOCIARE CLIENTE ALLA VENDITA:**
+## ASSOCIARE CLIENTE ALLA VENDITA:
 
 IPOS propone più metodi per **ricercare** un cliente da associare alla vendita:
 
@@ -312,7 +312,7 @@ Selezionare in basso a sinistra l’icona contraddistinta da una “Sagoma” pe
 
 >**NOTA:** La ricerca prosegue come affrontato nel paragrafo 2.
 
-## **CREARE UN NUOVO CLIENTE:**
+## CREARE UN NUOVO CLIENTE:
 
 Per creare un nuovo cliente si deve selezionare il tasto “NUOVO” del menu di ricerca cliente. (Come raggiungere il menu di ricerca cliente è
 stato descritto nel capitolo precedente)
@@ -352,7 +352,7 @@ La creazione del cliente è ora terminata in quanto lo stesso è presente nella 
 
 ![image58](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/122c2f4c-6cce-4310-9d45-ad08cbc56550)
 
-## **MODIFICA ANAGRAFICA CLIENTE:**
+## MODIFICA ANAGRAFICA CLIENTE:
 
 Per modificare l’anagrafica cliente vi sono due opzioni:
 
@@ -367,7 +367,7 @@ Per modificare l’anagrafica cliente vi sono due opzioni:
 ![image60](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2526a120-95f6-4b0a-beb2-1df11a717c88)
 
 
-## **STORICO ACQUISTI CLIENTE:**
+## STORICO ACQUISTI CLIENTE:
 
 Per visualizzare lo storico acquisti del cliente, premere sul menu **Cliente** situato sulla destra della schermata di vendita ed in seguito sul tasto **Acquisti.**
 
@@ -403,7 +403,7 @@ IMPORTANTE: per emettere una fattura, è necessario che vi sia associato alla ve
 ![image64](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/c01674b4-175a-4e8d-aad9-a3b69eea0a2b)
 
 
-# **EFFETTUARE UN RESO:**
+# EFFETTUARE UN RESO:
 
 **1.** Leggere il codice a barre riportato sullo scontrino di vendita
 
@@ -490,7 +490,7 @@ vendita che contiene il prodotto da rendere
 ![image76](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/724d3de2-a9c2-4879-bd46-3c616ec46a73)
 
 
-## **EFFETTUARE UN RESO DA ELENCO SCONTRINI:**
+### EFFETTUARE UN RESO DA ELENCO SCONTRINI:
 
 Vi sono ulteriori due metodi per emettere uno scontrino di reso
 
@@ -683,7 +683,7 @@ Nel nostro caso specifico, la gift card che abbiamo usato in precedenza avendo t
 
 
 
-# **EFFETTUARE NUOVA VENDITA MISTA:**
+## EFFETTUARE NUOVA VENDITA MISTA:
 
 E’ consentito effettuare vendite miste che contengono nelle righe di vendita sia articoli da rendere che da acquistare.
 
