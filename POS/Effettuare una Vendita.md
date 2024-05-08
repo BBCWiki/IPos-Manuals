@@ -243,7 +243,9 @@ Inoltre, se si necessita di annullare tutte le righe di vendita, basterà premer
 
 ![image40](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d8cd2bf1-39ff-4d66-8808-2ebd739e454a)
 
-**IMPORTANTE:** Premendo su questa Icona caratterizzata dalla “X” accanto al rettangolo blu di inserimento articolo, si darà modo ad IPOS di andare a cercare nel database HQR aggiornamenti in merito alle promozioni
+> IMPORTANTE:
+>
+>  Premendo su questa Icona caratterizzata dalla “X” accanto al rettangolo blu di inserimento articolo, si darà modo ad IPOS di andare a cercare nel database HQR aggiornamenti in merito alle promozioni
 
 ## **VERIFICA DEGLI SCONTI:**
 
@@ -438,7 +440,7 @@ carattere di colore rosso e le quantità saranno negative
 
 ![image70](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/6cebcce8-5b75-4e7b-aaa1-2ff550ee1c42)
 
-## **EFFETTUARE UN RESO BLIND:**
+## EFFETTUARE UN RESO BLIND:
 
 ![image71](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/7a97f4d9-117d-44e0-ac7f-ef7f9d2e9300)
 
@@ -492,7 +494,7 @@ vendita che contiene il prodotto da rendere
 ![image76](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/724d3de2-a9c2-4879-bd46-3c616ec46a73)
 
 
-### EFFETTUARE UN RESO DA ELENCO SCONTRINI:
+## EFFETTUARE UN RESO DA ELENCO SCONTRINI:
 
 Vi sono ulteriori due metodi per emettere uno scontrino di reso
 
@@ -615,7 +617,7 @@ quantità indicata.
 
 ![image85](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/7eb4ff28-ada0-49df-8390-154c8306931d)
 
-- **VENDITA GIFT CARD**
+- VENDITA GIFT CARD
 
 Per vendere una GiFT CARD, bisognerà premere sul pulsante definito dall’Icona del “Codice a barre” per entrare nelle **categorie
 prodotto.** Selezionare Gift Card per aprire l’elenco e selezionare il voucher che si desidera vendere.
@@ -637,7 +639,7 @@ Concludere quindi la vendita selezionando un metodo pagamento e stampando lo sco
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/73f0dbee-c30f-4987-b965-31f7003415bd)
 
 
-- **UTILIZZO DI UN VOUCHER**
+- UTILIZZO DI UN VOUCHER
 
 Vi sono due tipologie di Voucher \ GIft e sono
 
