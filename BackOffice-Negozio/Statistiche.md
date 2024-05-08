@@ -7,7 +7,8 @@ nav_order: 6
 
 # REPORT DI IPOS:
 
-## - **VENDITE SCONTRINI:** 
+## VENDITE SCONTRINI:
+
 > “Utile per visualizzare l’elenco delle vendite di un negozio”
 
 Sarà possibile attraverso questo report, vedere l’elenco scontrini
@@ -55,7 +56,7 @@ Dopo aver selezionato i campi desiderati, selezionare l’Icona definita dalla �
 
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/782f6bc4-71f6-49f5-b533-c8a3ddb08f77)
 
-## - **VENDITE PRODOTTI:**
+## VENDITE PRODOTTI:
 > “Utile per visualizzare l’andamento degli articoli nelle vendite in un negozio”
 
 Sarà possibile tramite questo report, vedere i Prodotti presenti
@@ -141,7 +142,7 @@ Dopo aver selezionato i campi desiderati, selezionare l’Icona definita dalla �
 
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/6072e098-5e78-4bc4-bcc9-86b76d628343)
 
-### **AGGIUNGERE COLONNE:**
+### AGGIUNGERE COLONNE:
 
 Per ogni report in IPOS, sarà possibile aggiungere delle colonne aggiuntive alle intestazioni predefinite del report.
 
@@ -156,7 +157,8 @@ In seguito un esempio di aggiunta colonna in un report di IPOS
 ![image11](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/0fb60728-bd07-4042-895c-5cfe2ce5b72f)
 
 
-## - **VENDITE PRODOTTI B2B:** 
+## VENDITE PRODOTTI B2B:
+
 > “Consente di vedere i costi della merce acquistata”
 
 Sarà possibile tramite questo report, vedere i Prodotti che il negozio acquista dalla sede:
@@ -208,7 +210,8 @@ Dopo aver selezionato i campi desiderati, selezionare l’Icona definita dalla �
 
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d6a490ac-afe1-489d-9b30-8ecc0916d96d)
 
-## - **VENDITE PER ORA:**
+## VENDITE PER ORA:
+
 > “Consente di vedere le vendite fatte per ora”
 
 Sarà possibile tramite questo report, vedere l’andamento del negozio durante la giornata:
@@ -273,7 +276,7 @@ Dopo aver selezionato i campi desiderati, selezionare l’Icona definita dalla �
 
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/68f19ba8-ebd4-409f-b9c7-d80842ae9143)
 
-## - **ANALISI PERIODO:** 
+## ANALISI PERIODO:
 > “Consente di vedere l’andamento del negozio”
 
 Sarà possibile tramite questo report, analizzare il periodo del negozio:
@@ -320,7 +323,7 @@ Dopo aver selezionato i campi desiderati, selezionare l’Icona definita dalla �
 
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/68f19ba8-ebd4-409f-b9c7-d80842ae9143)
 
-## - **STOCK ANALISI:** 
+## STOCK ANALISI:
 
 > “Consente di vedere le giacenze degli articoli”
 
@@ -371,7 +374,7 @@ Dopo aver selezionato i campi desiderati, selezionare l’Icona definita dalla �
 
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/68f19ba8-ebd4-409f-b9c7-d80842ae9143)
 
-## - **KPI:** 
+## KPI:
 
 > “Si potranno monitorare le prestazioni di un negozio o di un processo di vendita”
 
@@ -405,7 +408,7 @@ Dopo aver selezionato i campi desiderati, selezionare l’Icona definita dalla �
 
 ![image3](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/68f19ba8-ebd4-409f-b9c7-d80842ae9143)
 
-## - **RMV:** 
+## RMV:
 
 > "Raffronto mensile vendite"
 
@@ -457,7 +460,7 @@ data del punto **2**
 **5.** All’interno di queste celle definite dal punto 5, avremo i totali delle varie colonne del report.
 
 
-## - **REPORT TRANSAZIONI BUONI:** 
+## REPORT TRANSAZIONI BUONI:
 
 > “Consente di visualizzare l’utilizzo \ emissione dei buoni \ voucher”
 
