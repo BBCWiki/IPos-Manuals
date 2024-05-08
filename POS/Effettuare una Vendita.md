@@ -4,6 +4,7 @@ layout: home
 parent: POS
 nav_order: 3
 ---
+
 # EFFETTUARE UNA VENDITA:
 
 ## EFFETTUARE NUOVA APERTURA CASSA:
