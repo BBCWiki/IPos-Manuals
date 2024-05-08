@@ -10,7 +10,7 @@ nav_order: 3
 
 >[IMPORTANTE:]
 >
-La **Cassa1** deve essere la
+> La **Cassa1** deve essere la
 prima cassa ad essere aperta all’apertura del negozio e l’ultima cassa
 su cui si deve fare chiusura.
 
@@ -73,7 +73,9 @@ Selezioniamo con doppio click del mouse per accedere alla griglia di selezione �
 
 Selezioniamo con doppio click sinistro del mouse la taglia e colore che ci interessano per vedere apparire l’articolo nella schermata di vendita.
 
-**IMPORTANTE:** nel caso qui sopra riportato, l’articolo non ha né quantità e né un prezzo. IPOS (se configurato), consente di vendere un articolo fuori stock e di inserire manualmente un
+> IMPORTANTE:
+>
+> nel caso qui sopra riportato, l’articolo non ha né quantità e né un prezzo. IPOS (se configurato), consente di vendere un articolo fuori stock e di inserire manualmente un
 prezzo qualora mancasse un listino di vendita.
 
 ![image10](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/220801a9-7ea1-44a9-a2d1-a85dc5613b96)
