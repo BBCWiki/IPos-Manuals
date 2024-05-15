@@ -11,5 +11,5 @@ nav_order: 4
 
 Per fare la chiusura fiscale manualmente, premere la seguente sequenza di tasti dal tastierino: \
 **2222 + Chiave + 02 + CONTANTE** \
-Una volta usciti gli scontrini, premere il tasto **Chiave** affinchè sul display compaia la dicitura **STATO REG.**
+Una volta usciti gli scontrini, premere i tasti  **1 + Chiave** affinchè sul display compaia la dicitura **CHIAVE REG.**
 
