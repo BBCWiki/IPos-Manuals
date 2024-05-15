@@ -7,13 +7,13 @@ nav_order: 5
 ---
 
 
-# **Gestione Layout**
+# Gestione Layout
 
-**Etichette Predefinite**
+Etichette Predefinite
 
-**Gestione delle etichette in Ipos BO**
+Gestione delle etichette in Ipos BO
 
-## **PREMESSA**
+## PREMESSA
 
 Dalla versione 1.22.10 in IPOS vengono definiti 10 layout di etichette (estendibile fino a 100), che possono essere modificate dal cliente in autonomia da Back Office della sede – menu Utility - Layout Documento.
 In Ipos sik può stampare anche in un ‘altro linguaggio chiamato **ZPL/EPL** per definire il layout dell’etichetta, la quale viene invece stampata sul driver nativo windows della stampante etichette (Zebra,Toshiba, etc), come un normale documento di stampa in Windows.
@@ -72,7 +72,7 @@ Per le etichette A4 verranno definiti\creati altri 10 layout
 preconfigurati. L’operazione verrà eseguita da uno script che genera i
 10 layout di etichette A4.
 
-## CAPITOLO 1
+### Capitolo 1
 
 I Layout delle etichette e per quali negozi sono validi, li troveremo nel menù ipos del BACK OFFICE “Utilità”.
 
@@ -95,9 +95,9 @@ Se vogliamo che il nominativo viene riportato anche nel menù a elenco(dropdown)
 
 Come scritto sopra, per poter entrare nell’editor delle etichette basterà sceglierne una e fare doppio click del mouse con il tastosinistro. Nel prossimo capito affronteremo nel dettaglio l’utilizzo dell’editor etichette.
 
-## **CAPITOLO 2**
+### Capitolo 2
 
-**L’EDITOR**
+L’EDITOR
 
 Qui sotto una panoramica dell’ Editor Etichette di IPOS :
 
@@ -115,7 +115,7 @@ Gallery”
 >NOTA : Ogni voce del menù Detail che andremo a selezionare, avrà lapossibilità di essere “MODIFICATA” nelle sue >caratteristiche. Appena selezioneremo un dettaglio dal Menù “Report Esplorer” o selezioneremo un
 >pezzo di etichetta, anche il menù “Properties” ci indicherà le proprietà del dettaglio selezionato.
 
-## CAPITOLO N: “PROPERTIES”
+### Capitolo N: “PROPERTIES”
 
 In questo caso ho selezionato ad esempio il dettaglio “Barcode”, ed il Menù “Properties” mi seleziona automaticamente dal suo menù di Dropdown, il dettaglio da me scelto con tutte le sui proprietà annesse. Tramite “scrollbar” di destra è possibile scorrere tra le proprietà del Dettaglio scelto e modificarne i valori.
 
@@ -140,7 +140,7 @@ Troveremo l’indicazione in merito, al nome del Dettaglio, e la possibilità di
 
 Troveremo caratteristiche in merito all’altezza e larghezza ell’etichetta, troveremo i settings sui margini di lavoro dell’etichetta, e la possibilità di settare la tipologia di stampa richiesta dall’etichetta(per esempio se dovremmo settare una stampa per etichetta A4.
 
-## CAPITOLO N: “FIELD-LIST”
+### Capitolo N: “FIELD-LIST”
 
 Il Menù Field-List non è altro che il menù delle variabili dell’etichetta.
 Il cliente può variare qualsiasi posizionamento e applicare alcune formattazioni sui campi.
@@ -200,7 +200,7 @@ Inoltre spariranno anche dai menù detail e properties le variabili cancellate.
 ![image 11](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/ecaea1a5-cee5-417b-a87c-54e5e99c6488)
 
 
-## SHORTCUT MENU’ DETAIL BAND
+### Shortcut menu' detail band      
 
 Un altro metodo per la modifica dei settings delle Variabili aggiunte, è direttamente dal “detail band” presente generico sul Layout dell’etichetta (per modifiche generali), o su ogni variabile aggiunta.
 Basta premere sull’icona ![image25](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/f67046c1-23d7-472e-bc33-8cd334f062a1) accanto alle variabili o alla scritta Detail, per aprire i settings(vedere sotto immagini).
@@ -228,7 +228,7 @@ Se invece selezioneremo un’immagine, il menù cambierà i settings:
 
 ![image32](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/5a52ce72-1a5f-41b1-b3df-9d140742cafd)
 
-# CAPITOLO 4: “MENU’ TOOLBOX”
+###  Capitolo 4: "Menu' Toolbox"       
 
 
 ![image33](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/384886c9-829c-4a71-a2de-2d029cec2944)
@@ -272,7 +272,7 @@ Per esempio, scegliendo Stretch Image, ho ottenuto il seguente risultato:
 ![image41](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/caa57628-2228-47a7-bd91-e94edc4f31aa)
 
 
-## ANTEPRIMA
+### Anteprima
 
 Qualora volessimo vedere a che punto siamo con la creazione della nostra etichetta possiamo selezionare il dettaglio che ci interessa e premere sul pulsante in basso **“PREVIEW”**
 
@@ -282,7 +282,7 @@ Per esempio selezionando l’immagine, potremo vedere nell’etichetta come appa
 
 ![mah 12](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/6f54c49f-5139-4083-92a1-a2ea444cb2bd)
 
-## CAPITOLO 5: “REPORT GALLERY”
+### Capitolo 5: “Report Gallery”
 
 Il menù “Report Gallery” consente di archiviare e riutilizzare i report e i loro elementi.
 
@@ -290,7 +290,7 @@ Il menù “Report Gallery” consente di archiviare e riutilizzare i report e i
 
 Non bisogna confondere “Report Gallery” con “Report Explorer” che ha un'interfaccia utente simile. “Report Gallery”, memorizza i modelli, i componenti, i dettagli condivisi del layout. “Report Explorer” visualizza la struttura del report corrente.
 
-### MODELLI DI REPORTS
+### Modelli di Reports 
 
 “Report Gallery” mostra i modelli di layout delle etichette nella
 categoria Reports.
@@ -315,7 +315,7 @@ Ovviamente l’editor ci avviserà che andremo a perdere tutti i dati dell’eti
 ![image50](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/9de4d9ba-4555-460e-950e-d585f8e2c7ef)
 
 
-## BANDS
+### Bands 
 
 La categoria Bands in “Report Gallery”, contiene modelli di bande.
 
@@ -323,7 +323,7 @@ Per creare un nuovo modello, fai clic con il pulsante destro del mouse su una fa
 
 ![mah 13](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/be112f7b-bd6a-4c8a-8c46-3a1edf24a247)
 
-## CONTROLS
+### Controls 
 
 Si possono combinare i controlli dei report della stessa Bands in un modello. Tieni premuto MAIUSC o CTRL e seleziona i controlli. Quindi, fai clic con il pulsante destro del mouse sulla selezione e scegli
 Aggiungi alla galleria nel menu di scelta rapida.
@@ -332,7 +332,7 @@ Aggiungi alla galleria nel menu di scelta rapida.
 
 
 
-## Import and Export Templates
+### Import and Export Templates
 
 Puoi importare elementi della Galleria da un file XML. Fare clic con il pulsante destro del mouse sul pulsante Importa della barra degli strumenti, individuare un file nella finestra di dialogo Apri richiamat0a e fare clic su OK.
 
