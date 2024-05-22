@@ -494,7 +494,7 @@ utilizzo Buono.**
 ![image34](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d1a6a6b5-716c-4ee2-81a0-ea526d20cf4d)
 
 
-*22.* Per quanto riguarda l’Isolamento, nei casi del Periodo Fisso o Periodo
+*2.* Per quanto riguarda l’Isolamento, nei casi del Periodo Fisso o Periodo
 Dinamico, si dovrà settare il tipo di isolamento desiderato ovvero:
 
 - **Nessuno:** “I voucher \\ gift”, potranno essere utilizzati su tutti
@@ -656,36 +656,30 @@ valore) , e decidere se il “Voucher \\ gift” possa essere utilizzato anche s
 Collegandoci al punto 3 del paragrafo “**CREAZIONE**”, anche in questa
 Tab le opzioni possono variare in base alla Categoria di “Voucher \\
 gift” selezionato. Avendo scelto “**Gift Card Finanziaria**” si
-disabilita l’opzione di**, Utilizzo Multiplo ed il Numeratore Max di
+disabilita l’opzione di, **Utilizzo Multiplo ed il Numeratore Max di
 utilizzo Buono.**
 
-1
-
-Si dovrà scegliere un periodo di durata del Voucher \\ gift:
+**1.** Si dovrà scegliere un periodo di durata del Voucher \\ gift:
 
 - Ad esempio si potrà settare un periodo **FISSO** tra 2 date
 
-<img src="./media/image12.png"
-style="width:4.16806in;height:0.77621in" />
+![image12](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/baefb3bf-30a8-4797-822f-3b72202ca632)
 
 - Settare un periodo dinamico, ad esempio 1 anno
 
-> <img src="./media/image13.png"
-> style="width:4.20862in;height:0.62569in" />
+![image13](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/9928c2ec-1f9f-4561-9afd-d7d187e29258)
+
 
 - Specificato da una promozione di redenzione. Scegliendo quest’opzione,
   si disabiliteranno le opzioni di Isolamento, in quanto è la promozione
   che decide quali negozi partecipano o non partecipano.
+  Come detto in precedenza non avremo attivo l’utilizzo multiplo.
 
-Come detto in precedenza non avremo attivo l’utilizzo multiplo.
+![image45](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/23af2093-bb51-4c5d-9286-a3faf73a096e)
 
-<img src="./media/image45.png"
-style="width:3.30625in;height:1.14097in" />
 
-Per quanto riguarda l’Isolamento, nei casi del Periodo Fisso o Periodo
+**2.** Per quanto riguarda l’Isolamento, nei casi del Periodo Fisso o Periodo
 Dinamico, si dovrà settare il tipo di isolamento desiderato ovvero:
-
-2
 
 - **Nessuno:** “I voucher \\ gift”, potranno essere utilizzati su tutti
   i negozi della catena senza alcuna esclusione, sia essi siano Diretti
@@ -712,16 +706,14 @@ un “Voucher \\ gift finanziario” possiamo scegliere entrambe le opzioni:
 - **L’Utilizzo unico**, solitamente si usa per voucher economici e
   consente **solo** l’utilizzo tutto in un’unica transazione.
 
-- <img src="./media/image35.png"
-  style="width:4.21846in;height:0.90906in" />**L’utilizzo multiplo**,
-  consente di poter utilizzare “non per forza tutto il valore del
+- **L’utilizzo multiplo**, consente di poter utilizzare “non per forza tutto il valore del
   voucher \\ gift “in un’unica transazione, ma di poterla utilizzare più
   volte sino ad esaurimento saldo \\ valore.
 
-Inoltre si avrà la possibilità di poter scegliere come utilizzare il
-“Voucher \\ Gift”
+![image35](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/6e0df4df-6d55-4a02-9ac4-89bfe0af086e)
 
-3
+**3.** Inoltre si avrà la possibilità di poter scegliere come utilizzare il
+“Voucher \\ Gift”
 
 - **Cumulativo:** Se settato, questo flag indica che il “Voucher \\
   Gift” può essere accumulato con altri voucher \\ gift o promozioni o
@@ -738,17 +730,16 @@ Inoltre si avrà la possibilità di poter scegliere come utilizzare il
   può essere usato parzialmente **Numero max utilizzo Buono:** NON è
   abilitato con il Buono “Valore sconto”
 
-<img src="./media/image46.png"
-style="width:4.21472in;height:0.76319in" />
+![image46](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d69662af-af10-4184-88ff-43e6eff130d5)
 
-- **LISTA BUONI \\ GENERAZIONE “Gift Card Finanziarie”:**
 
-<img src="./media/image17.png"
-style="width:0.60694in;height:0.22986in" />Dopo aver configurato
-l’Emissione (tab Creazione) e la Redenzione, si può procedere con la
+## - **LISTA BUONI \\ GENERAZIONE “Gift Card Finanziarie”:**
+
+Dopo aver configurato l’Emissione (tab Creazione) e la Redenzione, si può procedere con la
 “GENERAZIONE” dei “Voucher \\ Gift”. Prima di farlo però bisogna
 “SALVARE” il circuito selezionando l’Icona caratterizzata dal “floppy
-disk” e rientrare nel Circuito premendo dopplio click del tasto sx del
+disk”![image17](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/7466ec18-5d0a-40fc-b26a-b661064e5ae5)
+e rientrare nel Circuito premendo dopplio click del tasto sx del
 mouse.
 
 Possiamo dunque far generare ad IPOS automaticamente un quantitativo di
@@ -760,38 +751,27 @@ Ma, avendo scelto che verranno stampati da IPOS in autonomia, IPOS
 genererà in autonomia i codici delle “Gift card Finanziarie” seguendo le
 informazioni settate all’interno del circuito del Voucher Generator.
 
-- **CREAZIONE BUONO ATTIVAZIONE:**
+## - **CREAZIONE BUONO ATTIVAZIONE:**
 
-1
-
-<img src="./media/image47.png"
-style="width:3.20616in;height:0.23386in" />Scegliere l’anagrafica del
-circuito che si desidera creare immettendo un Nome, un codice, un
+**1.** Scegliere l’anagrafica del circuito che si desidera creare immettendo un Nome, un codice, un
 prefisso (cifre iniziali del circuito) ed il repository con cui vengono
 utilizzata (l’ambiente d’uso).
 
-<img src="./media/image48.png"
-style="width:3.25404in;height:0.71779in" />Selezionare dunque la
-“**Categoria**”, ovvero il tipo di Voucher \\ gift che ne determinerà il
+![image47](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d8e25bb4-9552-483c-92ce-decddaf48a98)
+
+**2.** Selezionare dunque la “**Categoria**”, ovvero il tipo di Voucher \\ gift che ne determinerà il
 comportamento, attivando o disattivando le successive opzioni per la
 configurazione
 
-2
+![image48](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3d14b1df-2e49-4c8d-81cc-acf3df2c83ee)
 
-Ad esempio scegliendo **“Buono Attivazione”** disattiveremo tutte le
-opzioni.
+**3.** Ad esempio scegliendo **“Buono Attivazione”** disattiveremo tutte le
+opzioni. In Grigio ciò che viene disabilitato. **IMPORTANTE ATTIVARE IL FLAG ABILITATO.**
 
-3
+![image49](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2ad89224-1e3c-42d3-842f-6cbb28f6d599)
 
-In Grigio ciò che viene disabilitato. **IMPORTANTE ATTIVARE IL FLAG
-ABILITATO.**
 
-<img src="./media/image49.png"
-style="width:3.52957in;height:0.28678in" />
-
-Le opzioni definite al punto “4”, saranno tutte attive:
-
-4
+**4.** Le opzioni definite al punto “4”, saranno tutte attive:
 
 - **AUTO-GENERATO**: IPOS genera in automatico un nuovo codice partendo
   dal “Prefisso”
@@ -800,66 +780,52 @@ Le opzioni definite al punto “4”, saranno tutte attive:
   una lista di Voucher \\ gift, IPOS assegna il primo codice libero che
   trova in questo elenco.
 
-- <img src="./media/image24.png"
-  style="width:3.77569in;height:0.64375in" />**CODICE ASSEGNATO
-  DALL’OPERATORE**: Il commesso fornirà lui stesso al cliente un
+- **CODICE ASSEGNATO DALL’OPERATORE**: Il commesso fornirà lui stesso al cliente un
   “Voucher \\ gift” precedentemente generato, seguendo le direttive
   aziendali
 
-5vvvvvvvvvvv
+![image24](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a33843e5-a06e-4368-b695-f1a4cdbe9891)
 
-<img src="./media/image50.png"
-style="width:3.77012in;height:0.23639in" />Le opzioni definite al punto
-“5”, saranno tutte disattivate:
+**5.** Le opzioni definite al punto “5”, saranno tutte disattivate:
 
-Nella sezione “Messaggio”, si possono inserire frasi da stampare sullo
+![image50](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/aea6d7fe-19ec-4e6e-89cc-24032b190a1b)
+
+**6.** Nella sezione “Messaggio”, si possono inserire frasi da stampare sullo
 scontrino da comunicare ai clienti. Questa opzione non viene mai
 disabilitata.
 
-6
+![image10](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a8e5a877-826e-46a4-8c3a-0c0d008cdb93)
 
-<img src="./media/image10.png"
-style="width:4.04908in;height:0.40491in" />
+**7.** Potremo scegliere se far stampare un Barcode (il cassiere legge la scheda da vendere e assegna il
+valore), e decidere se il “Voucher \\ gift” possa essere utilizzato anche su articoli scontati.
 
-7
+![image44](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/21cc45ac-9dc3-405e-8920-087f38859627)
 
-<img src="./media/image44.png"
-style="width:4.03611in;height:0.33362in" />Potremo scegliere se far
-stampare un Barcode (il cassiere legge la scheda da vendere e assegna il
-valore), e decidere se il “Voucher \\ gift” possa essere utilizzato
-anche su articoli scontati.
-
-- **REDENZIONE BUONO ATTIVAZIONE:**
+## - **REDENZIONE BUONO ATTIVAZIONE:**
 
 Collegandoci al punto 3 del paragrafo “**CREAZIONE**”, anche in questa
 Tab le opzioni possono variare in base alla Categoria di “Voucher \\
 gift” selezionato. Avendo scelto “**Buono Attivazione**” si disabilita
 l’opzione di **Scalabile, Cumulativo, Rimborsabile.**
 
-1
-
-Si dovrà scegliere un periodo di durata del Voucher \\ gift:
+**1.** Si dovrà scegliere un periodo di durata del Voucher \\ gift:
 
 - Ad esempio si potrà settare un periodo **FISSO** tra 2 date
 
-<img src="./media/image12.png"
-style="width:4.16806in;height:0.77621in" />
+![image12](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/863f3d43-0273-41b7-84ee-92f63e866717)
 
 - Settare un periodo dinamico, ad esempio 1 anno
 
-> <img src="./media/image13.png"
-> style="width:4.20862in;height:0.62569in" />
+![image13](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/74fd2c08-a0ca-420a-80dd-860f1a17575c)
 
-- <img src="./media/image51.png"
-  style="width:4.17791in;height:1.52716in" />Specificato da una
-  promozione di redenzione. Scegliendo quest’opzione, si disabiliteranno
+- Specificato da una promozione di redenzione. Scegliendo quest’opzione, si disabiliteranno
   le opzioni di Isolamento, in quanto è la promozione che decide quali
   negozi partecipano o non partecipano.
 
-Per quanto riguarda l’Isolamento, nei casi del Periodo Fisso o Periodo
-Dinamico, si dovrà settare il tipo di isolamento desiderato ovvero:
+![image51](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/b2102884-5997-4221-a138-dd175c502058)
 
-2
+**2.** Per quanto riguarda l’Isolamento, nei casi del Periodo Fisso o Periodo
+Dinamico, si dovrà settare il tipo di isolamento desiderato ovvero:
 
 - **Nessuno:** “I voucher \\ gift”, potranno essere utilizzati su tutti
   i negozi della catena senza alcuna esclusione, sia essi siano Diretti
@@ -890,13 +856,11 @@ un “Voucher \\ gift finanziario” possiamo scegliere entrambe le opzioni:
   tutto il valore del voucher \\ gift “in un’unica transazione, ma di
   poterla utilizzare più volte sino ad esaurimento saldo \\ valore.
 
-<img src="./media/image52.png"
-style="width:4.09816in;height:0.81297in" />
+![image52](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/532e21fc-9bae-4cda-91e8-ee465e4dffe7)
 
-Inoltre si avrà la possibilità di poter scegliere come utilizzare il
+
+**3.** Inoltre si avrà la possibilità di poter scegliere come utilizzare il
 “Voucher \\ Gift”
-
-3
 
 - **Cumulativo:** Se settato, questo flag indica che il “Voucher \\
   Gift” può essere accumulato con altri voucher \\ gift o promozioni o
@@ -910,18 +874,17 @@ Inoltre si avrà la possibilità di poter scegliere come utilizzare il
 
 - **Scalabile:** NON è abilitato con il Buono “Buono Attivazione”
 
-- <img src="./media/image53.png"
-  style="width:4.11513in;height:0.76106in" />**Numero max utilizzo
-  Buono:** NON è abilitato con il Buono “Valore sconto”
+- **Numero max utilizzo Buono:** NON è abilitato con il Buono “Valore sconto”
 
-- **LISTA BUONI \\ GENERAZIONE “Buono Attivazione”:**
+![image53](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/b4c286df-033c-498a-95bd-cfc259b19b17)
 
-<img src="./media/image17.png"
-style="width:0.60694in;height:0.22986in" />Dopo aver configurato
-l’Emissione (tab Creazione) e la Redenzione, si può procedere con la
+## - **LISTA BUONI \\ GENERAZIONE “Buono Attivazione”:**
+
+Dopo aver configurato l’Emissione (tab Creazione) e la Redenzione, si può procedere con la
 “GENERAZIONE” dei “Voucher \\ Gift”. Prima di farlo però bisogna
 “SALVARE” il circuito selezionando l’Icona caratterizzata dal “floppy
-disk” e rientrare nel Circuito premendo dopplio click del tasto sx del
+disk”![image17](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/76d1a9de-5aec-4992-89a2-e7a956658817)
+e rientrare nel Circuito premendo dopplio click del tasto sx del
 mouse.
 
 Possiamo dunque far generare ad IPOS automaticamente un quantitativo di
@@ -933,43 +896,37 @@ Ma, avendo scelto che verranno stampati da IPOS in autonomia, IPOS
 genererà in autonomia i codici delle “Buoni Attivazione” seguendo le
 informazioni settate all’interno del circuito del Voucher Generator.
 
-- **CREAZIONE GIFT CARD ECONOMICA:**
+## - **CREAZIONE GIFT CARD ECONOMICA:**
 
-1
-
-<img src="./media/image21.png"
-style="width:3.77301in;height:0.26698in" />Scegliere l’anagrafica del
+**1.** Scegliere l’anagrafica del
 circuito che si desidera creare immettendo un Nome, un codice, un
 prefisso (cifre iniziali del circuito) ed il repository con cui vengono
 utilizzata (l’ambiente d’uso).
 
-<img src="./media/image54.png"
-style="width:3.10429in;height:0.67044in" />Selezionare dunque la
+![image21](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/81d4c071-2c41-42df-a11d-926389f46374)
+
+**2.** Selezionare dunque la
 “**Categoria**”, ovvero il tipo di Voucher \\ gift che ne determinerà il
 comportamento, attivando o disattivando le successive opzioni per la
 configurazione
 
-2
+![image54](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2f20c8c5-7127-4d80-a681-d72f4afd576c)
 
-3
-
-Ad esempio scegliendo **“Gift Economico”** attiveremo \\ disattiveremo
-le seguenti opzioni
-
+**3.** Ad esempio scegliendo **“Gift Economico”** attiveremo \\ disattiveremo
+le seguenti opzioni.
 In Grigio ciò che viene disabilitato. Dovremo selezionare un PRODOTTO
 creato in precedenza (**DOCUMENTO PRODOTTI**), ad esempio il “BuonoS2”,
 in quanto dovrà essere inserito come riga di reso all’interno della
 schermata di vendita. **IMPORTANTE ATTIVARE IL FLAG ABILITATO.**
-
-<img src="./media/image23.png"
-style="width:6.69306in;height:2.26667in" />Premere dunque sull’icona
+Premere dunque sull’icona
 definita dai “3 puntini” per aprire la schermata di scelta
 “**prodotto**” da assegnare come “**Gift Economico**”
 
-Le opzioni definite al punto “4”, cambieranno, verrà oscurata
-l’assegnazione dall’operatore.
+![image23](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/dfe85fa3-3816-4f98-9b46-41ba162e14c4)
 
-4
+
+**4.** Le opzioni definite al punto “4”, cambieranno, verrà oscurata
+l’assegnazione dall’operatore.
 
 - **AUTO-GENERATO**: IPOS genera in automatico un nuovo codice partendo
   dal “Prefisso”
@@ -978,67 +935,58 @@ l’assegnazione dall’operatore.
   una lista di Voucher \\ gift, IPOS assegna il primo codice libero che
   trova in questo elenco.
 
-- <img src="./media/image24.png"
-  style="width:3.77569in;height:0.64375in" />**CODICE ASSEGNATO
-  DALL’OPERATORE**: Il commesso fornirà lui stesso al cliente un
+- >**CODICE ASSEGNATO DALL’OPERATORE**: Il commesso fornirà lui stesso al cliente un
   “Voucher \\ gift” precedentemente generato, seguendo le direttive
   aziendali
 
-<img src="./media/image55.png"
-style="width:3.76951in;height:0.29042in" />Sarà possibile impostare un
-range di valore avendo scelto “**Gift Economico**” pertanto bisognerà
+![image24](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/93435027-ccc0-4060-a056-62b66bda50cf)
+
+**5.** Sarà possibile impostare un range di valore avendo scelto “**Gift Economico**” pertanto bisognerà
 settare un valore minimo ed un valore massimo.
 
-5
+![image55](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/16f9838f-c910-4bdc-9fb4-8d53dfbe1c78)
 
-<img src="./media/image10.png"
-style="width:4.04908in;height:0.40491in" />Nella sezione “Messaggio”, si
+
+**6.** Nella sezione “Messaggio”, si
 possono inserire frasi da stampare sullo scontrino da comunicare ai
 clienti. Questa opzione non viene mai disabilitata.
 
-6
+![image10](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/498c5ade-de37-4828-95c0-4d8556a47040)
 
-7
-
-<img src="./media/image56.png"
-style="width:4.07362in;height:0.32799in" />Come descritto al punto 2,
-per poter vendere un “Gift Economico” , bisogna abilitare che sia
+**7.** Come descritto al punto 2, per poter vendere un “Gift Economico” , bisogna abilitare che sia
 **visibile in cassa (Visibile POS).** Potremo scegliere se far stampare
 un Barcode. Potremmo però decidere se, il “Voucher \\ gift” possa essere
 utilizzato anche su articoli scontati.
 
+![image56](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/0ee4d678-9b44-45c8-a243-86f699de8ace)
+
 - **REDENZIONE BUONO VALORE SCONTO:**
 
-1
-
-Collegandoci al punto 3 del paragrafo “**CREAZIONE**”, anche in questa
+**1.** Collegandoci al punto 3 del paragrafo “**CREAZIONE**”, anche in questa
 Tab le opzioni possono variare in base alla Categoria di “Voucher \\
 gift” selezionato. Avendo scelto “**Gift Economico**” si disabilita
-l’opzione di **Scalabile, Utilizzo Multiplo ed il Numeratore Max di
-utilizzo Buono.**
+l’opzione di **Scalabile, Utilizzo Multiplo ed il Numeratore Max di utilizzo Buono.**
 
 Si dovrà scegliere un periodo di durata del Voucher \\ gift:
 
 - Ad esempio si potrà settare un periodo **FISSO** tra 2 date
 
-<img src="./media/image12.png"
-style="width:4.16806in;height:0.77621in" />
+![image12](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/658fbac7-56ad-48a0-99ce-88219349db84)
 
 - Settare un periodo dinamico, ad esempio 1 anno
 
-> <img src="./media/image13.png"
-> style="width:4.20862in;height:0.62569in" />
+![image13](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3af79ee8-65e3-4982-8563-4f428d058f46)
 
-- <img src="./media/image34.png"
-  style="width:4.23357in;height:1.54838in" />Specificato da una
-  promozione di redenzione. Scegliendo quest’opzione, si disabiliteranno
+
+- Specificato da una promozione di redenzione. Scegliendo quest’opzione, si disabiliteranno
   le opzioni di Isolamento, in quanto è la promozione che decide quali
   negozi partecipano o non partecipano.
 
-Per quanto riguarda l’Isolamento, nei casi del Periodo Fisso o Periodo
-Dinamico, si dovrà settare il tipo di isolamento desiderato ovvero:
+  ![image14](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/b7dd2f98-ce09-4b2c-8d6d-9c10abca660e)
 
-2
+
+**2.** Per quanto riguarda l’Isolamento, nei casi del Periodo Fisso o Periodo
+Dinamico, si dovrà settare il tipo di isolamento desiderato ovvero:
 
 - **Nessuno:** “I voucher \\ gift”, potranno essere utilizzati su tutti
   i negozi della catena senza alcuna esclusione, sia essi siano Diretti
@@ -1066,16 +1014,15 @@ opzioni:
 - **L’Utilizzo unico**, solitamente si usa per voucher economici e
   consente **solo** l’utilizzo tutto in un’unica transazione.
 
-- <img src="./media/image35.png"
-  style="width:4.21846in;height:0.90906in" />**L’utilizzo multiplo**,
+- **L’utilizzo multiplo**,
   consente di poter utilizzare “non per forza tutto il valore del
   voucher \\ gift “in un’unica transazione, ma di poterla utilizzare più
   volte sino ad esaurimento saldo \\ valore.
 
-Inoltre si avrà la possibilità di poter scegliere come utilizzare il
-“Voucher \\ Gift”
+![image35](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/069b9a15-5e3e-4dd1-b607-eca6e0e6ac75)
 
-3
+**3.** Inoltre si avrà la possibilità di poter scegliere come utilizzare il
+“Voucher \\ Gift”
 
 - **Cumulativo:** Se settato, questo flag indica che il “Voucher \\
   Gift” può essere accumulato con altri voucher \\ gift o promozioni o
@@ -1093,4 +1040,5 @@ Inoltre si avrà la possibilità di poter scegliere come utilizzare il
 - **Numero max utilizzo Buono:** NON è abilitato con il Buono “Valore
   sconto”
 
-<img src="./media/image36.png" style="width:4.22in;height:0.78528in" />
+![image36](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/68b0fa2f-f9ad-4245-b2e9-0661cb560364)
+
