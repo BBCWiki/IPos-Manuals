@@ -1035,10 +1035,63 @@ opzioni:
 - **Rimborsabile:** Se settato, questo flag indica che il “Voucher \\
   Gift” può essere rimborsato in denaro
 
-- **Scalabile:** NON è abilitato con il “Voucher Economico”
+- **Scalabile:** NON è abilitato con il “gift Economico”
 
-- **Numero max utilizzo Buono:** NON è abilitato con il Buono “Valore
-  sconto”
+- **Numero max utilizzo Buono:** NON è abilitato con il Gift economico
 
 ![image36](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/68b0fa2f-f9ad-4245-b2e9-0661cb560364)
+
+- **LISTA BUONI \\ GENERAZIONE “Gift Economico”:**
+
+Dopo aver configurato l’Emissione (tab Creazione) e la Redenzione, si può procedere con la
+“GENERAZIONE” dei “Voucher \\ Gift”. Prima di farlo però bisogna
+“SALVARE” il circuito selezionando l’Icona caratterizzata dal “floppy
+disk”![image17](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/d350e450-dd4d-4444-b2df-ea213ae88a5a)
+e rientrare nel Circuito premendo dopplio click del tasto sx del
+mouse.
+
+Possiamo dunque far generare ad IPOS automaticamente un quantitativo di
+“Voucher \\ Gift” , assegnando ad essi un **valore**, una **data di
+attivazione,** ed il **range di data** per la **validità** se lo abbiamo
+settato nella tab “Creazione” verrà proposto in automatico.
+
+Ma, avendo scelto che verranno stampati da IPOS in autonomia, IPOS
+genererà in autonomia i codici delle “Gift Economico” seguendo le
+informazioni settate all’interno del circuito del Voucher Generator.
+
+## - **LISTA BUONI \IMPORTAZIONE “Buono Sconto percentuale”:**
+
+Premere il tasto “Importare” per far aprire la finestra per Creare \\
+modificare i Buoni Sconto. Selezionare i flag come da esempio:
+
+![image57](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/a02298a3-0f34-4e8f-a81d-e7a12c1fe7a6)
+
+
+Inserire i dati e selezionare il tasto generate definito dall’icona del
+“floppy disk e la freccia verde” per generare i Voucher Code.
+
+![image58](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/2069264b-13ba-4f14-a335-0fe55796fbd8)
+
+
+## - **ALCUNI TRUCCHI:**
+
+È possibile aggiungere delle colonne aggiuntive alla schermata dei “Voucher Generator”. Per farlo,
+basta premere il tasto destro del mouse sulla barra e selezionare “Show
+Field List”. Apparirà una piccola finestra contenente i campi aggiuntivi
+(l’elenco dei campi varia per ogni schermata di IPOS.)
+
+![image59](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/3a2e4361-66eb-4edd-ae84-bc32870b801a)
+
+Trascinare dunque tenendo premuto il tasto sx del mouse sull’
+intestazione che si desidera aggiungere alle altre e muovere verso le
+altre intestazioni.
+
+![image60](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/7d74b0aa-ced3-478a-ae87-35516d196c12)
+
+
+Dopo aver scelto tra quali colonne si desidera aggiungere
+l’intestazione, rilasciare il tasto sx del mouse per far apparire la
+nuova colonna scelta.
+
+![image61](https://github.com/BBCWiki/IPos-Manuals/assets/164161230/4d8cf4fc-75db-4a62-8f1e-796be0876a10)
 
