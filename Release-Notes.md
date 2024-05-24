@@ -5,6 +5,21 @@ nav_order: 4
 ---
 
 # Release Notes
+## Version 1.24.5.1 - Date 24/05/2024
+### Improvements
+
+BO -> Goods Flow -> Goods Moving
+- Added new field for sold percentage (Sold / all colors / store %)
+- Captions improvements
+
+BO -> Buyer Plans
+- Prohibited changing the BuyerPlan status to "certified" while in edit mode.
+- Implemented a restriction preventing changes to the BuyerPlan status if it is already certified.
+- Improved system functionality to prevent users from accessing BuyerPlans that are already open.
+
+StoreDayClose
+- Fix saving of POS Terminal balances on MoneyMovement with Cause CC_PT_VENDITAPRODOTTI
+
 ## Version 1.24.4.7 - Date 07/05/2024
  
 ### Fixes
