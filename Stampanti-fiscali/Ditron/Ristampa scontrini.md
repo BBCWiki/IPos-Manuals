@@ -3,7 +3,7 @@ layout: home
 title: Ristampa scontrini
 parent: Ditron
 grand_parent: Stampanti fiscali
-nav_order: 4
+nav_order: 1
 ---
 
 # Ristampa scontrini
