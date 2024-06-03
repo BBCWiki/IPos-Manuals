@@ -7,7 +7,7 @@ nav_order: 6
 # Release Notes
 
 ## Version 1.24.6.0 - Date 03/06/2024
-### FIXES
+### Fixes
 
 Custom fiscal printer
 - Fixed an issue where the discount was not calculated correctly on the XML sent to the printer
