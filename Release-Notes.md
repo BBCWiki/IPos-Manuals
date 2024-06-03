@@ -5,6 +5,33 @@ nav_order: 6
 ---
 
 # Release Notes
+
+## Version 1.24.6.0 - Date 03/06/2024
+### FIXES
+
+Custom fiscal printer
+- Fixed an issue where the discount was not calculated correctly on the XML sent to the printer
+
+Store Selector
+- Fixed a bug where some stores remained unselected after pressing “ALL” on the store selector.
+- Corrected an issue where only half of the stores were selected alternately when filtering by unselected and pressing “ALL”.
+
+### Improvements
+
+BO -> Work Order
+- Disabled the “Print Conformity” button for contact lens Work Orders.
+BO -> Active Promotions
+- Added "Supplier Product Code" column to the Active promotions form.
+BO -> Products Redistribution (Goods Moving)
+- Displays a message when all available stock quantities are already in redistribution from the selected source store.
+POS -> Product Families Fidelity points
+- Changed the logic for checking product membership in the “SPESE SARTORIA” or “BUONO REGALO” families to use product codes instead of names.
+
+### Changes
+
+BO -> Contacts -> Prescriptions
+- Users can no longer modify prescriptions without proper permission.
+
 ## Version 1.24.5.1 - Date 24/05/2024
 ### Improvements
 
