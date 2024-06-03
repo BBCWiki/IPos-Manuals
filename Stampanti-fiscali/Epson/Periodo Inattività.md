@@ -7,4 +7,4 @@ nav_order: 5
 ---
 
 # Periodo inattività
-Nel caso in cui sullo schermo del registratore fiscale appaia la dicitura **PERIODO INATTIVITA**, sarà necessario effettuare una chiusura fiscale manual dal tasterino
+Nel caso in cui sullo schermo del registratore fiscale appaia la dicitura **PERIODO INATTIVITA**, sarà necessario effettuare una chiusura fiscale manuale dal tasterino
