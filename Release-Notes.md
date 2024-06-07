@@ -5,6 +5,15 @@ nav_order: 6
 ---
 
 # Release Notes
+## Version 1.24.6.1 - Date 07/06/2024
+### Fixes
+BO -> Goods Moving
+- Validation and minor bug fixes
+### NEW FEATURE
+POS Payment
+- Added the possibility to activate and generate a tax-free invoice without a preselected contact from the payment interface with the press of a button.
+
+
 
 ## Version 1.24.6.0 - Date 03/06/2024
 ### Fixes
