@@ -6,7 +6,7 @@ nav_order: 6
 
 # Release Notes
 
-## Version 1.24.7.6
+## Version 1.24.7.6 Date 05/07/2024
 ### FIXES
 BO -> Product Container Details:
 - Fixed the validation of products with quantity 0 when saving a productContainer.
@@ -21,12 +21,12 @@ Voucher Validity:
 BO -> Accounting -> Analytic Accounting
 - Analytic Accounting module
 
-## Version 1.24.6.5
+## Version 1.24.6.5 Date 25/06/2024
 ### IMPROVEMENTS
 BO -> Buyer Plans
 - Added 'PaymentDate' in all the buyerPlan Reports
 
-## Version 1.24.6.4
+## Version 1.24.6.4 Date 20/06/2024
 ### FIXES
 POS -> Tax-Free
 - Added the possibility to activate GlobalBlue after selection of paymenttype
