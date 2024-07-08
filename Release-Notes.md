@@ -11,7 +11,7 @@ nav_order: 6
 BO -> Product Container Details:
 - Fixed the validation of products with quantity 0 when saving a productContainer.
 
-BO -> Spostamento Merce:
+BO -> Goods Moving:
 - Fixed an issue in which the Grand total could not be moved.
 	
 Voucher Validity:
