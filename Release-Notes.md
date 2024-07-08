@@ -5,6 +5,32 @@ nav_order: 6
 ---
 
 # Release Notes
+
+## Version 1.24.7.6
+### FIXES
+BO -> Product Container Details:
+- Fixed the validation of products with quantity 0 when saving a productContainer.
+
+BO -> Spostamento Merce:
+- Fixed an issue in which the Grand total could not be moved.
+	
+Voucher Validity:
+- Fixed an issue in which the voucher expiration date was not printed on the receipt.
+
+### NEW MODULE
+BO -> Accounting -> Analytic Accountability
+- Analytic Accountability module
+
+## Version 1.24.6.5
+### IMPROVEMENTS
+BO -> Buyer Plans
+- Added 'PaymentDate' in all the buyerPlan Reports
+
+## Version 1.24.6.4
+### FIXES
+POS -> Tax-Free
+- Added the possibility to activate GlobalBlue after selection of paymenttype
+
 ## Version 1.24.6.1 - Date 07/06/2024
 ### Fixes
 BO -> Goods Moving
@@ -12,7 +38,6 @@ BO -> Goods Moving
 ### NEW FEATURE
 POS Payment
 - Added the possibility to activate and generate a tax-free invoice without a preselected contact from the payment interface with the press of a button.
-
 
 
 ## Version 1.24.6.0 - Date 03/06/2024
