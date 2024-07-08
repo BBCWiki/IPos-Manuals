@@ -18,8 +18,8 @@ Voucher Validity:
 - Fixed an issue in which the voucher expiration date was not printed on the receipt.
 
 ### NEW MODULE
-BO -> Accounting -> Analytic Accountability
-- Analytic Accountability module
+BO -> Accounting -> Analytic Accounting
+- Analytic Accounting module
 
 ## Version 1.24.6.5
 ### IMPROVEMENTS
