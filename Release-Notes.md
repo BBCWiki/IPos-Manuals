@@ -6,6 +6,34 @@ nav_order: 6
 
 # Release Notes
 
+## Version 1.24.7.7 Date 11/07/2024
+### FIXES
+BO -> Goods Moving 
+- Fixed an issue in which the user was prompted to select the quantity when moving the grand total
+- Fixed an issue in which the store which was receiving the goods could send them to another store
+
+BO -> Entrance Goods
+- Fixed the message of missing product when you add it into an entranceGoods (now it will be shown only when the button 'Add Quantity as a new Row' is disabled)
+		
+BO -> Goods Moving:
+- Fixed an issue in which the Grand total could not be moved.
+	
+POS:
+- Fixed an issue in which the voucher expiration date was not printed on the receipt.
+- Show only the used PaymentTypes to StoreDayClose
+
+### FEATURE
+- Created the possibility to select which payment method will be shown when paying a voucher
+- Added Procedure to sync missing users from local to HQ
+- Added Procedure to Sync Schema s Procedures
+
+### IMPROVEMENTS
+BO -> Accounting -> Analytic Accounting
+- Added possibility of selecting multiple months for the reports at once
+- Added custom report row editor
+- Import of budget movements: The date column is now split in 2 different columns: Year & Month
+
+
 ## Version 1.24.7.6 Date 05/07/2024
 ### FIXES
 BO -> Product Container Details:
