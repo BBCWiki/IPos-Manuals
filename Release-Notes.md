@@ -6,6 +6,31 @@ nav_order: 6
 
 # Release Notes
 
+## Version 1.24.7.8 Date 17/07/2024
+### FIXES
+POS:
+- Corrected the IsVoucherSaleEnabled column in the PosPaymentTypes table to be set to 1 where it was previously null.
+BO -> Packing lists:
+- The functionality for printing the packing list labels
+- PickingLIsts can now be modify only by the create store
+
+### IMPROVEMENTS
+BO -> Labels
+- Allows user to select if discount is printed on the label through a checkbox enabled from StoreSetup.
+
+BO -> Analytic Accounting
+- Added filter by company on Chart of Accounts, Accounting Movements and Cost Revenue Centers.
+- Improvements on Chart of Accounts display for more clearness on the levels of the accounts.
+- Added Cost Revenue Center Type on the report.
+- Report name is automatically completed with the account or subtotal selected but can still be edited by the user.
+- Report editor allows only Master Accounts to be selected.
+- Small Layout improvements on the report.
+- Added missing captions.
+
+### FEATURES
+BO -> Analytic Accounting
+- Added editor of subtotals formulas for the custom report.
+
 ## Version 1.24.7.7 Date 11/07/2024
 ### FIXES
 BO -> Goods Moving 
