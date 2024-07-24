@@ -10,18 +10,23 @@ nav_order: 6
 ### FEATURES
 BO -> Analytic Accounting:
 - Finish estimate: Added new column which displays either the Budget or the Actual values based on the user selection
+- 
 BO
 - Added StoreVisitors to the Reports and Analysis section.
+
 BO -> Goods Moving:
 - Product containers can now be modified when impersonating a store from HQ, provided the impersonated store has a database level of LH or H
 	
 ### IMPROVEMENTS
 BO -> Analytic Accounting:
-- Chart Of Accounts, Cost Revenue Centers, Subtotals Detail forms are now in the context of the selected company from the main page	
+- Chart Of Accounts, Cost Revenue Centers, Subtotals Detail forms are now in the context of the selected company from the main page
+  
 BO -> Utility -> Users -> User Details
 - Maximum user code length in characters is now parametrizable in Store Setup (Default = 5, Maximum = 10)
+  
 BO -> Goods Moving:
 - Prevents opening the same product container multiple times
+  
 Deadlock Prevention
 - Enhanced stability by preventing deadlocks during container saves and FiscalDayClose save
 
@@ -29,16 +34,22 @@ Deadlock Prevention
 BO -> Analytic Accounting
 - Fixed a bug which prevented the user from creating new subtotals
 - User is now being warned if no month is selected on the report
+  
 BO -> Base Informations -> Carriers
 - Fixed a bug where the dropdown of the Company column on the Carriers page did not show data correctly
+  
 BO -> Promotions Management -> Promotion Details
 - Fixed an issue where the Product Supplier Code column showed the Product Code of the supplier instead of the Supplier Code
+  
 Sync Download Store History
 - Fixed an issue where the sync of Clinical Status was not functioning when downloading Store History
+  
 BO / POS -> Request User Code
 - It is no longer possible to change to a disabled user
+  
 BO/POS
 - Fixed an issue where the database level was incorrectly changed from LH to L after an update
+  
 POS
 - Fixed issue with lot assignment when changing the style of substituted products
 
