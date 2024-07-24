@@ -10,7 +10,7 @@ nav_order: 6
 ### FEATURES
 BO -> Analytic Accounting:
 - Finish estimate: Added new column which displays either the Budget or the Actual values based on the user selection
-- BO
+BO
 - Added StoreVisitors to the Reports and Analysis section.
 BO -> Goods Moving:
 - Product containers can now be modified when impersonating a store from HQ, provided the impersonated store has a database level of LH or H
