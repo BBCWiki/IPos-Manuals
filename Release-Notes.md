@@ -6,6 +6,25 @@ nav_order: 6
 
 # Release Notes
 
+## Version 1.2407.2.0 Date 26/07/2024
+### FEATURES
+Applying Hotfixes from SBSoftware Portal:
+- Hotfixes will be automatically applied directly from the portal, tailored specifically for the database version that the application opens.
+
+ ### IMPROVEMENTS
+BO -> Delivery Document Details
+- Made Product Id (ICode) visible by default.
+BO -> Analytic Accounting
+- Finish Estimate dropdown visual improvement.
+POS -> Store Day Close
+- Made totals column wider in order to fix a visual issue which showed ###### if the number was too large.
+Switch user
+- Users not associated with the current store can no longer be used for transactions.
+
+### FIXES
+BO -> Products
+- Fixed a bug in which semi-online and online stores could not see the correct stock on the Styles tab below the products.
+  
 ## Version 1.2407.1.0 Date 24/07/2024
 ### FEATURES
 BO -> Analytic Accounting:
