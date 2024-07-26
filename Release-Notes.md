@@ -14,10 +14,13 @@ Applying Hotfixes from SBSoftware Portal:
  ### IMPROVEMENTS
 BO -> Delivery Document Details
 - Made Product Id (ICode) visible by default.
+  
 BO -> Analytic Accounting
 - Finish Estimate dropdown visual improvement.
+  
 POS -> Store Day Close
 - Made totals column wider in order to fix a visual issue which showed ###### if the number was too large.
+  
 Switch user
 - Users not associated with the current store can no longer be used for transactions.
 
