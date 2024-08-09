@@ -16,5 +16,5 @@ La Verifica Email è una funzionalità che invia un'email ai tuoi clienti conten
 - Se hai un firewall che non consente l'accesso a Internet pubblico, assicurati di **WHITELISTARE** il seguente indirizzo IP: xxx.xxx.xxx.xxx.
 
 ## Come Abilitare:
-Nel Backoffice di **IPOS**, all'interno del menu **StoreSetup**, dovrai cambiare il servizio **EmailVerificationService** da "Disabled" a "Enabled".
+Nel Backoffice di **IPOS**, all'interno del menu **StoreSetup**, dovrai cambiare il servizio **EmailVerificationService** da "Disabled" a "Enabled". 
 
