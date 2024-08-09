@@ -18,3 +18,6 @@ La Verifica Email è una funzionalità che invia un'email ai tuoi clienti conten
 ## Come Abilitare:
 Nel Backoffice di **IPOS**, all'interno del menu **StoreSetup**, dovrai cambiare il servizio **EmailVerificationService** da "Disabled" a "Enabled". 
 
+
+![Screenshot 2024-08-09 165036](https://github.com/user-attachments/assets/a93a6047-d86f-42cc-9ae6-254eaddb6885)
+
