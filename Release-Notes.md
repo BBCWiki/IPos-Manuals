@@ -5,6 +5,52 @@ nav_order: 6
 ---
 
 # Release Notes
+## Version 1.2408.1.0 Date 22/08/2024
+### FEATURES
+Login
+- License verification when performing Log In action
+
+### IMPROVEMENTS
+POS
+- Added the possibility to configure the editing of prices and discounts for the selected product.
+
+### FIXES
+BO -> DeliveryDocuments
+- Fixed an issue where DDTs could not be printed if the DocumentNumber contained other characters than numeric ones.
+
+## Version 1.2408.0.0 Date 13/08/2024
+### IMPROVEMENTS
+ POS
+- Added a new mode for promotion NxM, promotion NxM mode Split(S), In this mode, the promotion discounts the least expensive items in the entire transaction and splits the discount proportionally across all N item(s) in the promotion.
+- Added an option to configure warnings or block sales of out-of-stock products.
+
+### FIXES
+BO -> Vouchers
+- Fixed a bug where cumulative box was unchecked for all the cases
+BO -> BuyerPlans
+- fixed the styles view after printing the raport
+
+## Version 1.2407.3.0 Date 31/07/2024 
+### New Interface - Customer Display
+This feature enhances the customer experience by providing a dedicated display at the point of sale (POS) that shows real-time transaction details, including scanned items, quantities, discounts, and any special orders. Additionally, it offers the capability to display targeted ads and the company logo.
+Key Features:
+
+- Real-time Transaction Display:
+Shows scanned items with full details, such as quantities, discounts, and special orders.
+
+- Ad and Logo Display:
+Ads appear on the left side of the screen, while a custom logo is displayed above the product list.
+
+- Flexible Screen Configuration:
+Users can configure the display to appear on any screen 
+
+### FEATURES
+POS -> Reserve
+- Added possibility of reserving products into an order for a specific contact in POS.
+
+### FIXES
+BO -> Labels
+- Fixed an issue where custom labels did not show the percentage discount correctly.
 
 ## Version 1.2407.2.0 Date 26/07/2024
 ### FEATURES
