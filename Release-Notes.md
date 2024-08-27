@@ -5,6 +5,12 @@ nav_order: 6
 ---
 
 # Release Notes
+## Version 1.2408.1.1 Date 27/08/2024
+### IMPROVEMENTS
+POS
+- Added the possibility to configure the editing of quantity for the selected product.
+- When entering the payment screen, a list of out-of-stock products will appear. The option to allow or block the transaction can be configured
+ 
 ## Version 1.2408.1.0 Date 22/08/2024
 ### FEATURES
 Login
