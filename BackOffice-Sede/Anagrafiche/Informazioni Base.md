@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Informazioni Base
+title: Informazioni-Base
 parent: Anagrafiche
 grand_parent: BackOffice Sede
 nav_order: 3
