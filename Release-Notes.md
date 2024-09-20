@@ -5,13 +5,47 @@ nav_order: 6
 ---
 
 # Release Notes
+## Version 1.2409.1.0 Date 20/09/2024
+### Features
+BO -> Delivery Documents
+- Added possibility to see if a delivery document would bring stock for products into negative as a report upon saving the DDT - Enabled by a Store Setup parameter.
+- Added possibility to block certification if the DDT would bring stock for products into negative - Enabled by a Store Setup parameter.
+
+### IMPROVEMENTS
+BO -> Buyer Plans
+-Now a BuyerPlan is impossible to be created/open if it's categoryCluster has no stores assigned + InfoMessage
+
+BO -> Contacts (Prescription)
+- Added a warning that informs the user if they are not allowed to add a new occulist
+
+BO -> Delivery Documents
+- Added the possibility to edit the Delivery Document headers before certification
+
+### FIXES
+BO -> Work Orders
+-Fixed the problem where the voucher were not applied if the WO was modified after the endDate of the Voucher
+-Fixed an issue where the (WO) creation button did not display the information indicating that the client information verification had failed
+-Fixed the inseration of a new treatment
+-Fixed the inseration of a Discount maxValue for treatment
+
+BO -> Buyer Plan
+-Fixed the colorId and the colorName in the Store-Product and Product-Store Reports
+
+BO -> Accountant Registration
+- Set higher timeout for Accountant Registration
+
+BO -> Products
+- Disabled visibility for barcodes that are not enabled
+
+BO -> Vouchers
+- Display error when a product's specifications are being edited after the voucher applied on it has expired
+
 ## Version 1.2409.0.0 Date 06/09/2024
 ### Features
 POS
 - Added the option to choose whether to print the reasons for returned products or not.
 - Added the option to specify the barcode type (CODE39 or CODE128) for printing the barcode.
 - Added the ability to download store history from the settings interface.
-
 
 ### IMPROVEMENTS
 POS
