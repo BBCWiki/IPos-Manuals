@@ -5,6 +5,20 @@ nav_order: 6
 ---
 
 # Release Notes
+## Version 1.2409.2.0 Date 25/09/2024
+### FIXES
+POS:
+- Updated the display of percentage values in the application. Percentages will now show only the whole number part without rounding (e.g., 12.69% will be displayed as 12%).
+
+BO -> Buyer Plans
+- Saves correctly the change (replace) of the Color of a product, and also the change of the supplier color code
+- Report prints correctly the supplier color code present in the current buyer plan.
+- Adding a new product will load correctly the current supplier color code of the product
+
+BO -> Sync Log Viewer 
+- show the time in 24h format
+
+  
 ## Version 1.2409.1.0 Date 20/09/2024
 ### Features
 BO -> Delivery Documents
