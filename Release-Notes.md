@@ -5,6 +5,25 @@ nav_order: 6
 ---
 
 # Release Notes
+## Version 1.2410.1.0 Date 08/10/2024
+
+### Features
+BO-> Contacts
+- Implemented a condition that ensures a new fidelity card for a person begins with the specific card's prefix, if one exists.
+
+SYS
+- Updated license configuration to replace the config license when a different license is detected in the database.
+
+BO -> GoodsFlow -> PickingLists
+- Added the ability to create a generic picking list for all stores directly from HQ, as well as the option to create a picking list containing all stock for selected products. 
+
+### FIXES
+
+POS:
+- Fixed the problem when creating a buono omaggio
+
+
+
 ## Version 1.2409.2.0 Date 25/09/2024
 ### FIXES
 POS:
