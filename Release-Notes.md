@@ -5,6 +5,18 @@ nav_order: 6
 ---
 
 # Release Notes
+## Version 1.2410.3.0 Date 17/10/2024
+
+### IMPROVEMENTS
+BO-> Goods Flow -> PickingLists: Users can now create picking lists for other stores exclusively from HQ, provided they have the required role permision.
+
+### FIXES
+BO-> Goods Flow -> PickingLists:
+- Picking lists are now editable even if the CreateStoreID is null.
+- Fixed a bug where incorrect quantities were displayed in the Picking List Report for the picking lists with the "Include All Product Stock" flag enabled.
+- Added a new permission that governs the creation of picking lists for other stores
+
+
 ## Version 1.2410.1.0 Date 08/10/2024
 
 ### Features
