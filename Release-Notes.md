@@ -5,6 +5,18 @@ nav_order: 6
 ---
 
 # Release Notes
+## Version 1.2410.4.0 Date 28/10/2024
+
+
+### IMPROVEMENTS
+SYS -> Hotfixes:
+Hotfixes will now be automatically applied, regardless of the DBUpdate parameter setting.
+Increased the hotfix command timeout to 2 minutes.
+
+### FIXES
+Fixed an issue where the work order (WO) was not marked as modified .Now, changes to the work order are correctly saved.
+
+
 ## Version 1.2410.3.0 Date 17/10/2024
 
 ### IMPROVEMENTS
