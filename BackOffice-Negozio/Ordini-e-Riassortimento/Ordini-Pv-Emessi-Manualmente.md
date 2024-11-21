@@ -3,7 +3,7 @@ layout: home
 title: Ordini-Pv-Emessi-Manualmente
 parent: Ordini-e-Riassortimento
 grand_parent: BackOffice Negozio
-nav_order: 3
+nav_order: 4
 ---
 # ***ORDINI PV EMESSI MANUALMENTE:***
 
