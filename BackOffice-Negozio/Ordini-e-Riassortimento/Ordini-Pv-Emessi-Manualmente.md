@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Ordini-Pv-Emessi-Manualmente
-parent: Ordini-e-Riassortimento
+title: Ordini Pv Emessi Manualmente
+parent: Ordini e Riassortimento
 grand_parent: BackOffice Negozio
 nav_order: 4
 ---
