@@ -1,5 +1,5 @@
 ---
-title: Ordini e riassortimento
+title: Ordini e Riassortimento
 layout: home
 parent: BackOffice Negozio
 nav_order: 3
