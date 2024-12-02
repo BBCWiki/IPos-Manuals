@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Ordini-Fornitori
-parent: Ordini-e-Riassortimento
+title: Ordini Fornitori
+parent: Ordini e Riassortimento
 grand_parent: BackOffice Sede
 nav_order: 5
 ---
