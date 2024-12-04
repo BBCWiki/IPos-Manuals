@@ -5,6 +5,27 @@ nav_order: 6
 ---
 
 # Release Notes
+## Version 1.2412.1.0 Date 04/12/2024
+
+### Features
+
+Added the option to include free-of-charge items in shipping invoices.
+Introduced the ability to add shipping charges to shipping invoices.
+Added a procedure to force the download of a specific work order from HQ (SyncInThisWorkOrder).
+
+### IMPROVEMENTS
+
+Ipos Android WS: Added the ability to delete dining tables and updated with Name support.
+ElectronicInvoices: Included missing data for electronic invoices.
+
+### FIXES
+
+BO -> Work Order: Resolved an issue with the discount division for vouchers in work orders.
+Scorpion Bay Connector: Fixed a bug in the export of invoices.
+Fixed an issue with progressive product increments during the import process.
+
+
+
 ## Version 1.2410.4.0 Date 28/10/2024
 
 
