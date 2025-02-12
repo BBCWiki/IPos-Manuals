@@ -12,9 +12,9 @@ POS:
 - Fix timeout issues on StoreDayCloses. 
 BO  -> 	Health Insurance
 -	Fixed Health Insurance 
-  	Removed rowType : Pending 
-  	Verification of an already sent receipt to TS
-  	Feature: Implemented the Variazione type
+-  Removed rowType : Pending 
+- Verification of an already sent receipt to TS
+- Feature: Implemented the Variazione type
 BO -> Electronic Invoices
 -	Correctly added rounding loss as discount
 
