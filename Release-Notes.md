@@ -8,14 +8,15 @@ nav_order: 6
 ## Version 1.2502.0.0 Date 12/02/2025
 
 ### FIXES
-POS:
+# POS:
 - Fix timeout issues on StoreDayCloses. 
-BO  -> 	Health Insurance
+# BO  -> 	Health Insurance
 -	Fixed Health Insurance 
 -  Removed rowType : Pending 
 - Verification of an already sent receipt to TS
 - Feature: Implemented the Variazione type
-BO -> Electronic Invoices
+
+# BO -> Electronic Invoices
 -	Correctly added rounding loss as discount
 
 ## Version 1.2412.1.0 Date 04/12/2024
