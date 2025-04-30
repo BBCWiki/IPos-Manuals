@@ -39,11 +39,9 @@ modulo “**Riordino**”. Una volta aperto il modulo:
 Dopo aver selezionato il range di data, premere sull’icona definita
 dalla “freccia verde” per caricare gli articoli
 
-<img src="./media/image1.png"
-style="width:5.24367in;height:2.19583in" />
+![image1](https://github.com/user-attachments/assets/185c3c06-5c8f-42d9-a8cd-fdcff927551e)
+![image2](https://github.com/user-attachments/assets/18a74170-33c9-4bb0-83a9-ad4ce51bf6b3)
 
-<img src="./media/image2.png"
-style="width:5.24811in;height:3.84052in" />
 
 Nella schermata verranno mostrati tutti gli articoli che hanno subito un
 movimento nel periodo selezionato e, in particolare nella colonna
@@ -56,8 +54,8 @@ venduti. IPOS non propone nulla nella colonna “**azzurra**”
 - **Manualmente:** Andando a compilare a mano il campo della
   colonna **ORDINE**
 
-<img src="./media/image3.png"
-style="width:3.82083in;height:0.94787in" />
+![image3](https://github.com/user-attachments/assets/52167943-0d09-4c12-8d8c-bd1cb6c2130c)
+
 
 **2.**
 
@@ -65,33 +63,35 @@ style="width:3.82083in;height:0.94787in" />
   verde “**Sell Out**” (quindi del venduto) all’interno della cella azzurra
   “ordine”. Per farlo selezionare le righe interessate in questi modi:
 
-> <img src="./media/image4.png"
-> style="width:1.16528in;height:1.02292in" />
 
 1)  Selezionare il primo articolo, tenere premuto sulla tastiera il
     tasto in basso a sinistra “**CTRL**” e premere (mantenendo premuto
     il tasto **CTRL**) il tasto “**A**” 🡪 **CTRL+A**
 
-<img src="./media/image5.png"
-style="width:8.13549in;height:3.36702in" />
+![image4](https://github.com/user-attachments/assets/9afd16f7-90a5-4777-b550-304d405b216b)
 
-2)  <img src="./media/image6.png" style="width:1.5375in;height:0.725in" />Selezionare
-    il primo articolo, tenere premuto sulla tastiera il tasto in basso a
+![image5](https://github.com/user-attachments/assets/6da811e8-f595-4de8-a01b-961499c6a6c5)
+
+
+2)  Selezionare il primo articolo, tenere premuto sulla tastiera il tasto in basso a
     sinistra “**SHIFT**” e premere (mantenendo premuto il tasto
     **SHIFT**) il tasto “**SINISTRO**” del mouse sino alla riga
     desiderata 🡪 **SHIFT+Tasto SX**
 
-<img src="./media/image7.png" style="width:2.636in;height:3.57226in" /><img src="./media/image8.png"
-style="width:4.67057in;height:3.56069in" />
+![image6](https://github.com/user-attachments/assets/24768d38-7528-4817-8f05-4d982c6f2246)
+![image8](https://github.com/user-attachments/assets/6b8cb7e0-2cd5-4cde-b8c9-c59b35e438b7) 
+![image7](https://github.com/user-attachments/assets/bfbc80d9-aa07-41d5-8f73-6113a87dd6de)
 
-3)  <img src="./media/image9.png"
-    style="width:1.34722in;height:0.80347in" />Selezionare il primo
-    articolo, tenere premuto sulla tastiera il tasto in basso a sinistra
+
+
+3)  Selezionare il primo articolo, tenere premuto sulla tastiera il tasto in basso a sinistra
     “**CTRL**” e premere (mantenendo premuto il tasto **CTRL**) il tasto
     “**SINISTRO**” del mouse le righe desiderate 🡪 **CTRL+Tasto SX**
 
-<img src="./media/image10.png"
-style="width:5.30058in;height:3.93422in" />
+![image9](https://github.com/user-attachments/assets/069b25b9-628e-4292-97f5-1f76938cb565)
+
+![image10](https://github.com/user-attachments/assets/bdbd064f-909c-44db-9451-191b0b230cba)
+
 
 **3.**
 
@@ -100,13 +100,11 @@ style="width:5.30058in;height:3.93422in" />
   aggiunge un valore di copertura (lo stesso che riscontra nella colonna
   stock) nella colonna “**Ordine**”. Per quanto riguarda invece gli articoli
   con stock positivo non verrà settato alcun valore nella colonna
-  “Ordine”. (La selezione degli articoli è la stessa dei tre metodi
+  “**Ordine**”. (La selezione degli articoli è la stessa dei tre metodi
   descritti al punto 2)
 
+![image11](https://github.com/user-attachments/assets/cba1cc2a-c571-4390-89b9-6554a90d23be)
 
-
-<img src="./media/image11.png"
-style="width:4.96046in;height:3.80347in" />
 
 **4.**
 
@@ -117,8 +115,8 @@ style="width:4.96046in;height:3.80347in" />
   % settato (**solo per merce con stock in negativo e che ha subito già
   una Modifica copertura**) per i prodotti con stock negativo.
 
-<img src="./media/image12.png"
-  style="width:5.09827in;height:1.52715in" />
+![image12](https://github.com/user-attachments/assets/303a6aa4-6d01-424d-b9fa-da620b978818)
+
 
 **5.**
 
@@ -127,8 +125,8 @@ style="width:4.96046in;height:3.80347in" />
   scelta dall’utente, non tenendo conto della né della qta venduta
   **sellout**, né dello **stock** in negativo
 
-<img src="./media/image13.png"
-  style="width:5.31859in;height:4.07089in" />
+![image13](https://github.com/user-attachments/assets/749134ef-e756-4425-a1e5-a1005785fa6a)
+
 
 
 ## **CREAZIONE ORDINI**
@@ -137,16 +135,17 @@ style="width:4.96046in;height:3.80347in" />
 
 **1.**
 
-<img src="./media/image14.png"
-style="width:2.97083in;height:1.91944in" />Dopo aver ultimato di
+Dopo aver ultimato di
 compilare la quantità da ordinare, possiamo confermare l’ordine premendo
 sull’apposita icona definita dalla “**CHECK VERDE**”
 
-L’ordine verrà generato in ORDINI PV EMESSI (vedere documento ordini PV
+![image14](https://github.com/user-attachments/assets/c2b766a6-88c2-4636-9a11-1943705b0d09)
+
+L’ordine verrà generato in **ORDINI PV EMESSI** (vedere documento ordini PV
 EMESSI)
 
-<img src="./media/image15.png"
-style="width:6.69306in;height:2.04931in" />
+![image15](https://github.com/user-attachments/assets/d4209ce2-cdb4-43bc-bfec-8aa189e24649)
+
 
 **2.**
 
@@ -156,16 +155,16 @@ Premendo sull’apposita icona definita da un “**blocco note con il check
 rosso**” , IPOS mostrerà direttamente gli ordini fornitori che si
 andranno a creare
 
-<img src="./media/image16.png"
-style="width:6.69306in;height:2.70069in" />
+![image16](https://github.com/user-attachments/assets/892f046e-6825-426e-8ae6-e40ee5075028)
+
 
 Ecco gli ordini appena generati in “Ordini Fornitori”
 
-<img src="./media/image17.png"
-style="width:6.69306in;height:1.20694in" />
+![image17](https://github.com/user-attachments/assets/8a481f9b-a837-4a3d-9abf-fa9b3f6e3870)
+
 
 Successivamente dalla Sede, bisognerà effettuare ### l’APPROVAZIONE ORDINE.
 (**Vedere documento Approvazione Ordini**)
 
-<img src="./media/image18.png"
-style="width:6.69306in;height:6.10972in" />
+![image18](https://github.com/user-attachments/assets/34ccfc41-3f02-4bfe-847f-cf2eaedf4b30)
+
