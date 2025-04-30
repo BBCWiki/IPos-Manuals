@@ -1,4 +1,4 @@
-#APPROVAZIONE ORDINI PV:
+# APPROVAZIONE ORDINI PV:
 
 Per approvare un ordine emesso da un punto vendita, loggarsi in back
 office ed aprire il modulo Approvazione Ordini PV nel menu “Ordini &
