@@ -1,4 +1,10 @@
-
+---
+layout: home
+title: Riordino
+parent: Ordini e Riassortimento
+grand_parent: BackOffice Negozio
+nav_order: 5
+---
 
 # ***RIORDINO:***
 
