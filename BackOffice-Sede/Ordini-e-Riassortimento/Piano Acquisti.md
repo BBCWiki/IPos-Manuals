@@ -1,4 +1,10 @@
-
+---
+layout: home
+title: Piano Acquisti
+parent: Ordini e Riassortimento
+grand_parent: BackOffice Sede
+nav_order: 9
+---
 # **PIANO ACQUISTI:**
 
 - **INTRO:** Il buyer, detto anche responsabile acquisti, è la
@@ -17,14 +23,12 @@
   d’acquisto creati e avvalersi dell’apposita icona definita da una
   “freccia verde” per caricare i dati desiderati.
 
-<img src="./media/image1.png"
-style="width:5.03542in;height:2.18472in" />
+![image1](https://github.com/user-attachments/assets/d0bc4cd3-d18e-4dad-831a-8cf4822c9159)
 
 Di seguito l’elenco dei piani di acquisti creati nel range di data
 scelto:
 
-<img src="./media/image2.png"
-style="width:6.69306in;height:2.62361in" />
+![image2](https://github.com/user-attachments/assets/8248902b-c179-4527-b82f-95243b1c3788)
 
 E’ possibile come per quasi ogni schermata dei moduli di IPOS,
 aggiungere o togliere colonne dalla videata. Per farlo è sufficiente
@@ -32,8 +36,7 @@ premere il tasto destro del mouse sulle intestazioni, e scegliere nel
 menu (premendo col tasto Sx del mouse) che si aprirà la voce “Column
 Chooser”
 
-<img src="./media/image3.png"
-style="width:6.69306in;height:2.45764in" />
+![image3](https://github.com/user-attachments/assets/f8967dcf-d3f0-4357-bbf1-d7c96f4cabab)
 
 Per aggiungere o togliere una colonna, basterà premere e tener premuto
 su un intestazione dell’elenco che si desidera aggiungere e trascinarla
@@ -42,22 +45,20 @@ Ad esempio, qualora si fosse interessati a vedere l’ID dei piani di
 Acquisto, trascinare la colonna Buyer Plan Id a piacimento tra le
 colonne, ad esempio ad inizio videata.
 
-<img src="./media/image4.png"
-style="width:6.69306in;height:2.45278in" />Selezionare e tener premuto
-il tasto SX del mouse e trascinare l’intestazione della colonna Buyer
+Selezionare e tener premuto il tasto SX del mouse e trascinare l’intestazione della colonna Buyer
 Plan id prima della colonna Nome:
+
+![image4](https://github.com/user-attachments/assets/b3aa216c-1510-499c-b8ef-2798234dccd9)
 
 Una volta che si è sicuro di dove posizionare la nuova colonna, lasciare
 il tasto SX del mouse per vedere apparire la nuova colonna nella
 schermata:
 
-<img src="./media/image5.png"
-style="width:6.69306in;height:2.76806in" />
+![image5](https://github.com/user-attachments/assets/7257859d-9288-4d1b-ad54-cce94d93665c)
 
 DI seguito l’elenco dei piani acquisto con la nuova colonna:
 
-<img src="./media/image6.png"
-style="width:6.69306in;height:1.77292in" />
+![image6](https://github.com/user-attachments/assets/3a559949-3c73-4216-b5be-a9ae336742c4)
 
 **2.**
 
@@ -71,42 +72,37 @@ Anche se non obbligatorio al fine della creazione del nuovo Piano
 acquisti, è consigliato compilare anche altri campi per rendere il tutto
 più preciso e comprensibile.
 
-<img src="./media/image7.png"
-style="width:7.39708in;height:1.58333in" />
+![image7](https://github.com/user-attachments/assets/6eaeb7fa-3f4b-455f-bdc8-43843ed22318)
 
 Premere ok per creare il nuovo Piano Acquisti:
 
-<img src="./media/image8.png"
-style="width:6.69306in;height:0.56181in" />
+![image8](https://github.com/user-attachments/assets/edbe582e-86cf-4620-bbc9-07e1644e1429)
 
-**NOTA:** Per modificare il piano acquisti, premere sull’Icona
-definita dal “blocco note” e modificare a proprio piacimento il
-contenuto delle celle. Premere sul tasto “ok” per salvare le modifiche.
+>**NOTA:** Per modificare il piano acquisti, premere sull’Icona
+>definita dal “blocco note” e modificare a proprio piacimento il
+>contenuto delle celle. Premere sul tasto “ok” per salvare le modifiche.
+>
+>![image9](https://github.com/user-attachments/assets/2e5392dc-ac6e-4a39-8be3-8a9c955c359f)
 
-<img src="./media/image9.png"
-style="width:6.69306in;height:2.95486in" />
-
-<img src="./media/image10.png"
-style="width:3.04167in;height:0.31955in" />**LA SCHERMATA DEL PIANO
-ACQUISTI:** Dopo aver creato il piano acquisti, si aprirà la
+**LA SCHERMATA DEL PIANO ACQUISTI:** Dopo aver creato il piano acquisti, si aprirà la
 schermata per la creazione degli articoli.
 
-<img src="./media/image11.png"
-style="width:4.63576in;height:0.25444in" />La schermata è suddivisa da
-**4 TAB**
+La schermata è suddivisa da **4 TAB**![image10](https://github.com/user-attachments/assets/7cc28113-8f97-4b2b-8ced-1f478bcdd96d)
 
-e da una barra delle azioni in alto.
+
+e da una barra delle azioni in alto.![image11](https://github.com/user-attachments/assets/e352e94f-678c-425f-b4a9-13d010356e5a)
 
 **TAB PRODOTTI:** È nella tab prodotti che si creano gli articoli
 ed i barcode da inserire nel piano acquisti e dai cui si generato gli
 ordini per i negozi. La tab è suddivisa in più sessioni
 
-- <img src="./media/image12.png"
-  style="width:6.69306in;height:0.88194in" />**Sessione Prodotti:** in
-  questa sessione vengono inseriti i prodotti da acquistare che possono
+- **Sessione Prodotti:**
+  inquesta sessione vengono inseriti i prodotti da acquistare che possono
   già far parte dell’anagrafica dei prodotti, oppure si possono inserire
   nuovi prodotti che non esistono ancora nell’anagrafica dei prodotti ma
   che si ha intenzione di acquistare.
+
+![image12](https://github.com/user-attachments/assets/39059fc2-551f-4632-bb8e-ae37d097bd06)
 
 Nella sessione **PRODOTTI** troviamo i seguenti dati:
 
@@ -160,8 +156,7 @@ Nella sessione **PRODOTTI** troviamo i seguenti dati:
   una nuova variante colore che non è attualmente associata al prodotto
   che si desidera acquistare”.
 
-<img src="./media/image13.png"
-style="width:2.47917in;height:0.72639in" />
+![image13](https://github.com/user-attachments/assets/1559a981-2fb4-47e1-890a-9f8e6d64d2a6)
 
 - **NOME;** in questa colonna abbiamo il codice variante ed il nome del
   colore
@@ -185,38 +180,33 @@ style="width:2.47917in;height:0.72639in" />
   altre al 100, si avrà per due varianti colori 45% mentre per il giallo
   9 %
 
-<img src="./media/image14.png"
-style="width:6.69306in;height:1.25764in" />
+![image14](https://github.com/user-attachments/assets/ce614ebd-b400-4c8f-85ee-de32074d84af)
 
-- <img src="./media/image15.png"
-  style="width:2.65278in;height:1.25972in" />**\*;** in questa cella,
-  premendo sopra con il tasto **SX** del mouse IPOS consentirà ai buyer
-  di poter inserire un ulteriore colore a quello dell’articolo
-  selezionato nella sessione **prodotti**
+
+- >**\*;** in questa cella, premendo sopra con il tasto **SX** del mouse IPOS consentirà ai buyer
+  di poter inserire un ulteriore colore a quello dell’articolo selezionato nella sessione **prodotti**
+
+![image15](https://github.com/user-attachments/assets/962cb1f5-b046-44c5-a4e0-547953f66350)
 
 **NOTA:** Ogni colore che viene aggiunto nelle sessioni
 “**Varianti**” oltre che ad inserire le taglie nella sessione
 **Taglie**, viene aggiunto nella **Tab Ordine**
 
-<img src="./media/image16.png"
-style="width:0.23958in;height:0.22917in" /><img src="./media/image17.png"
-style="width:6.69306in;height:1.12917in" />
+![image17](https://github.com/user-attachments/assets/303df5f1-b28c-4680-ab80-9af456c91ec3)
 
-- premendo sopra con il tasto **SX** del mouse IPOS consentirà ai buyer
+- ![image16](https://github.com/user-attachments/assets/b6feadbf-cb54-4bad-9679-36e254e169af) premendo sopra con il tasto **SX** del mouse IPOS consentirà ai buyer
   di poter inserire un ulteriore colore a quello dell’articolo
   selezionato nella sessione **prodotti, “Anche colori NON presenti in
   anagrafica dei prodotti”**
 
-<img src="./media/image18.png"
-style="width:6.69306in;height:1.49792in" />
+![image18](https://github.com/user-attachments/assets/fca956b3-96cd-4278-a571-bee6ac52b946)
 
-\- **SESSIONE TAGLIE:** In questa sessione, quando l’articolo
+- **SESSIONE TAGLIE:** In questa sessione, quando l’articolo
 viene inserito nel piano acquisti appariranno le taglie appartenenti
 **al / ai colori** associati al prodotto che il buyer decide di
 acquistare.
 
-<img src="./media/image19.png"
-style="width:2.18958in;height:1.49653in" />
+![image19](https://github.com/user-attachments/assets/be43b1cd-d311-4acc-8b36-bcd3ab14ee60)
 
 - **TAGLIA**; in questa colonna abbiamo la misura dell’indumento e può
   variare da colore a colore
@@ -237,8 +227,7 @@ style="width:2.18958in;height:1.49653in" />
   giallo si decide di avere un’incidenza di 20 e tenere le altre al 100,
   si avrà per due varianti colori 45% mentre per il giallo 9 %
 
-<img src="./media/image20.png"
-style="width:2.17639in;height:1.47361in" />
+![image20](https://github.com/user-attachments/assets/364be8b1-9660-4aa9-832e-f707741535fc)
 
 **-SESSIONE ORDINE:** Nella sessione Ordine, si troveranno gli
 ordini per ogni singolo negozio con le quantità suddivise per colori e
@@ -254,41 +243,36 @@ sessioni “**variante e taglie**”, IPOS correggerà autonomamente il
 numero di quantitativi nella cella azzurra della sessione prodotti
 “quantità” e li distribuirà equamente nella griglia dell’ordine.
 
-<img src="./media/image21.png"
-style="width:4.17917in;height:2.26806in" />**NOTA:** Se non ci
-piace come sono distribuite le quantità, è possibile selezionare la
-modalità Manuale per cambiare a proprio piacimento i quantitativi delle
-taglie dell’ordine, oppure il valore di incidenza della colonna peso
-nelle sessioni “varianti e taglie”
+>**NOTA:** Se non ci piace come sono distribuite le quantità, è possibile selezionare la
+>modalità Manuale per cambiare a proprio piacimento i quantitativi delle
+>taglie dell’ordine, oppure il valore di incidenza della colonna peso
+>nelle sessioni “varianti e taglie”
 
-<img src="./media/image22.png"
-style="width:3.12634in;height:1.89062in" />Se invece l’opzione di
-distribuzione settato è “**Manuale**”, bisognerà inserire nelle celle
+![image21](https://github.com/user-attachments/assets/df51f83b-33bb-4248-9849-7f71ede61958)
+
+Se invece l’opzione di distribuzione settato è “**Manuale**”, bisognerà inserire nelle celle
 dell’ordine stesso i valori desiderati per ogni singola taglia ed in
 base ai valori inseriti viene popolata la cella azzurra della quantità.
 Con l’opzione Manuale, IPOS non terrà conto del peso inserito in
 precedenza nelle sessioni “**varianti e taglie**”
 
+![image22](https://github.com/user-attachments/assets/c0fb749c-23ca-4fff-aa5c-e9b68a131483)
+
 **-SESSIONE STYLEBARCODE:** In questa sessione, vengono generati
 in automatico i barcode dei prodotti che hanno varianti colore già
 presenti in anagrafica dei prodotti “ma non quelli di colori inesistenti
 in anagrafica dei colori in base alle quantità settata nella griglia
-dell’Ordine:
+dell’Ordine.Di seguito **un esempio** di inserimento prodotto nel piano d’acquisti:
 
-<img src="./media/image23.png"
-style="width:4.1875in;height:1.54874in" />
+![image23](https://github.com/user-attachments/assets/3245ae98-d7c1-4b3e-99fa-d7526915b61a)
 
-Di seguito **un esempio** di inserimento prodotto nel piano d’acquisti:
-
-<img src="./media/image24.png"
-style="width:5.54583in;height:5.09816in" />Per generare i Barcode dei
-prodotti con varianti colori non presenti in anagrafica dei colori,
+Per generare i Barcode dei prodotti con varianti colori non presenti in anagrafica dei colori,
 bisognerà premere sul pulsante “Genera Codici a barre” presente in alto
 nella barra azioni
 
-<img src="./media/image25.png"
-style="width:6.69306in;height:1.25347in" />**-SESSIONI
-ATTRIBUTI/Logistica/Attributi Personalizzati/Immagini:** In questa
+![image24](https://github.com/user-attachments/assets/47768521-06a4-4352-8a39-e1710849f3c1)
+
+**-SESSIONI ATTRIBUTI/Logistica/Attributi Personalizzati/Immagini:** In questa
 sessione troviamo tutti gli attributi prodotto (Vedere documento
 Attributi Prodotto) presente nell’anagrafica dei prodotti per quanto
 riguarda l’articolo selezionato nella sessione “**Prodotti**”. Se
@@ -300,12 +284,14 @@ ed andrà compilata per consentire la creazione del nuovo prodotto. Ad
 esempio, bisognerà inserire il valore nel box CLASSE(Attributi), per
 indicare a quale scala taglie far riferimento.
 
+![image25](https://github.com/user-attachments/assets/c8c07cb4-72a9-4c9c-9025-e50d7917e4ef)
+
 **TAB NEGOZI:** Nella tab negozi, si trova l’elenco dei Cluster e
 dei negozi appartenenti ai cluster (nel caso di 1 negozio a Cluster, si
 avrà N° Negozi per N° Cluster).
 
-<img src="./media/image26.png"
-style="width:6.69306in;height:5.31458in" />
+![image26](https://github.com/user-attachments/assets/a3cbe472-387a-41b2-b79e-90bca2d5c9ee)
+
 
 - **Nome;** in questa colonna si avrà l’elenco dei cluster e dei loro
   negozi annessi
@@ -341,52 +327,45 @@ ecc.
 **TAB REPORT:** Nella tab Report, viene raffigurato la sessione
 Ordine sottoforma di un report da poter consultare:
 
-<img src="./media/image27.png"
-style="width:6.69306in;height:3.38125in" />
+![image27](https://github.com/user-attachments/assets/1c8eaf00-318a-4165-a8ad-cd2d72b2d199)
 
 **TAB FINANZIARIO:** In questa TAB, si avrà un report finanziario
 basato sul piano acquisti che il buyer crea e , dove è già possibile
 vedere quanto si andrà a guadagnare con la merce acquistata , osservando
 i valori nelle colonne di Margine e di Ricarico
 
-<img src="./media/image28.png"
-style="width:6.69306in;height:3.60625in" />
+![image28](https://github.com/user-attachments/assets/5ef4ce11-1003-4249-85b7-ef3129e89782)
 
 **ESEMPIO INSERIMENTO ARTICOLO NEL PIANO ACQUISTI:**
 
-<img src="./media/image12.png"
-style="width:6.69306in;height:0.88194in" />
+![image12](https://github.com/user-attachments/assets/8571781a-7adc-4a7a-857e-1ecf244d92ba)
 
-<img src="./media/image29.png"
-style="width:6.69306in;height:0.15903in" />Inoltre, si potrà decidere se
-si vorrà distribuire le quantità in maniera del tutto automatica la
+Inoltre, si potrà decidere se si vorrà distribuire le quantità in maniera del tutto automatica la
 quantità della merce che si desidera acquistare (in base allo stock e
 alla tipologia di cluster negozio) oppure, se si vorrà distribuire la
 quantità della merce acquistata degli articoli in modo manuale. Per
 farlo basta posizionare nella modalità che si preferisce il pallino
 accanto alla voce “**Modalità distribuzione quantità**”
 
+![image29](https://github.com/user-attachments/assets/c44388e6-cea1-4bf0-bb27-2dc33af8d340)
+
+
 - Per aggiungere un prodotto già esistente nel piano acquisti, bisogna
   premere sul tasto “**Seleziona prodotti**” nella barra delle azioni.
   Si aprirà la finestra di selezione dei prodotti da aggiungere:
 
-> <img src="./media/image30.png"
-> style="width:6.69306in;height:4.12569in" />
+![image30](https://github.com/user-attachments/assets/f7ca0ab9-f55d-418f-ae38-bba1a5ec215f)
 
 Per ricercare un prodotto attraverso le colonne basterà scrivere
 all’interno delle stesse il nome, il codice, oppure parte del nome o del
 codice che ci interessa cercare, o la sottofamiglia o produttore.
 
-<img src="./media/image31.png"
-style="width:6.69306in;height:3.53194in" />
+![image31](https://github.com/user-attachments/assets/bffb9ed8-cc3b-4af4-b119-b0c8456577a9)
 
-Un’ altra alternativa potrebbe essere inserire un “Barcode, Icode,
-Codice Prodotto, Nome prodotto” nel
+Un’ altra alternativa potrebbe essere inserire un “Barcode, Icode, Codice Prodotto, Nome prodotto” nel
+Box menu di ricerca
 
-<span class="mark">Box menu di ricerca</span>
-
-<img src="./media/image32.png"
-style="width:6.69306in;height:3.54861in" />
+![image32](https://github.com/user-attachments/assets/3c501a31-130a-4248-979e-0ee5aea58063)
 
 Per effettuare la ricerca di un articolo sfruttando l’elenco dei filtri
 situati sulla sinistra si procede nel seguente modo:
@@ -420,38 +399,32 @@ destra della scritta. (FIG. 4)
 
 FIG. 1
 
-<img src="./media/image33.png"
-style="width:6.69306in;height:3.15417in" />
+![image33](https://github.com/user-attachments/assets/0ef8351d-87b3-44aa-b111-bf91b68fd3e7)
 
 FIG. 2
 
-<img src="./media/image34.png"
-style="width:6.69306in;height:2.98681in" />
+![image34](https://github.com/user-attachments/assets/7f8b3965-482d-4e5e-9823-116a4ada1ee2)
 
 FIG. 3
 
-<img src="./media/image35.png"
-style="width:6.69306in;height:1.37361in" />
+![image35](https://github.com/user-attachments/assets/2d1368d0-527c-4cc7-8761-862ab325bad2)
 
 FIG. 4
 
-<img src="./media/image36.png"
-style="width:6.69306in;height:2.14167in" />
+![image36](https://github.com/user-attachments/assets/4dc04564-2ffe-46d4-b740-f4e6fc1ca2e5)
 
 **Esempio:** Aggiungere un articolo esistente in anagrafica dei
 prodotti nel piano acquisti filtrando tra le colonne della ricerca
 prodotti
 
-<img src="./media/image37.png"
-style="width:6.69306in;height:3.40833in" />
+![image37](https://github.com/user-attachments/assets/c92108a3-24c5-44d0-b388-e84527ad0319)
 
 Premere sul tasto definito dal “**check verde**” per aggiungere il
 prodotto o i prodotti nel piano acquisti. Il prodotto verrà inserito
 senza quantità iniziale sia che si scelga di distribuirla
 automaticamente che manualmente.
 
-<img src="./media/image38.png"
-style="width:6.69306in;height:0.73958in" />
+![image38](https://github.com/user-attachments/assets/10488c28-0ebb-4e2a-ab45-e9682f9cf90c)
 
 Oltre alla sessione articolo, verranno compilate anche la sessione della
 **Variante colore** “nella quale verranno inseriti il o i colori
@@ -467,17 +440,13 @@ acquisti è un articolo dell’anagrafica dei prodotti esistente, non
 potranno essere ulteriormente modificate (saranno visualizzate in
 grigio).
 
-<img src="./media/image39.png"
-style="width:6.69306in;height:3.59167in" />
+![image39](https://github.com/user-attachments/assets/07b6cb8e-b2d4-41f0-a40e-9cc71e7aaec6)
 
-<img src="./media/image40.png"
-style="width:3.83854in;height:0.35666in" />**NOTA:** Le quantità
-nella **Sessione Ordine** rimangono vuote sino a che non si vanno a
-settare le quantità nella cella azzurra quantità.
+>**NOTA:** Le quantitànella **Sessione Ordine** rimangono vuote sino a che non si vanno a
+>settare le quantità nella cella azzurra quantità.
+> ![image40](https://github.com/user-attachments/assets/24c22d25-56fb-45aa-a1f1-67179b7073f7)
 
-- <img src="./media/image41.png"
-  style="width:6.69306in;height:1.63958in" />**VARIANTE:** Nella
-  schermata del piano acquisti, una volta scelto/i gli articoli da
+- **VARIANTE:** Nella schermata del piano acquisti, una volta scelto/i gli articoli da
   acquistare, verranno inseriti con le taglie ed i colori che troviamo
   in anagrafica e nulla più. Ma, poniamo il caso che il fornitore \\
   produttore abbia una nuova **variante colore** che vogliamo acquistare
@@ -486,28 +455,28 @@ settare le quantità nella cella azzurra quantità.
   rimarranno le stesse per l’altra variante colore) premendo sull’icona
   definita dal “**simbolo +**” nella **sessione variante**
 
+![image41](https://github.com/user-attachments/assets/25d435bc-5486-459e-9bc5-455fd49ae946)
+
 - Altro modo per inserire un nuovo colore all’articolo, sarebbe quello
   di premere col tasto SX del mouse sulla scritta in grigio “**Click
   here to add a new row**” nella **cella dell’asterisco** **“\*”,** per
   far sì che IPOS permetta di poter inserire anche un nuovo colore che
   non è presente nell’anagrafica delle varianti colore
 
-<img src="./media/image42.png"
-style="width:4.84896in;height:0.94735in" />
+![image42](https://github.com/user-attachments/assets/f57e7a0d-fb90-42f6-b008-9d85492ed312)
 
 - Oppure ancora, premendo sull’icona definita dal “**simbolo +**” sarà
   possibile aggiungere anche delle Varianti colori nuove che non
   esistono in anagrafica dei prodotti per gli articoli inseriti nel pian
   acquisti.
 
-**NOTA:** Aggiungendo dei nuovi colori all’articolo inserito,
-**IPOS** fa sì che vengono create anche le taglie associate al nuovo
-colore inserito, nella sessione “**taglie**”. Inoltre i nuovi colori
-inseriti, vengono anch’essi aggiunti alla sessione della griglia
-dell’ordine macchinalmente.
+>**NOTA:** Aggiungendo dei nuovi colori all’articolo inserito,
+>**IPOS** fa sì che vengono create anche le taglie associate al nuovo
+>colore inserito, nella sessione “**taglie**”. Inoltre i nuovi colori
+>inseriti, vengono anch’essi aggiunti alla sessione della griglia
+>dell’ordine macchinalmente.
 
-<img src="./media/image43.png"
-style="width:6.69306in;height:1.34861in" />
+![image43](https://github.com/user-attachments/assets/010e412d-847f-44eb-be8d-b4ed4920a7b5)
 
 Bisognerà dunque modificare il valore del Peso per indicare l’incidenza
 dei colori sulle quantità acquistate
@@ -517,12 +486,11 @@ dei colori sulle quantità acquistate
   nella sessione taglie verranno inserite le taglie appartenenti alla
   **SizeClass** presente nella Tab “**Attributi**”
 
-<img src="./media/image44.png"
-style="width:6.69306in;height:2.66528in" />
+![image44](https://github.com/user-attachments/assets/9f2e6377-4f6f-4c4d-8aec-649368234b56)
 
-**NOTA:** Per i prodotti non ancora presenti nell’anagrafica
-degli articoli, bisognerà compilare il campo “**Classe**” nella **TAB
-“Attributi**” per veder apparire **la SizeClass “le taglie**”.
+>**NOTA:** Per i prodotti non ancora presenti nell’anagrafica
+>degli articoli, bisognerà compilare il campo “**Classe**” nella **TAB
+>“Attributi**” per veder apparire **la SizeClass “le taglie**”.
 
 Bisognerà dunque modificare il valore del Peso per indicare l’incidenza
 delle taglie sulle quantità acquistate.
@@ -541,8 +509,8 @@ Se invece la distribuzione della quantità è settata “**Manuale**”, sarà
 possibile inserire i quantitativi a proprio piacimento nelle celle delle
 taglie dell’Ordine.
 
-> <img src="./media/image45.png"
-> style="width:6.69306in;height:4.57292in" />
+![image45](https://github.com/user-attachments/assets/a5f41f5a-4e73-4358-a973-0c3dac3a7540)
+
 
 - **BARCODE**: Dopo aver inserito le quantità, per gli articoli già
   appartenenti all’anagrafica dei prodotti nella tab Barcode appariranno
@@ -551,24 +519,22 @@ taglie dell’Ordine.
   degli articoli non ancora presenti in anagrafica, o per quei colori
   ancora non presenti in anagrafica dei colori.
 
-<img src="./media/image46.png"
-style="width:6.69306in;height:3.86042in" />
+![image46](https://github.com/user-attachments/assets/0093c83a-6916-42ee-a626-4a9d0037498a)
 
 - **ORDINI:** Dopo aver generato i Barcode, premere il tasto “**Gen.
   Ordini**” sulla barra delle azioni e successivamente su “**Ok**”, per
   generare gli Ordini degli articoli acquistati per i Negozi di tutti i
   cluster
 
-<img src="./media/image47.png"
-style="width:6.69306in;height:2.74444in" />
+![image47](https://github.com/user-attachments/assets/8ce1d042-0d51-405d-88a8-71904b3f318c)
 
-<img src="./media/image48.png"
-style="width:2.60364in;height:1.18162in" />Se tutto andrà a buon fine,
-apparirà il messaggio seguente:
+Se tutto andrà a buon fine, apparirà il messaggio seguente:
+
+![image48](https://github.com/user-attachments/assets/56ba9530-a9dd-427d-a76d-ba9d3018d328)
 
 Basterà successivamente entrare nel modulo “**Ordine Fornitore**”
 (Vedere **documento Ordini Fornitore**) per vedere gli ordini appena
 generati:
 
-<img src="./media/image49.png"
-style="width:6.69306in;height:1.23194in" />
+![image49](https://github.com/user-attachments/assets/2e78822f-c9a4-4117-a8c6-fdc9a9054dee)
+
