@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Prodotti
+title: Statistiche
 parent: Report
-grand_parent: BackOffice Negozio
+grand_parent: BackOffice Sede
 nav_order: 4
 ---
 
