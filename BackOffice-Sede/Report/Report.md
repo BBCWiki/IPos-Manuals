@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Report
-parent: BackOffice Negozio
+parent: BackOffice Sede
 has_children: true
 nav_order: 2
 ---
