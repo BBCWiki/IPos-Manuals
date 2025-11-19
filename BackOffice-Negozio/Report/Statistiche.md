@@ -1,8 +1,9 @@
 ---
-title: Statistiche
 layout: home
-parent: BackOffice Negozio
-nav_order: 6
+title: Prodotti
+parent: Report
+grand_parent: BackOffice Negozio
+nav_order: 4
 ---
 
 # REPORT DI IPOS:
