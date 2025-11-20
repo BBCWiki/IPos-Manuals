@@ -3,7 +3,7 @@ layout: home
 title: Statistiche
 parent: Report
 grand_parent: BackOffice Negozio
-nav_order: 4
+nav_order: 3
 ---
 
 # REPORT DI IPOS:
