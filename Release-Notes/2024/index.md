@@ -7,19 +7,6 @@ has_toc: true
 ---
 
 # Release Notes 2024
-## Version 1.2502.0.0 Date 12/02/2025
-
-### FIXES
-##### POS:
-- Fix timeout issues on StoreDayCloses. 
-##### BO  -> 	Health Insurance
--	Fixed Health Insurance 
--  Removed rowType : Pending 
-- Verification of an already sent receipt to TS
-- Feature: Implemented the Variazione type
-
-##### BO -> Electronic Invoices
--	Correctly added rounding loss as discount
 
 ## Version 1.2412.1.0 Date 04/12/2024
 
