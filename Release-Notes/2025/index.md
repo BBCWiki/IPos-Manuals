@@ -62,7 +62,7 @@ has_toc: true
 - Removed the association between the Order and Receipt on XPO.
 - Changes for THUN File Manager
 
-- ## Date 12/12/2025  
+## Date 12/12/2025  
 ## Release 1.2512.4.0
 
 ---
