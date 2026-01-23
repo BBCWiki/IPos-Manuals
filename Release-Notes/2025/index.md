@@ -39,7 +39,8 @@ has_toc: true
 - **Promotions**: Fixes on promotions with multiple conditions on the same row.
 - **Delivery Document Report**: The report now shows the stock based on the selected Cause `WarehouseTypeId`.
 
-## Version 1.2502.0.0 Date 12/02/2025
+## Date 12/02/2025
+## Version 1.2502.0.0 
 
 ### FIXES
 ##### POS:
