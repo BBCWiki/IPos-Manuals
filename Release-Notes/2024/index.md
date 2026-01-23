@@ -624,11 +624,3 @@ The Optical Products Form allows users to efficiently retrieve information about
 - Facit - FACIT - Error Credit Note for BUONO REGALO + Resources → 'Voucher manuale': Resolved error of credit note for Gift Voucher.
 - Buyer Plan: Blocking editing as certified (from the list).
   
-
-## Version 1.2502.0.0 – 12/02/2025
-
-### Fixes
-
-#### POS
-- Fix timeout issues on StoreDayCloses
-
