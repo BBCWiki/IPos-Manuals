@@ -1,9 +1,10 @@
 ---
-title: "2024"
-parent: "Release Notes"
+title: 2024
+parent: Release Notes
 nav_order: 2
+layout: default
+has_toc: true
 ---
-
 
 # Release Notes 2024
 ## Version 1.2502.0.0 Date 12/02/2025
