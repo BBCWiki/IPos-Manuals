@@ -11,6 +11,8 @@ has_toc: true
 ## Date 16/01/2026  
 ## Release 1.2601.3.0
 
+---
+
 ## [NEW]
 
 ### Movements - Causes - Stock
