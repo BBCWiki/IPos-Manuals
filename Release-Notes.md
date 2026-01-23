@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Release Notes
-nav_order: 6
+title: Release Notes (legacy)
+nav_exclude: true
+search_exclude: true
 ---
 
 # Release Notes
