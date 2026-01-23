@@ -378,3 +378,29 @@ has_toc: true
 - Extended salesman username length from 3 to 6 characters.
 - Hidden fidelity redemption and multi-use vouchers when DynamicLevel fidelity is used.
 
+## Date 11/06/2025  
+## Release 1.2506.1.2
+
+### [NEW]
+
+#### BO – Work Order
+- Added **Delivery Date** field to the Work Order editor.
+
+#### POS
+- Added fidelity card expiration date.
+- Increased size of fidelity card textbox and points display.
+
+---
+
+## Date 04/06/2025  
+## Release 1.2506.1.0
+
+### [NEW]
+
+#### POS
+- Retrieve invoice number from the central server (HQ) for stores of the main company (`CompanyId = 1`)  
+  (StoreSetup parameter `POSInvoiceUseCentralServerProgressiveMainCompany`).
+- Fixed an issue with Promo Combo.
+- Added support for Fidelity Card points with decimals  
+  (StoreSetup parameter `FormatFidelityCardPointsWithDecimals`).
+- Fixed an issue where discounts were incorrectly applied to returned products when using a fixed discount amount.
