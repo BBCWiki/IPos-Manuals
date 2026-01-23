@@ -81,13 +81,6 @@ has_toc: true
 ### POS
 - Integrated with the Spanish fiscalization system **VeriFactu**.
 
----
-
-## [BUGFIX]
-*(No items listed)*
-
----
-
 ## [IMPROVEMENTS]
 
 ### POS
