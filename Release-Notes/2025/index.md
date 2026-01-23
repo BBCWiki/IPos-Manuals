@@ -404,3 +404,32 @@ has_toc: true
 - Added support for Fidelity Card points with decimals  
   (StoreSetup parameter `FormatFidelityCardPointsWithDecimals`).
 - Fixed an issue where discounts were incorrectly applied to returned products when using a fixed discount amount.
+
+## Date 28/03/2025  
+## Release 1.2503.7.0
+
+### POS
+- Removed direct calls to the Central Server via SQL Server and replaced them with API calls (phase 2).
+
+---
+
+## Date 27/03/2025  
+## Release 1.2503.6.0
+
+### [NEW]
+- POS: Added integration with **Modal Service CRM** for Fidelity Cards and Vouchers (IDEXE).
+
+### [FEATURES]
+- POS: Partially removed direct SQL Server calls to Central Server and replaced them with API calls (POS Vouchers).
+- WebAPI: Added SQL controller.
+
+### [FIXES]
+- Added missing procedures for the Warehouses feature.
+
+---
+
+## Date 21/03/2025  
+## Release 1.2503.5.0
+
+### [NEW]
+- POS: Added integration with **Engage CRM** for Fidelity Cards and Vouchers (THUN).
