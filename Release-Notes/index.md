@@ -1,4 +1,3 @@
-
 ---
 title: "Release Notes"
 nav_order: 90
