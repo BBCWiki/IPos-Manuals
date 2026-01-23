@@ -1,28 +1,12 @@
 title: IPos Manuals
-description: The place to be for IPOS documentation!
+description: The place to be for IPOS documentation
 theme: just-the-docs
 
 url: https://bbcwiki.github.io
 baseurl: /IPos-Manuals
 
+search_enabled: true
+
 aux_links:
   GitHub Repository:
     - https://github.com/BBCWiki/IPos-Manuals
-
-nav_sort: case_insensitive
-
-search_enabled: true
-
-# Define Jekyll collections
-collections:
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    tutorials:
-      name: Tutorials to get started quickly
-
-search:
-  button: true
