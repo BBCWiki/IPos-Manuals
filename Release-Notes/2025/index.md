@@ -1,7 +1,7 @@
 ---
 title: 2025
 parent: Release Notes
-nav_order: 1
+nav_order: 2
 layout: default
 has_toc: true
 ---
