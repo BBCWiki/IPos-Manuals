@@ -1,7 +1,6 @@
 ---
-layout: home
-title: Report
-parent: BackOffice Sede
-has_children: true
-nav_order: 2
+layout: default
+title: Dynamics Report
+parent: Report
+nav_order: 3
 ---
