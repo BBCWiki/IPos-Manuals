@@ -2,7 +2,6 @@
 layout: default
 title: Statistiche
 parent: Report
-grand_parent: BackOffice Sede
 nav_order: 4
 ---
 
