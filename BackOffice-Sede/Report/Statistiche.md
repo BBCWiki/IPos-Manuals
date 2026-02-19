@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Statistiche
 parent: Report
 grand_parent: BackOffice Sede
