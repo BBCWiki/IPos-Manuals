@@ -1,9 +1,8 @@
 ---
-layout: home
-title: DynamicsReport
+layout: default
+title: Report su richiesta
 parent: Dynamics Report
-grand_parent: BackOffice Sede
-nav_order: 4
+nav_order: 1
 ---
 
 # ***REPORT SU RICHIESTA:***
