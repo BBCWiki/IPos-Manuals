@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Report
 parent: BackOffice Sede
 has_children: true
